@@ -21,5 +21,12 @@ Project Artemis Files
 - [ ] Get user location
 - [ ] Get user device info
 - [ ] Get list of installed apps
+- [ ] get browser history
+- [ ] Start procedure of getting user files and images
+
+## Extra Features
+
+-[ ] Extract WhatsApp messages
+-[ ] Extract Telegram messages
 
 
