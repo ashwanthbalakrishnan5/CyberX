@@ -1,0 +1,9 @@
+Argus Log File for Session 765729
+
+Session Start Time: 2023-05-05 23:06:20
+
+--------------------------------------------------
+
+2023-05-05 23:06:20
+adb start-server
+Output:

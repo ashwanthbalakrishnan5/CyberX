@@ -5,7 +5,7 @@ Project Artemis Files
 # Things to do
 
 ## Extraction SubSystem
-- [ ] Detect if the android device is in adb mode
+- [x] Detect if the android device is in adb mode
 - [ ] Create a local secure hotspot on ubuntu device
 - [ ] Create apk that will allow us to connect to this hotspot.
 - [ ] Send keystrokes via adb to the android device to grant permission and connect to the hotspot using a static IP.
