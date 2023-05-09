@@ -26,7 +26,21 @@ Project Artemis Files
 
 ## Extra Features
 
--[ ] Extract WhatsApp messages
--[ ] Extract Telegram messages
+- [ ] Extract WhatsApp messages
+- [ ] Extract Telegram messages
+
+## Ashwanth Status
+
+- [x] Django API web app initialize
+- [ ] List out all API urls
+- [ ] Define function for "start listening" button 
+- [ ] Filterting data based on url parameters
+- [x] retrieve photo & video metadata
+- [ ] retrieve audio metadata``
+- [x] facial recognition on images
+
+### Extra Ideas
+- [ ] image analysis on weapons and drugs
+- [ ] 
 
 
