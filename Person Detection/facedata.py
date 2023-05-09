@@ -13,3 +13,4 @@ for image in set_of_images:
 
 with open('set_of_encodings.pkl', 'wb') as f:
     pickle.dump(set_of_encodings, f)
+    
