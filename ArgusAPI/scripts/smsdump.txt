@@ -1,0 +1,668 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2023-05-01 02:44:07.9463851 +0530
+OS: Android 13 - Linux 4.19.157-perf-ge57e9c7b9b8e (aarch64)
+Remote IP: 192.168.1.3
+Remote Port: 48300
+
+#1
+Type	: Incoming
+Date	: 2023-04-30 15:16:34
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Airtel pack on 9600126555 ends TONIGHT. Recharge with your favourite Unlimited Pack for continued services i.airtel.in/FDPNew Ignore if already done
+
+#2
+Type	: Incoming
+Date	: 2023-04-30 13:20:07
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data
+
+#3
+Type	: Incoming
+Date	: 2023-04-30 13:18:52
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#4
+Type	: Incoming
+Date	: 2023-04-30 13:12:14
+Address	: 51501
+Status	: NOT_RECEIVED
+Message	: G-222180 is your Google verification code.
+
+#5
+Type	: Incoming
+Date	: 2023-04-30 12:26:08
+Address	: Airtel
+Status	: NOT_RECEIVED
+Message	: Enjoy 1.5GB/day data, unlimited Local, STD & Roaming calls on any network and 100 SMS/day. Pack valid for 28 days. UNLIMITED 5G data over & above your plan limit, claim on Airtel Thanks App.
+
+#6
+Type	: Incoming
+Date	: 2023-04-30 12:26:07
+Address	: Airtel
+Status	: NOT_RECEIVED
+Message	: Recharge of INR 299.00 is successful for your Airtel Mobile on 30-04-2023 12:26, Transaction ID 1726493499.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref
+
+#7
+Type	: Incoming
+Date	: 2023-04-30 12:26:06
+Address	: AT-AIRINF
+Status	: NOT_RECEIVED
+Message	: Hi, Your Prepaid recharge of Rs. 299.0 is success against Order Id 7058333101172105216. Please keep the Order ID for future reference.
+
+#8
+Type	: Incoming
+Date	: 2023-04-30 12:26:04
+Address	: AD-Airtel
+Status	: NOT_RECEIVED
+Message	: Hi, recharge of Rs. 299 successfully credited to your Airtel number 9600126555, also the validity has been extended till 28-05-2023.
+
+#9
+Type	: Incoming
+Date	: 2023-04-30 12:26:03
+Address	: AT-AIRINF
+Status	: NOT_RECEIVED
+Message	: Hi, we have processed Rs. 299.0 for your Airtel Mobile 9600126555. The payment will be updated within 1 hrs. Please keep your order ID 7058333101172105216 for future reference. Track your payment status via https://i.airtel.in/Recharge-Bills
+
+#10
+Type	: Incoming
+Date	: 2023-04-30 12:26:03
+Address	: AX-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 299.00 on 4/30/2023 12:26:02 PM to airtel info :P2A/312095547554. Not You? call 18005721916-KVB
+
+#11
+Type	: Incoming
+Date	: 2023-04-30 12:24:26
+Address	: AT-AIRINF
+Status	: NOT_RECEIVED
+Message	: <#> 1509 is your OTP to login into Airtel Thanks app. OTP valid for 15 mins. Do not share with anyone. If this was not you click i.airtel.in/Contact N9BWuqauU1y
+
+#12
+Type	: Incoming
+Date	: 2023-04-30 12:23:15
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#13
+Type	: Incoming
+Date	: 2023-04-30 05:51:57
+Address	: JM-KVBANK
+Status	: NOT_RECEIVED
+Message	: KVB ALERT * INR 8,601.48 is the Balance in a/c ****5476 as of 30-APR-2023 00:11:47 * Download KVB-DLite mobile app from http://I9f.in/oorC0e
+
+#14
+Type	: Incoming
+Date	: 2023-04-29 21:05:06
+Address	: VM-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is credited Rs. 20.00 from Aadityaa Nagarajan on 4/29/2023 9:05:02 PM.info :UPI/P2A/311981147520 -KVB
+
+#15
+Type	: Incoming
+Date	: 2023-04-29 19:44:30
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Your Airtel pack ends TOMORROW. If not recharged, outgoing services will stop. Recharge without losing your current validity i.airtel.in/FDPNew Ignore if done
+
+#16
+Type	: Incoming
+Date	: 2023-04-29 15:25:54
+Address	: CP-KVNTRS
+Status	: NOT_RECEIVED
+Message	: Keep it cool with the All-New Sparkling Iced Beverages & Thick Shakes at the nearest KEVENTERS store. Get Rs100 OFF on Rs300 bill. Use code 04293I1ISW13 by 1May
+
+#17
+Type	: Incoming
+Date	: 2023-04-29 14:12:51
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data
+
+#18
+Type	: Incoming
+Date	: 2023-04-29 14:01:52
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#19
+Type	: Incoming
+Date	: 2023-04-29 12:36:25
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#20
+Type	: Incoming
+Date	: 2023-04-29 11:39:15
+Address	: AD-ARTLTV
+Status	: NOT_RECEIVED
+Message	: Congratulations on your recent recharge of Xstream mobile pack. Enjoy 26 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid
+
+#21
+Type	: Incoming
+Date	: 2023-04-29 10:02:09
+Address	: AD-KVNTRS
+Status	: NOT_RECEIVED
+Message	: Let the slurrp begin, AGAIN @ KEVENTERS! Buy 2 reg milkshakes & get 1 reg classic shake FREE. Use code PXWTVRJKAB by 6May. TnC apply
+
+#22
+Type	: Incoming
+Date	: 2023-04-29 08:00:12
+Address	: AIRMCA
+Status	: NOT_RECEIVED
+Message	: 1 missed call(s) received on 29-04-2023 while you were unreachable. Track your missed calls ONLY on latest version of Airtel Thanks App i.airtel.in/alert
+
+#23
+Type	: Incoming
+Date	: 2023-04-28 21:44:42
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:18 Bal:Rs2.91.
+
+#24
+Type	: Incoming
+Date	: 2023-04-28 19:26:45
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:29 Bal:Rs2.91.
+
+#25
+Type	: Incoming
+Date	: 2023-04-28 19:09:31
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Airtel Unlimited Pack validity for 9600126555 is till 30-Apr-23. Recharge TODAY without losing your current validity i.airtel.in/FDPNew Ignore if already done
+
+#26
+Type	: Incoming
+Date	: 2023-04-28 18:28:45
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:53 Bal:Rs2.91.
+
+#27
+Type	: Incoming
+Date	: 2023-04-28 18:26:34
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:06 Bal:Rs2.91.
+
+#28
+Type	: Incoming
+Date	: 2023-04-28 17:52:59
+Address	: 51501
+Status	: NOT_RECEIVED
+Message	: G-862414 is your Google verification code.
+
+#29
+Type	: Incoming
+Date	: 2023-04-28 17:49:28
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:35 Bal:Rs2.91.
+
+#30
+Type	: Incoming
+Date	: 2023-04-28 17:41:49
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:43 Bal:Rs2.91.
+
+#31
+Type	: Incoming
+Date	: 2023-04-28 17:28:56
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:56 Bal:Rs2.91.
+
+#32
+Type	: Incoming
+Date	: 2023-04-28 13:42:50
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:11 Bal:Rs2.91.
+
+#33
+Type	: Incoming
+Date	: 2023-04-28 12:57:01
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:09 Bal:Rs2.91.
+
+#34
+Type	: Incoming
+Date	: 2023-04-28 10:39:56
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#35
+Type	: Incoming
+Date	: 2023-04-28 10:39:55
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data
+
+#36
+Type	: Incoming
+Date	: 2023-04-28 10:26:57
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#37
+Type	: Incoming
+Date	: 2023-04-28 05:54:24
+Address	: JM-KVBANK
+Status	: NOT_RECEIVED
+Message	: KVB ALERT * INR 8,581.48 is the Balance in a/c ****5476 as of 28-APR-2023 00:04:39 * Download KVB-DLite mobile app from http://I9f.in/oorC0e
+
+#38
+Type	: Incoming
+Date	: 2023-04-28 03:09:57
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#39
+Type	: Incoming
+Date	: 2023-04-27 16:35:55
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Airtel pack on 9600126555 ends on 30-Apr-23. Recharge today without losing your current validity i.airtel.in/FDPNew Ignore if already done
+
+#40
+Type	: Incoming
+Date	: 2023-04-27 16:34:26
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data
+
+#41
+Type	: Incoming
+Date	: 2023-04-27 14:36:16
+Address	: BP-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 1909.00 on 4/27/2023 2:36:14 PM to EZHIL S info :P2A/311794109014. Not You? call 18005721916-KVB
+
+#42
+Type	: Incoming
+Date	: 2023-04-27 14:26:39
+Address	: BP-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is credited Rs. 367.00 from ASHWANTH on 4/27/2023 2:26:37 PM.info :UPI/P2A/348309724194 -KVB
+
+#43
+Type	: Incoming
+Date	: 2023-04-27 14:01:13
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:26 Bal:Rs2.91.
+
+#44
+Type	: Incoming
+Date	: 2023-04-27 14:00:30
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:34 Bal:Rs2.91.
+
+#45
+Type	: Incoming
+Date	: 2023-04-27 12:30:00
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#46
+Type	: Incoming
+Date	: 2023-04-27 12:09:03
+Address	: AD-ARTLTV
+Status	: NOT_RECEIVED
+Message	: Congratulations! Your, Rs.148.0 recharge offers you FREE 28 DAYS of access to live sports, blockbusters hits like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF2
+
+#47
+Type	: Incoming
+Date	: 2023-04-27 10:51:26
+Address	: AX-KVBUPI
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 4/27/2023 10:51:24 AM to SOWKEA AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/311786531461. Not You? call 18005721916-KVB
+
+#48
+Type	: Incoming
+Date	: 2023-04-27 10:42:42
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:07 Bal:Rs2.91.
+
+#49
+Type	: Incoming
+Date	: 2023-04-27 10:36:58
+Address	: AX-KPNBUS
+Status	: NOT_RECEIVED
+Message	: $U$Dear Customer, 058292 is your onetime password(OTP). Please enter the OTP to proceed. Thank you, KPN Travels.-0x4465617220437573746f6d65722c200a30353832393220697320796f7572206f6e652d74696d652070617373776f7264284f5450292e20506c6561736520656e74657220746865204f545020746f2070726f636565642e200a5468616e6b20796f752c200a4b504e2054726176656c732e
+
+#50
+Type	: Incoming
+Date	: 2023-04-27 10:35:47
+Address	: AX-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 8.00 on 4/27/2023 10:35:46 AM to MSP Xerox info :P2A/311785992782. Not You? call 18005721916-KVB
+
+#51
+Type	: Outgoing
+Date	: 2023-04-27 10:32:35
+Address	: 8220273849
+Status	: NOT_RECEIVED
+Message	: Check watsapp
+
+#52
+Type	: Incoming
+Date	: 2023-04-27 10:28:17
+Address	: +918220273849
+Status	: NOT_RECEIVED
+Message	: Enna enna da iruku?
+
+#53
+Type	: Outgoing
+Date	: 2023-04-27 10:28:10
+Address	: 8220273849
+Status	: NOT_RECEIVED
+Message	: Wogay
+
+#54
+Type	: Outgoing
+Date	: 2023-04-27 10:28:07
+Address	: 8220273849
+Status	: NOT_RECEIVED
+Message	: For ticket
+
+#55
+Type	: Incoming
+Date	: 2023-04-27 10:28:06
+Address	: +918220273849
+Status	: NOT_RECEIVED
+Message	: Omni bus stand
+
+#56
+Type	: Outgoing
+Date	: 2023-04-27 10:27:47
+Address	: 8220273849
+Status	: NOT_RECEIVED
+Message	: Boarding point yedhu?
+
+#57
+Type	: Incoming
+Date	: 2023-04-27 10:27:34
+Address	: +918220273849
+Status	: NOT_RECEIVED
+Message	: Class da
+
+#58
+Type	: Incoming
+Date	: 2023-04-27 10:12:37
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:18 Bal:Rs2.91.
+
+#59
+Type	: Incoming
+Date	: 2023-04-27 10:03:44
+Address	: VK-MMTRIP
+Status	: NOT_RECEIVED
+Message	: [#] 983048 is the OTP to create your MakeMyTrip account. We don't ask for your OTP/bank info. Don't share it with anyone. Fkkno1xnYMa - MMT
+
+#60
+Type	: Incoming
+Date	: 2023-04-27 10:03:36
+Address	: VK-MMTRIP
+Status	: NOT_RECEIVED
+Message	: [#] 767987 is the OTP to create your MakeMyTrip account. We don't ask for your OTP/bank info. Don't share it with anyone. Fkkno1xnYMa - MMT
+
+#61
+Type	: Incoming
+Date	: 2023-04-27 09:48:45
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:24 Bal:Rs2.91.
+
+#62
+Type	: Incoming
+Date	: 2023-04-27 09:21:51
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:28 Bal:Rs2.91.
+
+#63
+Type	: Incoming
+Date	: 2023-04-27 09:07:17
+Address	: AX-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 4/27/2023 9:07:16 AM to SRRC GYMKHAANA SELF 1 info :P2A/348334211479. Not You? call 18005721916-KVB
+
+#64
+Type	: Incoming
+Date	: 2023-04-27 09:02:18
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:54 Bal:Rs2.91.
+
+#65
+Type	: Incoming
+Date	: 2023-04-27 08:26:36
+Address	: CP-REDBUS
+Status	: NOT_RECEIVED
+Message	: <#> 141055 is your Account Login OTP. DO NOT SHARE this with bus operator or anyone. OTP valid for 15 mins. Team redBus xCvl+Lo2HH8
+
+#66
+Type	: Incoming
+Date	: 2023-04-27 06:09:04
+Address	: JM-KVBANK
+Status	: NOT_RECEIVED
+Message	: KVB ALERT * INR 10,231.48 is the Balance in a/c ****5476 as of 27-APR-2023 00:21:17 * Download KVB-DLite mobile app from http://I9f.in/oorC0e
+
+#67
+Type	: Incoming
+Date	: 2023-04-26 20:17:26
+Address	: AX-KVBUPI
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 120.00 on 4/26/2023 8:17:25 PM to TARUN SATISH info :P2A/311673855149. Not You? call 18005721916-KVB
+
+#68
+Type	: Incoming
+Date	: 2023-04-26 19:54:34
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:19 Bal:Rs2.91.
+
+#69
+Type	: Incoming
+Date	: 2023-04-26 19:42:22
+Address	: 503501
+Status	: NOT_RECEIVED
+Message	: Your Confirmation code: 399371 Sent from Riot Games
+
+#70
+Type	: Outgoing
+Date	: 2023-04-26 19:18:17
+Address	: 9500522229
+Status	: NOT_RECEIVED
+Message	: Okay
+
+#71
+Type	: Incoming
+Date	: 2023-04-26 19:06:57
+Address	: +919500522229
+Status	: NOT_RECEIVED
+Message	: $U$She replied -0x536865207265706c69656420f09f9186
+
+#72
+Type	: Incoming
+Date	: 2023-04-26 19:06:37
+Address	: +919500522229
+Status	: NOT_RECEIVED
+Message	: Ok mam
+
+#73
+Type	: Incoming
+Date	: 2023-04-26 19:05:38
+Address	: +919500522229
+Status	: NOT_RECEIVED
+Message	: Sorry mam, he will be reaching on Wednesday early morning, May 3.
+
+#74
+Type	: Incoming
+Date	: 2023-04-26 19:02:44
+Address	: +919500522229
+Status	: NOT_RECEIVED
+Message	: $U$Hi Mam, This is Selvi, Guhans mom. How are you? Guhan will be coming home for this weekend and reach VIT on Tuesday early morning. Kindly grant him permission to leave the college on Friday evening, Apr 28 until Tuesday morning, May 3. Thank you very much for your kind support and service.Selvi.-0x4869204d616d2c20546869732069732053656c76692c20477568616ee2809973206d6f6d2e20486f772061726520796f753f20477568616e2077696c6c20626520636f6d696e6720686f6d6520666f722074686973207765656b656e6420616e6420726561636820564954206f6e2054756573646179206561726c79206d6f726e696e672e204b696e646c79206772616e742068696d207065726d697373696f6e20746f206c656176652074686520636f6c6c656765206f6e20467269646179206576656e696e672c2041707220323820756e74696c2054756573646179206d6f726e696e672c204d617920332e205468616e6b20796f752076657279206d75636820666f7220796f7572206b696e6420737570706f727420616e6420736572766963652e0a0a53656c76692e
+
+#75
+Type	: Incoming
+Date	: 2023-04-26 18:11:48
+Address	: AD-ARTLTV
+Status	: NOT_RECEIVED
+Message	: Congratulations on your recent recharge of Xstream mobile pack. Enjoy 28 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things & more on your Airtel Xstream app at no extra cost. To claim your benefit download the latest version of Airtel Xstream app https://open.airtelxstream.in/WCF
+
+#76
+Type	: Incoming
+Date	: 2023-04-26 18:11:40
+Address	: AX-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 148.00 on 4/26/2023 6:11:30 PM to EURONETGPAY info :P2A/311666749881. Not You? call 18005721916-KVB
+
+#77
+Type	: Incoming
+Date	: 2023-04-26 18:11:40
+Address	: Airtel
+Status	: NOT_RECEIVED
+Message	: 2/2 Xstream App now open.airtelxstream.in/Xstream_Mobile
+
+#78
+Type	: Incoming
+Date	: 2023-04-26 18:11:37
+Address	: Airtel
+Status	: NOT_RECEIVED
+Message	: Recharge of INR 148.00 is successful for your Airtel Mobile on 26-04-2023 18:11, Transaction ID 1521923486.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref
+
+#79
+Type	: Incoming
+Date	: 2023-04-26 17:43:34
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 1GB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge
+
+#80
+Type	: Incoming
+Date	: 2023-04-26 16:17:05
+Address	: AD-KVBANK
+Status	: NOT_RECEIVED
+Message	: Your a/c XXXXXXXXXXXX5476 is debited Rs. 98.00 on 4/26/2023 4:17:00 PM to SHREE VARSAAN RAMESH info :P2A/311662672180. Not You? call 18005721916-KVB
+
+#81
+Type	: Incoming
+Date	: 2023-04-26 16:06:41
+Address	: VK-AxisBk
+Status	: NOT_RECEIVED
+Message	: Registration for Google Pay app has started. Do not share your card details/OTP/CVV to avoid financial loss. If not you, call 18001035577 - Axis Bank
+
+#82
+Type	: Outgoing
+Date	: 2023-04-26 16:06:39
+Address	: +917304459009
+Status	: NOT_RECEIVED
+Message	: UPIACT &*&*p3*&&vD&#&IR&&#&*eDsRM&&#2&*@43@N7*&T*&yF&NL&1
+
+#83
+Type	: Outgoing
+Date	: 2023-04-26 16:06:38
+Address	: +917208088410
+Status	: NOT_RECEIVED
+Message	: SBIUPI kr1VtYt5do1b0AJhu0dGleN9Utu4hhi0nV%2BTmzsjxx%2Be7CEXg5xP7%2B%2BX9EDtVaTL!6e61062ba35d3cb0809ba74ffd652d23ed77b6814a868f0adcf0d16ae4aab196
+
+#84
+Type	: Incoming
+Date	: 2023-04-26 16:06:32
+Address	: TM-ICICIB
+Status	: NOT_RECEIVED
+Message	: Dear Customer, registration for Google Pay has started for ICICI Bank. If it was not you, report to your bank. Do not share card details/OTP/CVV with anyone.
+
+#85
+Type	: Outgoing
+Date	: 2023-04-26 16:06:30
+Address	: +917428309373
+Status	: NOT_RECEIVED
+Message	: JP7 vS7525cF*M3T*U7*4IC6g81I1HL9OB*g0*2**V7d*R***S*A
+
+#86
+Type	: Outgoing
+Date	: 2023-04-26 16:06:26
+Address	: +917428309373
+Status	: NOT_RECEIVED
+Message	: JP7 1K23*Sh**4ld8tMX*UQz*E**AV5H*5*5*52Oy
+
+#87
+Type	: Incoming
+Date	: 2023-04-26 16:06:16
+Address	: 51403
+Status	: NOT_RECEIVED
+Message	: DO NOT SHARE: Your Google Pay OTP is 897294. Message ID: f6f01vO3FNp
+
+#88
+Type	: Incoming
+Date	: 2023-04-26 15:50:14
+Address	: 56161940
+Status	: NOT_RECEIVED
+Message	: Your Mi Account 55*****970 verification code is 560544. This code is valid for 5 minutes.
+
+#89
+Type	: Incoming
+Date	: 2023-04-26 15:21:20
+Address	: 57575464
+Status	: NOT_RECEIVED
+Message	: 614226 is your GitHub authentication code.
+
+#90
+Type	: Incoming
+Date	: 2023-04-26 14:16:31
+Address	: AT-ARWGOV
+Status	: NOT_RECEIVED
+Message	: To complain about demand of Bribes by any Central Govt Depts,Banks,PSUs etc.Contact CBI ACB Shastri Bhawan, Nungambakkam, Chennai.Ph No 9445160988, 04428273186, 04428270992
+
+#91
+Type	: Incoming
+Date	: 2023-04-26 13:10:08
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:07 Bal:Rs2.91.
+
+#92
+Type	: Incoming
+Date	: 2023-04-26 11:09:24
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data
+
+#93
+Type	: Incoming
+Date	: 2023-04-26 11:09:22
+Address	: AT-AIRTEL
+Status	: NOT_RECEIVED
+Message	: 100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data
+
+#94
+Type	: Incoming
+Date	: 2023-04-26 10:53:36
+Address	: 51501
+Status	: NOT_RECEIVED
+Message	: G-784981 is your Google verification code.
+
