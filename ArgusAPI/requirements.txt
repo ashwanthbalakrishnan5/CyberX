@@ -1,5 +1,8 @@
 django
+django-filter
 django-phonenumber-field[phonenumbers]
+djangorestframework 
+mysql-connector-python
+mysqlclient
 pytz
-
 
