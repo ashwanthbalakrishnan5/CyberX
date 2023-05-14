@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap');
+
+input[type=text] {
+    font-family: 'Kanit', sans-serif;
+    height: 57px;
+    width: 60%;
+    border: 2px solid #444B57;
+    background: #333740;
+    border-radius: 15px;
+    background-image: url(../assets/search-icon.png);
+    background-repeat: no-repeat;
+    background-position: 20px 15px;
+    text-indent:67px;
+    color: white;
+    
+}
+
+.dashboard-title {
+    color: white;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    display: inline;
+    /* margin-left: 10px; */
+    margin-right: 20px;
+}

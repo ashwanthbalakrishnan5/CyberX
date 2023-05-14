@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap");
+
+:root {
+  --background: #22242b;
+  --card-color: #333740;
+  --accent-color: #487cff;
+  --border-color: #444b57;
+}
+
+body {
+  background-color: var(--background);
+  font-family: "Kanit", sans-serif;
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.heading {
+  color: white;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 43px;
+  line-height: 64px;
+  padding-top: 40px;
+}
+
+.sub-heading {
+  top: 60px;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 39px;
+}
+
+.device-card {
+  background-color: var(--card-color);
+  border: 2px solid var(--border-color);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  width: 40%;
+  height: 690px;
+  position: relative;
+  filter: drop-shadow(7px 6px 40px rgba(0, 0, 0, 0.25));
+}
+
+.contain-text {
+  color: white;
+  margin-top: 80px;
+}
+
+.contain-text .heading {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.contain-text .sub-heading {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.device-card button {
+  font-family: "Kanit";
+  font-style: normal;
+  font-size: 19px;
+  color: white;
+  background: rgba(147, 66, 66, 0.56);
+  border: 1px solid #eb5858;
+  border-radius: 10px;
+  width: 85%;
+  margin-top: 15%;
+}

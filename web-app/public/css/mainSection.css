@@ -1,0 +1,74 @@
+/* width */
+::-webkit-scrollbar {
+  width: 11px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--border-color);
+  border-radius: 20px;
+
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--background);
+  border-radius: 20px;
+}
+
+.entire-content-holder{
+  width: 80%;
+  margin-top: 30px;
+}
+
+.main-section {
+  width: 97%;
+  height: 710px;
+  background: #333740;
+  border: 2px solid #444b57;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.content-wrapper {
+  /* background-color: red; */
+  height: 600px;
+  gap: 20px;
+  overflow: auto;
+}
+
+.contact-card {
+  width: 80%;
+  height: 100px;
+  background: #22242B;
+  border-radius: 20px;
+}
+
+.profile {
+  background: #D9D9D9;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.contact-name {
+  color: white;
+  margin-bottom: 0;
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.contact-phno {
+  color: white;
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 19px;
+}
+
+.link-tag {
+  text-decoration: none;
+}

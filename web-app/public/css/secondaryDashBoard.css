@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap");
+
+.device-info {
+  width: 80%;
+  height: 250px;
+  /* card color */
+  background: #333740;
+  /* border */
+  border: 2px solid #444b57;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.content-holder {
+  width: 90%;
+  height: 780px;
+  /* card color */
+  background: #333740;
+  /* border */
+  border: 2px solid #444b57;
+  box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.sq-card {
+  width: 260px;
+  height: 260px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #3c414a;
+  /* border */
+  border: 2px solid #444b57;
+  border-radius: 20px;
+}
+
+.status {
+  width: 78px;
+  height: 30px;
+  background: #71c970;
+  border: 2px solid #c5e2c5;
+  border-radius: 20px;
+  color: white;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.num {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 83px;
+  color: white;
+}
+
+.tag {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  color: white;
+  margin-right: 20px;
+}
+
+.below-row {
+  margin-top: 90px;
+}
+
+.model {
+  color: white;
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 31px;
+}
+
+.battery-percentage,
+.vnet {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  color: #b1b1b1;
+}
+
+.sync-status {
+  width: 80%;
+  height: 50px;
+  background: #954f27;
+  border: 2px solid #e6b099;
+  border-radius: 20px;
+}
+
+.sync-status p {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+}
+
+.android-v, .root-status {
+  width: 100px;
+  height: 30px;
+  /* On Card Color */
+  background: #3c414a;
+  /* Primary Color */
+  border: 1px solid #487cff;
+  border-radius: 20px;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+.mobile-card-holder {
+    margin-top: 100px;
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+    gap: 20px;
+    overflow: auto;
+    height: 600px;
+}
+.mobile-card-holder::-webkit-scrollbar {
+    margin-right: 10px;
+ }
+.mobile-card{
+    background: #3C414A;
+    border-radius: 20px;
+    width: 90%;
+    color: white;
+    font-size: 19px;
+}
+
+.model {
+    font-size: 22px;
+    margin: 0;
+}
+
+.android-version {
+    margin: 0;
+}
+
+.progress-circle {
+    margin-left: 10px;
+}

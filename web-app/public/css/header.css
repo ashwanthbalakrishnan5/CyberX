@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap');
+
+:root {
+    --background: #22242B;
+    --card-color: #333740;
+    --accent-color: #487CFF;
+    --border-color: #444B57;
+}
+
+* {
+    font-family: 'Kanit', sans-serif;
+}
+
+body {
+    background-color: var(--background);
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: var(--background);
+}
+
+.navbar-brand {
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.disconnect-button {
+    width: 120px;
+    height: auto;
+    margin-right: 30px;
+}
+
+.nav-link {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;  
+     
+}
+
+.navbar-nav > li{
+    margin-left:15px;
+    margin-right:15px;
+  }
