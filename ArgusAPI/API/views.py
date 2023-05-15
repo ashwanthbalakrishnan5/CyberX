@@ -3,6 +3,7 @@ from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
+from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
@@ -22,11 +23,13 @@ def status(request):
 class CallLogViewSet(ReadOnlyModelViewSet):
     queryset = CallLog.objects.all()
     serializer_class = CallLogSerializer
-    filter_backends = [DjangoFilterBackend]
-    filterset_fields = ['duration','call_type']
+    filter_backends = [DjangoFilterBackend,OrderingFilter]
+    filterset_fields = ['duration','call_type','number']
+    ordering_fields = ['datetime','duration']
 
 class SmsLogViewSet(ReadOnlyModelViewSet):
     queryset = SmsLog.objects.all()
     serializer_class = SmsLogSerializer
-    filter_backends = [DjangoFilterBackend]
+    filter_backends = [DjangoFilterBackend,SearchFilter]
     filterset_class = SmsLogFilter
+    search_fields = ['address','message']
