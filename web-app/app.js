@@ -15,6 +15,10 @@ app.get("/", (req,res)=>{
     res.render("secondaryDashBoard")
 })
 
+app.get("/contacts", (req,res)=>{
+    res.render("contacts")
+})
+
 app.get("/dashboard", (req,res)=>{
     res.render("mainDashBoard")
 })

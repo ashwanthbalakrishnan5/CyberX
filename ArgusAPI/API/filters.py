@@ -35,7 +35,7 @@ class CallLogFilter(filters.FilterSet):
     )
     class Meta:
         model = CallLog
-        fields = ['start_date', 'end_date','is_known','is_international']
+        fields = ['start_date', 'end_date','is_known','is_international','call_type']
 
 class ContactsFilter(filters.FilterSet):
     class Meta:

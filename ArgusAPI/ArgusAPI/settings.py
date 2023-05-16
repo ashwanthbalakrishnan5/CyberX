@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'argus',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'ajay1234'
+        'PASSWORD': 'Aadi2606'
     }
 }
 
@@ -117,7 +117,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC+5:30'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
