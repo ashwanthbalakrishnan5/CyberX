@@ -18,16 +18,18 @@ class Device(models.Model):
 class Contacts(models.Model):
     name = models.CharField(max_length=255)
     number = PhoneNumberField(default='+91')
-    thumbnail = models.ImageField(upload_to=None)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE)
+    thumbnail = models.ImageField(upload_to=None,null=True)
+    device = models.ForeignKey(Device, on_delete=models.CASCADE,null=True)
 
 
 class CallLog(models.Model):
     INCOMING = 'Incoming'
     OUTGOING = 'Outgoing'
+    MISSED = 'Missed'
     CALL_TYPE_CHOICES = [
         (INCOMING, 'Incoming'),
         (OUTGOING, 'Outgoing'),
+        (MISSED ,'Missed')
     ]
 
     number = PhoneNumberField(default='+91')
@@ -35,7 +37,7 @@ class CallLog(models.Model):
     datetime = models.DateTimeField()
     duration = models.PositiveIntegerField()
     contacts = models.ForeignKey(
-        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True, blank=True)
+        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
 
 
 class SmsLog(models.Model):
@@ -50,4 +52,4 @@ class SmsLog(models.Model):
     datetime = models.DateTimeField()
     message = models.TextField()
     Contacts = models.ForeignKey(
-        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True, blank=True)
+        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)

@@ -2,7 +2,8 @@ django
 django-filter
 django-phonenumber-field[phonenumbers]
 djangorestframework 
+django-cors-headers
 mysql-connector-python
 mysqlclient
 pytz
-
+whitenoise

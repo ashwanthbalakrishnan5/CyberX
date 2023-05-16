@@ -1,0 +1,29 @@
+Main dashboard:
+start extraction api call
+    ->on click start the backend process reply should give 
+        ->device found waiting for adb permission.
+        ->device not found
+        
+    ->if device found and adb permission enabled
+        ->make api call for device info
+            ->battery percentage
+            ->vnet status
+            ->android version
+            ->model name
+            ->data sync status (synced,still syncing)
+
+    ->call logs
+        ->phone numbers
+            ->all (should return incomming,outgoing,missed calls along with name/number in cronological order)
+            ->known (should return those numbers which have name)
+            ->unknown (should return numbers those dont have a name)
+            ->internation numbers (should return those numbers with different country code)
+            ->outgoing (should contain the calls with outgoing tag)
+            ->incomming (should return the calls with incomming tag)
+            ->start date - end date (should return the call-logs within the range)
+            ->start time - end time (should reutrn the call-logs withing the time range)
+            
+            ->frequency > (should return the call logs with frequecy greater)
+
+     ->disconnect button
+        ->initiates diconnection (should disconnect and return the status)

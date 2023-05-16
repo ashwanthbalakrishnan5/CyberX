@@ -11,7 +11,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
 # Import the CallLog model from  app's models.py
-from API.models import SmsLog
+from API.models import SmsLog, Contacts
 
 def import_sms_logs():
     with open('smsdump.txt', 'r') as file:
@@ -22,13 +22,27 @@ def import_sms_logs():
     for match in matches:
         sms_type, date_str, address, status, message = match
         date = timezone.make_aware(datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S"))
-
-        sms_log = SmsLog(
-            sms_type=sms_type,
-            address=address,
-            datetime=date,
-            message=message
-        )
+        try:
+            address_last_10 = address[-10:]
+        except IndexError:
+            address_last_10 = address
+        try:
+            contact = Contacts.objects.filter(number__endswith=address_last_10).first()
+            sms_log = SmsLog(
+                sms_type=sms_type,
+                address=address,
+                datetime=date,
+                message=message,
+                Contacts=contact
+            )
+        except Contacts.DoesNotExist:
+            sms_log = SmsLog(
+                sms_type=sms_type,
+                address=address,
+                datetime=date,
+                message=message,
+                Contacts=None
+            )
         sms_log.save()
 
 # Run the import function

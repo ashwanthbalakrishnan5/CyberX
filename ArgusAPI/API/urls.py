@@ -5,7 +5,7 @@ from . import views
 router = SimpleRouter()
 router.register('CallLog', views.CallLogViewSet)
 router.register('SmsLog', views.SmsLogViewSet)
-
+router.register('Contacts',views.ContactsViewSet)
 urlpatterns = [
     path('StartListening/', views.start_listerning),
     path('status/', views.status),

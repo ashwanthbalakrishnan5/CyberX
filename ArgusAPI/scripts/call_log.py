@@ -10,7 +10,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
 # Import the CallLog model from  app's models.py
-from API.models import CallLog
+from API.models import CallLog, Contacts
 
 def import_call_logs():
     with open('call_log.txt', 'r') as file:
@@ -22,13 +22,25 @@ def import_call_logs():
         number, name, date_str, call_type, duration_str = match
         date = datetime.strptime(date_str, "%a %b %d %H:%M:%S %Z%z %Y")
         duration = int(duration_str)
+        number_last_10 = number[-10:] 
 
-        call_log = CallLog(
-            number=number,
-            call_type=call_type,
-            datetime=date,
-            duration=duration
-        )
+        try:
+            contact = Contacts.objects.filter(number__endswith=number_last_10).first()
+            call_log = CallLog(
+                number=number,
+                call_type=call_type,
+                datetime=date,
+                duration=duration,
+                contacts=contact
+            )
+        except Contacts.DoesNotExist:
+            call_log = CallLog(
+                number=number,
+                call_type=call_type,
+                datetime=date,
+                duration=duration,
+                contacts=None
+            )
         call_log.save()
 
 # Run the import function
