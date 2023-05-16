@@ -42,3 +42,4 @@ class ContactsFilter(filters.FilterSet):
         model = Contacts
         fields = []
         
+        
