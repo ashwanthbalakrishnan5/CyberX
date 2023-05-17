@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-^+-dxf($y@5&7#-%(_a9m+t*7kq^_510tfu709x611g_g^m_8b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.20.138.101','127.0.0.1']
+ALLOWED_HOSTS = ['172.20.138.101', '127.0.0.1']
 
 
 # Application definition
@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'argus',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'Aadi2606'
+        'PASSWORD': 'ajay1234'
     }
 }
 
@@ -139,9 +139,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 INTERNAL_IPS = [
-    "127.0.0.1", "192.128.17.1","192.168.17.94"
+    "127.0.0.1", "192.128.17.1", "192.168.17.94"
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
 
-PHONENUMBER_DEFAULT_REGION = 'IN'  
+PHONENUMBER_DEFAULT_REGION = 'IN'
+
+CELERY_BROKER_URL = 'redis://localhost:6379/1'
