@@ -37,13 +37,15 @@ app.get("/contacts", (req,res)=>{
             const uniquephNums = phNums.filter((value, index, self) => {
                 return self.indexOf(value) == index;
             });
-            
+
             res.render("contacts",{names: uniqueContacts, phnos: uniquephNums})
-            console.log(names)
         }
     })
 
+})
 
+app.get("/contacts/:name-:phno", (req,res)=>{
+    console.log(req.params)
 })
 
 app.get("/calllogs", (req,res)=>{
