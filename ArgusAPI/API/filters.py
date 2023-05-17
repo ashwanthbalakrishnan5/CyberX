@@ -5,6 +5,17 @@ from datetime import datetime
 from .models import SmsLog, CallLog ,Contacts
 
 class SmsLogFilter(filters.FilterSet):
+    def filter_is_international(self, queryset, name, value):
+        if value:
+            return queryset.exclude(number__startswith='+91')
+        else:
+            return queryset.filter(number__startswith='+91')
+    is_international = django_filters.BooleanFilter(
+        method='filter_is_international'
+    )
+    is_known = django_filters.BooleanFilter(
+        field_name='contacts', lookup_expr='isnull', exclude=True
+    )
     start_date = django_filters.IsoDateTimeFilter(
         field_name='datetime', lookup_expr='gte'
     )
@@ -13,7 +24,7 @@ class SmsLogFilter(filters.FilterSet):
     )
     class Meta:
         model = SmsLog
-        fields = ['start_date', 'end_date', 'sms_type']
+        fields = ['start_date', 'end_date', 'sms_type','is_known','is_international']
 
 class CallLogFilter(filters.FilterSet):
     def filter_is_international(self, queryset, name, value):
@@ -21,6 +32,9 @@ class CallLogFilter(filters.FilterSet):
             return queryset.exclude(number__startswith='+91')
         else:
             return queryset.filter(number__startswith='+91')
+    is_international = django_filters.BooleanFilter(
+        method='filter_is_international'
+    )
     start_date = django_filters.IsoDateTimeFilter(
         field_name='datetime', lookup_expr='gte'
     )
@@ -30,12 +44,9 @@ class CallLogFilter(filters.FilterSet):
     is_known = django_filters.BooleanFilter(
         field_name='contacts', lookup_expr='isnull', exclude=True
     )
-    is_international = django_filters.BooleanFilter(
-        method='filter_is_international'
-    )
     class Meta:
         model = CallLog
-        fields = ['start_date', 'end_date','is_known','is_international','call_type']
+        fields = ['start_date', 'end_date','is_known','is_international','call_type','number']
 
 class ContactsFilter(filters.FilterSet):
     class Meta:
