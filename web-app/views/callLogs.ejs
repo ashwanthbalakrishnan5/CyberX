@@ -1,0 +1,37 @@
+<%- include("templates/header") %>
+<div class="d-flex justify-content-center">
+  <div class="entire-content-holder">
+    <div class="row">
+      <div class="col-3 d-flex">
+        <div class="filter-section">
+          <p class="filter-title">Filters</p>
+        </div>
+      </div>
+      <div class="col-9">
+        <div class="row">
+          <form action="" method="post">
+            <p class="dashboard-title">Call logs</p>
+            <input
+              type="text"
+              name="text"
+              id=""
+              placeholder="Search numbers,names and much more..."
+            />
+          </form>
+        </div>
+        <div class="row">
+          <div class="main-section">
+            <div class="row">
+              <div
+                class="col-6 content-wrapper d-flex flex-column align-items-center mt-5"
+              >
+                  <%- include("templates/contactCard", {name : "Aadi", phno: "12345"}) %>
+              </div>
+              <div class="col-6"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

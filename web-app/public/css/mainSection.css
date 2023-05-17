@@ -72,3 +72,8 @@
 .link-tag {
   text-decoration: none;
 }
+
+.clickable {
+  all:unset;
+  width: 100%;
+}

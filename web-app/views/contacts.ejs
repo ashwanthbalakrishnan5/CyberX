@@ -25,13 +25,9 @@
               <div
                 class="col-6 content-wrapper d-flex flex-column align-items-center mt-5"
               >
-                <%- include("templates/contactCard") %> <%-
-                include("templates/contactCard") %> <%-
-                include("templates/contactCard") %> <%-
-                include("templates/contactCard") %> <%-
-                include("templates/contactCard") %> <%-
-                include("templates/contactCard") %> <%-
-                include("templates/contactCard") %>
+              <% for(let i=0; i<phnos.length; i++) { %>
+                <%- include('templates/contactCard', {name:names[i], phno:phnos[i]}) %>
+              <% } %>
               </div>
               <div class="col-6"></div>
             </div>
