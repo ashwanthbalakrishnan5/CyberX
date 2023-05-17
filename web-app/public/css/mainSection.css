@@ -77,3 +77,8 @@
   all:unset;
   width: 100%;
 }
+
+.calllog-wrapper {
+  width: 80%;
+  height: 100%;
+}

@@ -14,7 +14,7 @@ app.get("/", (req,res)=>{
 })
 
 app.get("/adb", (req,res)=>{
-    res.render("adbWaitScreen")
+    res.render("contacts")
 })
 
 app.get("/dashboard", (req,res)=>{
@@ -46,6 +46,14 @@ app.get("/contacts", (req,res)=>{
 
 app.get("/contacts/:name-:phno", (req,res)=>{
     console.log(req.params)
+    let name = req.params.name
+    request('http://127.0.0.1:8000/api/CallLog/?', function (error, response, body) {
+        if (!error && response.statusCode == 200) {
+            let details = JSON.parse(body)
+
+        }
+    })
+
 })
 
 app.get("/calllogs", (req,res)=>{
