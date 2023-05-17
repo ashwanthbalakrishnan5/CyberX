@@ -1,3 +1,4 @@
+import cv2
 from django.shortcuts import render
 from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework.decorators import api_view
@@ -11,6 +12,7 @@ from .models import CallLog, SmsLog, Contacts
 from .serializers import CallLogSerializer, SmsLogSerializer, ContactsSerializer
 from .filters import SmsLogFilter, CallLogFilter, ContactsFilter
 from .tasks import test_cel
+from .predict_face import predict
 
 
 @api_view(['POST'])
@@ -26,18 +28,17 @@ def status(request):
 
 @api_view(['POST'])
 def face_reg(request):
-    if request.method == 'POST' and request.FILES.get('image'):
-        image = request.FILES['image']
+    if request.method == 'POST' :
+        image_file = request.FILES['image']
 
-        # Generate a unique filename
-        filename = os.path.join(settings.MEDIA_ROOT,
-                                'facereg/predict', image.name)
+        # convert to required format using Numpy
+        image_data = image_file.read()
+        nparr = np.frombuffer(image_data, np.uint8)
+        input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+        
+        found = predict(input_img)
 
-        # Save the image to a temporary location
-        with open(filename, 'wb') as f:
-            for chunk in image.chunks():
-                f.write(chunk)
-    return Response("Current Status")
+    return Response({'found': found})
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):
