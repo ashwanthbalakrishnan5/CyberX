@@ -9,5 +9,6 @@ router.register('Contacts',views.ContactsViewSet)
 urlpatterns = [
     path('StartListening/', views.start_listerning),
     path('status/', views.status),
+    path('face_reg_predict/', views.face_reg),
     path('', include(router.urls))
 ]

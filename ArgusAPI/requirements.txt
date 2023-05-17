@@ -6,6 +6,10 @@ django-debug-toolbar
 django-cors-headers
 redis
 celery
+dlib
+face-recognition
+opencv-python
+ffmpeg
 numpy
 pytz
 whitenoise

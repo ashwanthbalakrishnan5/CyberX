@@ -2,7 +2,11 @@ import cv2
 import face_recognition
 import os
 import pickle
-from inputdata import *
+
+folder_path = "E:\Edu\Projects\CyberX\cyberx\ArgusAPI\media\images"
+
+set_of_images = [os.path.join(folder_path, f) for f in os.listdir(
+    folder_path) if f.endswith('.jpg') or f.endswith('.jpeg') or f.endswith('.png')]
 
 set_of_encodings = []
 for image in set_of_images:
