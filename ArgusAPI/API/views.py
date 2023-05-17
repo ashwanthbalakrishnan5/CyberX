@@ -13,7 +13,7 @@ from .models import CallLog, SmsLog, Contacts
 from .serializers import CallLogSerializer, SmsLogSerializer, ContactsSerializer
 from .filters import SmsLogFilter, CallLogFilter, ContactsFilter
 from .tasks import test_cel
-from .predict_face import predict
+#from .predict_face import predict
 
 
 @api_view(['POST'])
@@ -37,9 +37,9 @@ def face_reg(request):
         nparr = np.frombuffer(image_data, np.uint8)
         input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
         
-        found = predict(input_img)
+        #found = predict(input_img)
 
-    return Response({'found': found})
+    return Response({'found': "found"})
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):

@@ -10,7 +10,7 @@
       <div class="col-9">
         <div class="row">
           <form action="" method="post">
-            <p class="dashboard-title">Call logs</p>
+            <p class="dashboard-title">Contacts</p>
             <input
               type="text"
               name="text"
@@ -26,14 +26,16 @@
                 class="col-6 content-wrapper d-flex flex-column align-items-center mt-5"
               >
               <% for(let i=0; i<phnos.length; i++) { %>
-                <%- include('templates/contactCard', {name:names[i], phno:phnos[i]}) %>
+                <% var iconLetter = "";%>
+                <% if(typeof(names[i]) === "string") { %>
+                    <% iconLetter = names[i].charAt(0) %>
+                  <% }else{ %>
+                    <% iconLetter = "Unk" %>
+                    <%}%>
+                <%- include('templates/contactCard', {name:names[i], phno:phnos[i], iconLetter : iconLetter}) %>
               <% } %>
               </div>
-              <div class="col-6 d-flex align-items-center">
-                <div class="calllog-wrapper">
-                  
-                </div>
-              </div>
+              <div class="col-6"></div>
             </div>
           </div>
         </div>
