@@ -77,3 +77,4 @@ def PhotoMeta():
         # print("Camera settings:", exif_camera_settings)
         # print("GPS coordinates:", exif_gps)
         # print("-----------------------------------")
+PhotoMeta()

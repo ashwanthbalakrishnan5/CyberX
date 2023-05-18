@@ -16,12 +16,16 @@ let call_type = [],
 
 let uniqueContacts = [];
 let uniquephNums = [];
+
+let addresses = [], truncatedMessages = []
+let smsMessages = [], smsType = []
+
 app.get("/", (req, res) => {
   res.render("mainDashBoard");
 });
 
 app.get("/adb", (req, res) => {
-  res.render("contacts");
+  res.render("adbWaitScreen");
 });
 
 app.get("/dashboard", (req, res) => {
@@ -115,9 +119,54 @@ app.get("/contacts", (req, res) => {
   );
 });
 
+
 app.get("/sms", (req, res) => {
-  res.render("sms");
+  request(
+    "http://127.0.0.1:8000/api/SmsLog/?unique_number=true",
+    function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        var smsUniqueList = JSON.parse(body)
+        addresses = []
+        truncatedMessages = []
+        console.log(smsUniqueList)
+        for(let i=0; i<smsUniqueList.length; i++) {
+          addresses.push(smsUniqueList[i]['address'])
+          truncatedMessages.push(smsUniqueList[i]['message'].substring(0,20)+'..')
+        }
+        res.render('sms', {addresses: addresses, truncatedMessages : truncatedMessages, smsMessages: smsMessages, smsType: smsType})
+      }
+    }
+  );
 });
+
+app.get("/sms/:address", (req,res)=> {
+  request(
+    "http://127.0.0.1:8000/api/SmsLog/?address=" + req.params.address,
+    function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        let smsDate = [], smsTime = []
+        var smsLog = JSON.parse(body)
+        smsMessages = []
+        smsType = []
+        for(let i=0; i<smsLog.length; i++) {
+          smsMessages.push(smsLog[i]['message'])
+          smsType.push(smsLog[i]['sms_type'])
+
+          var datetime = smsLog[i]["datetime"].split("T");
+
+          const string_after_splitting = datetime[0].split("-");
+          datetime[0] = string_after_splitting.join("/");
+
+          smsDate.push(datetime[0]);
+          datetime[1] = datetime[1].substring(0, datetime[1].length - 1);
+
+          smsTime.push(datetime[1]);
+        }
+      }
+    }
+  );
+  res.render('sms', {addresses: addresses, truncatedMessages : truncatedMessages, smsMessages: smsMessages, smsType: smsType})
+})
 
 app.get("/files", (req, res) => {
   res.render("fileDashBoard");

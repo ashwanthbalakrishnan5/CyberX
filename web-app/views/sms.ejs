@@ -25,17 +25,26 @@
               <div
                 class="col-6 content-wrapper d-flex flex-column align-items-center mt-5"
               >
-              <% for(let i=0; i<phnos.length; i++) { %>
+              <% for(let i=0; i<addresses.length; i++) { %>
                 <% var iconLetter = "";%>
-                <% if(typeof(names[i]) === "string") { %>
-                    <% iconLetter = names[i].charAt(0) %>
+                <% if(typeof(addresses[i]) === "string") { %>
+                    <% iconLetter = addresses[i].charAt(0) %>
                   <% }else{ %>
                     <% iconLetter = "Unk" %>
                     <%}%>
-                <%- include('templates/contactCard', {name:names[i], phno:phnos[i], iconLetter : iconLetter}) %>
+                <%- include('templates/smsCard', {name:addresses[i], phno:truncatedMessages[i], iconLetter : iconLetter}) %>
               <% } %>
               </div>
-              <div class="col-6"></div>
+              <div class="col-6 d-flex align-items-center justify-content-center">
+                <div class="calllog-wrapper d-flex align-items-center justify-content-center">
+                  <div class="inner-wrapper">
+                    <p class="heading">SMS LOGS</p>
+                      <%for(let i=0; i<smsType.length; i++) { %>
+                        <%- include("templates/smsMessageView", {message: smsMessages[i], smsType: smsType[i]})%>
+                      <%}%>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

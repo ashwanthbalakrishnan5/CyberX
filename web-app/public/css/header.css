@@ -39,7 +39,12 @@ body {
     font-style: normal;
     font-weight: 400;
     font-size: 22px;  
-     
+}
+
+.nav-link:hover {
+    color: white;
+    text-underline-position: left;
+    transition: ease-in-out;
 }
 
 .navbar-nav > li{
