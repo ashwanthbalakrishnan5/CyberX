@@ -44,4 +44,4 @@
 #         call_log.save()
 
 # Run the import function
-import_call_logs()
+# import_call_logs()

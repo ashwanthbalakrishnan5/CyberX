@@ -41,7 +41,7 @@ class LogHandler(metaclass=Singleton):
         # check if the default log directory exists or else create the directory
         if not os.path.exists(LOG_FILE_PATHS):
             os.makedirs(LOG_FILE_PATHS)
-        # MAke the artifacts path
+        # Make the artifacts path
         if not os.path.exists(ARTIFACTS_PATH):
             os.makedirs(ARTIFACTS_PATH)
         # create the log file for this session

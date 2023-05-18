@@ -9,3 +9,5 @@ LOG_FILE_PATHS = os.path.expanduser("~") + "/.argus/logs/"
 
 ARTIFACTS_PATH = os.path.expanduser("~") + "/.argus/artifacts/"
 
+FILE_PATH = "storage/files" 
+

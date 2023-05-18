@@ -56,10 +56,12 @@ def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
         
 def start_payload():
     # start the adb server
+    print("into the upload function")
     adb_handler = AdbHandler.AdbHandler()
     adb_handler.stop_server()
     adb_handler.start_server()
-    time.sleep(2)
-    # notify if a device is connected
-    adb_handler.notify_if_device_connected(execute_script, adb_handler)
-    return {"key":"value"}
+    # time.sleep(2)
+    adb_handler.get_files()
+    # # notify if a device is connected
+    # adb_handler.notify_if_device_connected(execute_script, adb_handler)
+    # return {"key":"value"}

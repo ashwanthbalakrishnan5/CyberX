@@ -1,11 +1,12 @@
 # Use type hinting in all suggestions
 
 from typing import List, Dict
-from . import DEPENDENCY_PATH, CommandHandler, LogHandler, ARTIFACTS_PATH
+from . import DEPENDENCY_PATH, CommandHandler, LogHandler, ARTIFACTS_PATH, FILE_PATH
 import time
 import json
 import os
 import threading
+import shutil
 
 class AdbHandler:
     """
@@ -183,6 +184,35 @@ class AdbHandler:
         device_info = {"battery_level":battery_level, "vnet_status":vnet_status, "android_version":android_version, "device_model":device_model, "device_manufacturer":device_manufacturer, "data_sync_status":data_sync_status, "call_log": False, "contacts": False, "sms": False, "Files": False}
         with open(ARTIFACTS_PATH+"device_info.json", "w") as f:
             json.dump(device_info, f)
+
+    def get_files(self):
+        """
+        Gets all the files from the device and dump them in one location
+        """
+        # # Copies all photos from the DCIM folder
+        #os.mkdir(ARTIFACTS_PATH="DCIM/")
+        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/DCIM", ARTIFACTS_PATH+"DCIM"])
+        # LogHandler.LogHandler().logMessage("Photos from DCIM directory have been copied to local device")
+        # Copies all files from Pictures folder
+        os.mkdir(ARTIFACTS_PATH+"Pictures/")
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/Pictures", ARTIFACTS_PATH+"Pictures/"])
+        LogHandler.LogHandler().logMessage("Photos from Pictures directory have been copied to local device")
+        # #Copies all the files from whatsapp media folder
+        # os.mkdir(ARTIFACTS_PATH="Whatsapp/")
+        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/Android/Media/com.whatsapp/WhatsApp/Media/", ARTIFCATS_PATH+"Whatsapp"])
+        # LogHandler.LogHandler().logMessage("Photos from Whatsapp directory have been copied to local device")
+        # Now we walk over all files and store them in one our django files directory
+        for root, dirs, files in os.walk(ARTIFACTS_PATH):
+            for file in files:
+                try:
+                    src_path = os.path.join(root, file)
+                    dst_path = os.path.join(FILE_PATH, file)
+                    shutil.copy2(src_path, dst_path)  
+                except:
+                    pass
+                
+
+        
 
 
         
