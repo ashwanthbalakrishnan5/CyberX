@@ -1,7 +1,7 @@
 from time import sleep
 from celery import shared_task
 from .models import Device ,DBStatus
-from .payload.Extractor import start_payload
+from .extraction.dumExtractor import start_payload
 #from .scripts.call_log import import_call_logs
 from .scripts.photometadata import PhotoMeta
 from .scripts.videometadata import VideoMeta
