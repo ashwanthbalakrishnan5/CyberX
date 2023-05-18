@@ -91,8 +91,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'argus',
         'HOST': 'localhost',
-        'USER': 'root',
-        'PASSWORD': 'ajay1234'
+        'USER': 'argus',
+        'PASSWORD': 'argus123@'
     }
 }
 

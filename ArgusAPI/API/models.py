@@ -31,34 +31,18 @@ class DBStatus(models.Model):
     photo_meta_status = models.BooleanField(default=False)
     video_meta_status = models.BooleanField(default=False)
     docs_meta_status = models.BooleanField(default=False)
-    call_log_count = models.IntegerField(default=0)
-    sms_log_count = models.IntegerField(default=0)
-    contacts_log_count = models.IntegerField(default=0)
-    photo_count = models.IntegerField(default=0)
-    video_count = models.IntegerField(default=0)
-    docs_count = models.IntegerField(default=0)
-    device = models.OneToOneField(
-        Device, on_delete=models.CASCADE, primary_key=True)
-
-    def save(self, *args, **kwargs):
-        # Calculate and update the counts from related tables
-        self.call_log_count = CallLog.objects.filter(
-            device=self.device).count()
-        self.sms_log_count = SmsLog.objects.filter(device=self.device).count()
-        self.contacts_log_count = Contacts.objects.filter(
-            device=self.device).count()
-        self.photo_count = Photo.objects.filter(device=self.device).count()
-        self.video_count = Video.objects.filter(device=self.device).count()
-        self.docs_count = Docs.objects.filter(device=self.device).count()
-
-        super().save(*args, **kwargs)
+    # call_log_count = models.IntegerField(default=0)
+    # sms_log_count = models.IntegerField(default=0)
+    # contacts_log_count = models.IntegerField(default=0)
+    # photo_count = models.IntegerField(default=0)
+    # video_count = models.IntegerField(default=0)
+    # docs_count = models.IntegerField(default=0)
 
 
 class Contacts(models.Model):
     name = models.CharField(max_length=255)
     number = PhoneNumberField(default='+91')
     thumbnail = models.ImageField(upload_to=None, null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
 
 
 class CallLog(models.Model):
@@ -109,7 +93,6 @@ class Photo(models.Model):
     iso_speed = models.IntegerField(null=True)
     focal_length = models.CharField(max_length=255, null=True)
     gps = models.CharField(max_length=255, null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
 
 
 class Video(models.Model):
@@ -126,7 +109,6 @@ class Video(models.Model):
     audio_codec = models.CharField(max_length=15, null=True)
     audio_channel = models.PositiveSmallIntegerField(null=True)
     audio_sample_rate = models.IntegerField(null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
 
 
 class Docs(models.Model):

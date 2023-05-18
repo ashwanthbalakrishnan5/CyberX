@@ -10,11 +10,11 @@ from .scripts.facedata import face_data
 @shared_task
 def start_extraction():
     pass
-    status = start_payload()
+    start_payload()
     # if status.get("key") != "value":
     #     return "Error"
 
-    db_status = DBStatus.objects.get(pk=1)
+    db_status = DBStatus.objects.create()
     #import_call_logs()
     # Add callLog,sms,contacts to DB
     db_status.call_log_status = True

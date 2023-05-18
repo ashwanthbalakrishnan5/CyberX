@@ -10,8 +10,8 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video
-from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus
+from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer,ADBStatusSerializer
 from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
 from .predict_face import predict
@@ -48,6 +48,9 @@ def disconnect(request):
                 cursor.execute(f'TRUNCATE TABLE {table_name} RESTART IDENTITY')
         return Response({'disconnect': True})
 
+class ADBStatusViewSet(ReadOnlyModelViewSet):
+    queryset = ADBStatus.objects.all()
+    serializer_class = ADBStatusSerializer
 
 class DBStatusViewSet(ReadOnlyModelViewSet):
     queryset = DBStatus.objects.all()

