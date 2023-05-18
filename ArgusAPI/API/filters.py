@@ -7,10 +7,10 @@ from .models import SmsLog, CallLog ,Contacts
 class SmsLogFilter(filters.FilterSet):
     def filter_specific_number(self, queryset, name, value):
         if value:
-            numbers = queryset.order_by('number').values_list('number', flat=True).distinct()
+            numbers = queryset.order_by('address').values_list('address', flat=True).distinct()
             filtered_queryset = queryset.none()
             for number in numbers:
-                row = queryset.filter(number=number).first()
+                row = queryset.filter(address=number).first()
                 if row:
                     filtered_queryset |= queryset.filter(id=row.id)
             return filtered_queryset
@@ -40,17 +40,18 @@ class SmsLogFilter(filters.FilterSet):
         fields = ['start_date', 'end_date', 'sms_type','is_known','is_international','address','unique_number']
 
 class CallLogFilter(filters.FilterSet):
-    def filter_specific_number(self, queryset, name, value):
-        if value:
-            numbers = queryset.order_by('number').values_list('number', flat=True).distinct()
-            filtered_queryset = queryset.none()
-            for number in numbers:
-                row = queryset.filter(number=number).first()
-                if row:
-                    filtered_queryset |= queryset.filter(id=row.id)
-            return filtered_queryset
-        return queryset
+    # def filter_specific_number(self, queryset, name, value):
+    #     if value:
+    #         numbers = queryset.order_by('number').values_list('number', flat=True).distinct()
+    #         filtered_queryset = queryset.none()
+    #         for number in numbers:
+    #             row = queryset.filter(number=number).first()
+    #             if row:
+    #                 filtered_queryset |= queryset.filter(id=row.id)
+    #         return filtered_queryset
+    #     return queryset
 
+    #unique_number = django_filters.BooleanFilter(method='filter_specific_number')
     def filter_is_international(self, queryset, name, value):
         if value:
             return queryset.exclude(number__startswith='+91')
@@ -61,7 +62,6 @@ class CallLogFilter(filters.FilterSet):
         method='filter_is_international'
     )
 
-    unique_number = django_filters.BooleanFilter(method='filter_specific_number')
 
     start_date = django_filters.IsoDateTimeFilter(
         field_name='datetime', lookup_expr='gte'
@@ -74,7 +74,8 @@ class CallLogFilter(filters.FilterSet):
     )
     class Meta:
         model = CallLog
-        fields = ['start_date', 'end_date','is_known','is_international','call_type','number','unique_number']
+        fields = ['start_date', 'end_date','is_known','is_international','call_type','number']
+
 
 class ContactsFilter(filters.FilterSet):
     class Meta:

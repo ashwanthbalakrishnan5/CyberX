@@ -2,13 +2,14 @@ from time import sleep
 from celery import shared_task
 from .models import Device ,DBStatus
 from .payload.Extractor import start_payload
-from .scripts.call_log import import_call_logs
+#from .scripts.call_log import import_call_logs
 from .scripts.photometadata import PhotoMeta
 from .scripts.videometadata import VideoMeta
 from .scripts.facedata import face_data
 
 @shared_task
 def start_extraction():
+    pass
     status = start_payload()
     if status.get("key") != "value":
         return "Error"
@@ -32,10 +33,10 @@ def start_extraction():
     db_status.save()
 
     # After Photos recieved
-    PhotoMeta()
+    #PhotoMeta()
     db_status.photo_meta_status = True
     db_status.save()
-    VideoMeta()
+    #VideoMeta()
     db_status.video_meta_status = True
     db_status.save()
     #face_data()

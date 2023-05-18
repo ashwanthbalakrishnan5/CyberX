@@ -34,8 +34,6 @@ def PhotoMeta():
                     decoded = TAGS.get(tag, tag)
                     exif_data[decoded] = value
                 exif_date = exif_data.get("DateTimeOriginal")
-                if exif_date:
-                    exif_date = datetime.strptime(exif_date, "%Y:%m:%d %H:%M:%S").strftime("%Y-%m-%d %H:%M:%S")
                 exif_camera = exif_data.get("Make") + " " + exif_data.get("Model")
                 #exif_camera_settings = exif_data.get("ExposureTime"), exif_data.get("FNumber"), exif_data.get("ISOSpeedRatings"), exif_data.get("FocalLength")
                 exif_gps = exif_data.get("GPSInfo")
@@ -77,3 +75,4 @@ def PhotoMeta():
         # print("Camera settings:", exif_camera_settings)
         # print("GPS coordinates:", exif_gps)
         # print("-----------------------------------")
+PhotoMeta()
