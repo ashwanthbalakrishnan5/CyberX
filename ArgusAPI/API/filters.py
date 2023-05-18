@@ -7,10 +7,10 @@ from .models import SmsLog, CallLog ,Contacts
 class SmsLogFilter(filters.FilterSet):
     def filter_specific_number(self, queryset, name, value):
         if value:
-            numbers = queryset.order_by('number').values_list('number', flat=True).distinct()
+            numbers = queryset.order_by('address').values_list('address', flat=True).distinct()
             filtered_queryset = queryset.none()
             for number in numbers:
-                row = queryset.filter(number=number).first()
+                row = queryset.filter(address=number).first()
                 if row:
                     filtered_queryset |= queryset.filter(id=row.id)
             return filtered_queryset

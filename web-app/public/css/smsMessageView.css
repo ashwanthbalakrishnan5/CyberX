@@ -1,0 +1,25 @@
+.message-wrapper {
+  width: 70%;
+  background-color: #487cff;
+  color: white;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+}
+
+.right-align {
+  margin-left: auto;
+  margin-right: 0;
+  background-color: #333740;
+}
+
+.message-wrapper .message-holder {
+  padding: 15px;
+  overflow-x: hidden;
+}
+
+.message-wrapper .datetime-holder {
+    padding: 15px;
+    text-align: right;
+}
+
+

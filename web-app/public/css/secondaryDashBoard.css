@@ -11,6 +11,21 @@
   border-radius: 20px;
 }
 
+.device-info .device-info-wrapper {
+  width: 95%;
+  margin-right: 0;
+  margin-left: auto;
+  padding-top: 10px;
+}
+
+.device-info-wrapper img {
+  margin-right: 20px;
+}
+
+.device-info-wrapper p {
+  margin-right: 20px;
+}
+
 .content-holder {
   width: 90%;
   height: 780px;
@@ -71,6 +86,7 @@
   font-style: normal;
   font-weight: 600;
   font-size: 31px;
+  margin: 0;
 }
 
 .battery-percentage,
@@ -79,6 +95,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 19px;
+  margin-top: 12px;
   color: #b1b1b1;
 }
 
@@ -96,6 +113,11 @@
   font-weight: 400;
   font-size: 20px;
   color: white;
+  margin-top: 12px;
+}
+
+.sync-status img {
+  margin-left: 15px;
 }
 
 .android-v, .root-status {
@@ -108,4 +130,5 @@
   border-radius: 20px;
   color: white;
   text-align: center;
+  margin-right: 20px;
 }

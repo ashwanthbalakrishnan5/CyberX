@@ -5,7 +5,7 @@ from .payload.Extractor import start_payload
 from .scripts.call_log import import_call_logs
 from .scripts.photometadata import PhotoMeta
 from .scripts.videometadata import VideoMeta
-from .scripts.facedata import face_data
+#from .scripts.facedata import face_data
 
 @shared_task
 def start_extraction():

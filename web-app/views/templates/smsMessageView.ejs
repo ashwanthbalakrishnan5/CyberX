@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="/css/smsMessageView.css" />
+<% var styling = "" %> 
+<% if(smsType === "Outgoing") { %> 
+    <% var styling = "right-align" %> 
+<% } %>
+<div class="message-wrapper <%= styling %>">
+  <div class="message-holder"><%= message %></div>
+  <div class="datetime-holder">2023/04/26 16:06:38</div>
+</div>
+<br/>
