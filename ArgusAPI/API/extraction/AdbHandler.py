@@ -7,7 +7,13 @@ import json
 import os
 import threading
 import shutil
+import django
 
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
+django.setup()
+
+from API.models import ADBStatus,Device
 class AdbHandler:
     """
     This class handles all communication with adb devices.
@@ -50,6 +56,9 @@ class AdbHandler:
         Will return a warning if multiple devices are connected.
         Runs on its own thread
         """
+        adb = ADBStatus.objects.create()
+        adb.save()
+        adbstatus = ADBStatus.objects.get(pk=1)
         # Keep listing out the devices that are connected till we detect one
         while True:
             code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "devices"])
@@ -64,11 +73,15 @@ class AdbHandler:
                     if output[1] == "no":
                         #notify the callback that we dont have permission and loop till granted
                         callback("Device Connected No Permission", adb_handler)
+                        adbstatus.connec_status = "Device Connected No Permission"
+                        adbstatus.save()
                         time.sleep(2)
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
                     callback("Device Connected", adb_handler)
+                    adbstatus.connec_status = "Device Connected"
+                    adbstatus.save()
                     break
                 else:
                     LogHandler.LogHandler().logMessage("Detected Multiple Devices, using only the first one with id "+output[0])
@@ -76,6 +89,8 @@ class AdbHandler:
                     break
             else:
                 callback("No Devices Connected", adb_handler)
+                adbstatus.connec_status = "No Devices Connected"
+                adbstatus.save()
             time.sleep(2)
 
     def send_wifi_payload(self):
@@ -181,9 +196,20 @@ class AdbHandler:
         # Get a screenshot of the home screen
         code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb exec-out screencap -p >> "+ARTIFACTS_PATH+"homescreen.png"])
         # create the json file and store it
-        device_info = {"battery_level":battery_level, "vnet_status":vnet_status, "android_version":android_version, "device_model":device_model, "device_manufacturer":device_manufacturer, "data_sync_status":data_sync_status, "call_log": False, "contacts": False, "sms": False, "Files": False}
-        with open(ARTIFACTS_PATH+"device_info.json", "w") as f:
-            json.dump(device_info, f)
+        device_name = "Iphonee"
+        device = Device.objects.create(
+            device_name=device_name,
+            vnet_status=vnet_status,
+            battery_level=battery_level,
+            android_version=int(android_version),
+            device_model=device_model,
+            device_manufacturer=device_manufacturer,
+            screenshot=True
+        )
+        device.save()
+        # device_info = {"battery_level":battery_level, "vnet_status":vnet_status, "android_version":android_version, "device_model":device_model, "device_manufacturer":device_manufacturer, "data_sync_status":data_sync_status, "call_log": False, "contacts": False, "sms": False, "Files": False}
+        # with open(ARTIFACTS_PATH+"device_info.json", "w") as f:
+        #     json.dump(device_info, f)
 
     def get_files(self):
         """

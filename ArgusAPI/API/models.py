@@ -10,15 +10,17 @@ class Device(models.Model):
     android_version = models.PositiveSmallIntegerField()
     device_model = models.CharField(max_length=255)
     device_manufacturer = models.CharField(max_length=255)
+    screenshot = models.BooleanField(default=False)
 
-    #adbstatus = models.DecimalField(max_digits=3, decimal_places=2)
+    # adbstatus = models.DecimalField(max_digits=3, decimal_places=2)
+
 
 class ADBStatus(models.Model):
-    connec_status = models.CharField(max_length=255)
+    connec_status = models.CharField(
+        max_length=255, default="No device connected")
     photo_status = models.BooleanField(default=False)
     video_status = models.BooleanField(default=False)
     docs_status = models.BooleanField(default=False)
-    device = models.OneToOneField(Device, on_delete=models.CASCADE, primary_key=True)
 
 
 class DBStatus(models.Model):
@@ -29,19 +31,22 @@ class DBStatus(models.Model):
     photo_meta_status = models.BooleanField(default=False)
     video_meta_status = models.BooleanField(default=False)
     docs_meta_status = models.BooleanField(default=False)
-    call_log_count = models.IntegerField(default=0)      
+    call_log_count = models.IntegerField(default=0)
     sms_log_count = models.IntegerField(default=0)
     contacts_log_count = models.IntegerField(default=0)
     photo_count = models.IntegerField(default=0)
     video_count = models.IntegerField(default=0)
     docs_count = models.IntegerField(default=0)
-    device = models.OneToOneField(Device, on_delete=models.CASCADE, primary_key=True)
+    device = models.OneToOneField(
+        Device, on_delete=models.CASCADE, primary_key=True)
 
     def save(self, *args, **kwargs):
         # Calculate and update the counts from related tables
-        self.call_log_count = CallLog.objects.filter(device=self.device).count()
+        self.call_log_count = CallLog.objects.filter(
+            device=self.device).count()
         self.sms_log_count = SmsLog.objects.filter(device=self.device).count()
-        self.contacts_log_count = Contacts.objects.filter(device=self.device).count()
+        self.contacts_log_count = Contacts.objects.filter(
+            device=self.device).count()
         self.photo_count = Photo.objects.filter(device=self.device).count()
         self.video_count = Video.objects.filter(device=self.device).count()
         self.docs_count = Docs.objects.filter(device=self.device).count()
@@ -52,8 +57,8 @@ class DBStatus(models.Model):
 class Contacts(models.Model):
     name = models.CharField(max_length=255)
     number = PhoneNumberField(default='+91')
-    thumbnail = models.ImageField(upload_to=None,null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE,null=True)
+    thumbnail = models.ImageField(upload_to=None, null=True)
+    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
 
 
 class CallLog(models.Model):
@@ -63,7 +68,7 @@ class CallLog(models.Model):
     CALL_TYPE_CHOICES = [
         (INCOMING, 'Incoming'),
         (OUTGOING, 'Outgoing'),
-        (MISSED ,'Missed')
+        (MISSED, 'Missed')
     ]
 
     number = PhoneNumberField(default='+91')
@@ -88,38 +93,41 @@ class SmsLog(models.Model):
     Contacts = models.ForeignKey(
         Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
 
+
 class Photo(models.Model):
     photo_name = models.CharField(max_length=255)
     photo_path = models.CharField(max_length=1023)
-    photo_type = models.CharField(max_length=255,null=True)
+    photo_type = models.CharField(max_length=255, null=True)
     photo_size = models.BigIntegerField(null=True)
-    pixels = models.CharField(max_length=255,null=True)
-    color_depth = models.CharField(max_length=255,null=True)
-    image_comp = models.CharField(max_length=255,null=True)
+    pixels = models.CharField(max_length=255, null=True)
+    color_depth = models.CharField(max_length=255, null=True)
+    image_comp = models.CharField(max_length=255, null=True)
     exif_date_time = models.DateTimeField(null=True)
-    camera = models.CharField(max_length=255,null=True)
-    exposure_time = models.CharField(max_length=255,null=True)
-    f_number = models.CharField(max_length=255,null=True)
+    camera = models.CharField(max_length=255, null=True)
+    exposure_time = models.CharField(max_length=255, null=True)
+    f_number = models.CharField(max_length=255, null=True)
     iso_speed = models.IntegerField(null=True)
-    focal_length = models.CharField(max_length=255,null=True)
-    gps = models.CharField(max_length=255,null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE,null=True)
+    focal_length = models.CharField(max_length=255, null=True)
+    gps = models.CharField(max_length=255, null=True)
+    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
+
 
 class Video(models.Model):
     video_name = models.CharField(max_length=255)
     video_path = models.CharField(max_length=1023)
     thumbnail_path = models.CharField(max_length=1023)
-    video_type = models.CharField(max_length=255,null=True)
+    video_type = models.CharField(max_length=255, null=True)
     video_size = models.BigIntegerField(null=True)
     video_date_time = models.DateTimeField(null=True)
     duration = models.PositiveIntegerField(null=True)
     width = models.PositiveIntegerField(null=True)
     height = models.PositiveIntegerField(null=True)
-    fps = models.CharField(max_length=255,null=True)
-    audio_codec = models.CharField(max_length=15,null=True)
+    fps = models.CharField(max_length=255, null=True)
+    audio_codec = models.CharField(max_length=15, null=True)
     audio_channel = models.PositiveSmallIntegerField(null=True)
     audio_sample_rate = models.IntegerField(null=True)
-    device = models.ForeignKey(Device, on_delete=models.CASCADE,null=True)
+    device = models.ForeignKey(Device, on_delete=models.CASCADE, null=True)
+
 
 class Docs(models.Model):
     docs_name = models.CharField(max_length=255)

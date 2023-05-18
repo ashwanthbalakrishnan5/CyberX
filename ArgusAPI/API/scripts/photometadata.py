@@ -14,7 +14,7 @@ django.setup()
 from API.models import Photo
 
 def PhotoMeta():
-    folder_path = "E:\Edu\Projects\CyberX\cyberx\ArgusAPI\media\images"
+    folder_path = "storage/files"
     for file_name in os.listdir(folder_path):
         if file_name.endswith(".jpg") or file_name.endswith(".jpeg") or file_name.endswith(".png"):
             file_path = os.path.join(folder_path, file_name)

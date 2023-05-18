@@ -14,7 +14,7 @@ from API.models import Video
 
 
 def VideoMeta():
-    folder_path = "E:\Edu\Projects\CyberX\cyberx\ArgusAPI\media\images"
+    folder_path = "storage/files"
     for file_name in os.listdir(folder_path):
         if file_name.endswith(".mp4") or file_name.endswith(".mov") or file_name.endswith(".avi") or file_name.endswith(".mkv"):
             file_path = os.path.join(folder_path, file_name)
