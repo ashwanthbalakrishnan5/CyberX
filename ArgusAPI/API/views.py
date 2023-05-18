@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 from django.shortcuts import render
 from django_filters.rest_framework import DjangoFilterBackend
+from django.db import connection
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
@@ -9,22 +10,17 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from .models import CallLog, SmsLog, Contacts
-from .serializers import CallLogSerializer, SmsLogSerializer, ContactsSerializer
-from .filters import SmsLogFilter, CallLogFilter, ContactsFilter
-from .tasks import test_cel
-#from .predict_face import predict
+from .models import *
+from .serializers import *
+from .filters import *
+from .tasks import start_extraction
+##from .predict_face import predict
 
 
 @api_view(['POST'])
-def start_listerning(request):
-    test_cel.delay("start")
-    return Response("Running")
-
-
-@api_view()
-def status(request):
-    return Response("Current Status")
+def start_listening(request):
+    start_extraction.delay()
+    return Response({"start_listening":True})
 
 
 @api_view(['POST'])
@@ -37,9 +33,25 @@ def face_reg(request):
         nparr = np.frombuffer(image_data, np.uint8)
         input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
         
-        #found = predict(input_img)
+        ##found = predict(input_img)
+        found = True
 
     return Response({'found': "found"})
+
+
+@api_view(['POST'])
+def disconnect(request):
+    if request.method == 'POST' :
+        tables = ['api_contacts','api_calllog', 'api_smslog','api_adbstatus','api_dbstatus','api_device','api_docs','api_photo','api_video']  
+        with connection.cursor() as cursor:
+            for table_name in tables:
+                cursor.execute(f'TRUNCATE TABLE {table_name} RESTART IDENTITY')
+        return Response({'disconnect': True})
+
+
+class DBStatusViewSet(ReadOnlyModelViewSet):
+    queryset = DBStatus.objects.all()
+    serializer_class = DBStatusSerializer
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):
@@ -64,3 +76,12 @@ class ContactsViewSet(ReadOnlyModelViewSet):
     filter_backends = [DjangoFilterBackend, SearchFilter]
     filterset_class = ContactsFilter
     search_fields = ['name', 'number']
+
+class PhotoViewSet(ReadOnlyModelViewSet):
+    queryset = Photo.objects.all()
+    serializer_class = PhotoSerializer
+
+
+class VideoViewSet(ReadOnlyModelViewSet):
+    queryset = Video.objects.all()
+    serializer_class = VideoSerializer
