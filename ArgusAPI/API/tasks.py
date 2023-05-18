@@ -38,7 +38,7 @@ def start_extraction():
     VideoMeta()
     db_status.video_meta_status = True
     db_status.save()
-    face_data()
+    #face_data()
     db_status.face_data_status = True
     db_status.save()
 
