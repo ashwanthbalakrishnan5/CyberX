@@ -25,9 +25,26 @@
               <div
                 class="col-6 content-wrapper d-flex flex-column align-items-center mt-5"
               >
-                  <%- include("templates/contactCard", {name : "Aadi", phno: "12345"}) %>
+              <% for(let i=0; i<phnos.length; i++) { %>
+                <% var iconLetter = "";%>
+                <% if(typeof(names[i]) === "string") { %>
+                    <% iconLetter = names[i].charAt(0) %>
+                  <% }else{ %>
+                    <% iconLetter = "Unk" %>
+                    <%}%>
+                <%- include('templates/contactCard', {name:names[i], phno:phnos[i], iconLetter : iconLetter}) %>
+              <% } %>
               </div>
-              <div class="col-6"></div>
+              <div class="col-6 d-flex align-items-center justify-content-center">
+                <div class="calllog-wrapper d-flex align-items-center justify-content-center">
+                  <div class="inner-wrapper">
+                    <p class="heading">History</p>
+                    <% for(let i=0; i<call_type.length; i++) { %>
+                      <%- include("templates/callLogDetails", {call_type: call_type[i], duration: durations[i], date: date[i], time: time[i]}) %>
+                    <% } %>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

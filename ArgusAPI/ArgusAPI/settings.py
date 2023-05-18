@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'argus',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'ajay1234'
+        'PASSWORD': 'Aadi2606'
     }
 }
 

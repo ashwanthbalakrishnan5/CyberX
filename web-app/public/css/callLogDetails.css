@@ -1,0 +1,16 @@
+.details-wrapper {
+    width: 100%;
+    color: white;
+}
+.details-wrapper p{
+    display: inline;
+}
+
+.details-wrapper p:nth-child(3) {
+    float: right;
+}
+
+.details-wrapper p:nth-child(4) {
+    float: right;
+    margin-right: 5px;
+}

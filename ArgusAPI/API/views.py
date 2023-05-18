@@ -33,10 +33,10 @@ def face_reg(request):
         nparr = np.frombuffer(image_data, np.uint8)
         input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
         
-        found = predict(input_img)
-        #found = True
+        #found = predict(input_img)
+        found = True
 
-    return Response({'found': found})
+    return Response({'found': "found"})
 
 
 @api_view(['POST'])
