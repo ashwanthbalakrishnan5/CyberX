@@ -1,10 +1,10 @@
 from rest_framework import serializers
-from .models import *
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video
 
 class ContactsSerializer(serializers.ModelSerializer):
     class Meta:
         model = Contacts
-        fields = '__all__'
+        fields = ['name','number','thumbnail','device']
 class CallLogSerializer(serializers.ModelSerializer):
     class Meta:
         model = CallLog

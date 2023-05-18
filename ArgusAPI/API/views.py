@@ -10,11 +10,11 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from .models import *
-from .serializers import *
-from .filters import *
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video
+from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer
+from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
-##from .predict_face import predict
+from .predict_face import predict
 
 
 @api_view(['POST'])
@@ -33,7 +33,7 @@ def face_reg(request):
         nparr = np.frombuffer(image_data, np.uint8)
         input_img = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
         
-        ##found = predict(input_img)
+        #found = predict(input_img)
         found = True
 
     return Response({'found': "found"})
@@ -55,7 +55,7 @@ class DBStatusViewSet(ReadOnlyModelViewSet):
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):
-    queryset = CallLog.objects.all()
+    queryset = CallLog.objects.prefetch_related('contacts').all()
     serializer_class = CallLogSerializer
     filter_backends = [DjangoFilterBackend, OrderingFilter]
     filterset_class = CallLogFilter
@@ -63,7 +63,7 @@ class CallLogViewSet(ReadOnlyModelViewSet):
 
 
 class SmsLogViewSet(ReadOnlyModelViewSet):
-    queryset = SmsLog.objects.all()
+    queryset = SmsLog.objects.prefetch_related('contacts').all()
     serializer_class = SmsLogSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter]
     filterset_class = SmsLogFilter
