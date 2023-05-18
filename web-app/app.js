@@ -25,7 +25,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/adb", (req, res) => {
-  res.render("contacts");
+  res.render("adbWaitScreen");
 });
 
 app.get("/dashboard", (req, res) => {

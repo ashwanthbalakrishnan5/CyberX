@@ -75,6 +75,7 @@
 .clickable {
   all: unset;
   width: 100%;
+  cursor: pointer;
 }
 
 .calllog-wrapper {

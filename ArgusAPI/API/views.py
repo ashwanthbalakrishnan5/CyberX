@@ -14,7 +14,7 @@ from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video
 from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer
 from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
-from .predict_face import predict
+# from .predict_face import predict
 
 
 @api_view(['POST'])
@@ -63,7 +63,7 @@ class CallLogViewSet(ReadOnlyModelViewSet):
 
 
 class SmsLogViewSet(ReadOnlyModelViewSet):
-    queryset = SmsLog.objects.prefetch_related('contacts').all()
+    queryset = SmsLog.objects.prefetch_related('Contacts').all()
     serializer_class = SmsLogSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter]
     filterset_class = SmsLogFilter
