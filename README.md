@@ -11,6 +11,16 @@ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/t
 pip3 install pymetasploit3
 ```
 
+# Installation Ashwanth Side
+```
+sudo apt install mysql-server
+pip3 install -r requirements.txt
+```
+
+# Installation Aaditya Side
+```
+```
+
 
 # Things to do
 

@@ -6,6 +6,7 @@ django-debug-toolbar
 django-cors-headers
 redis
 celery
+cmake
 dlib
 face-recognition
 opencv-python
