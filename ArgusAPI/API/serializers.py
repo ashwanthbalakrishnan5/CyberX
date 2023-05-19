@@ -24,6 +24,7 @@ class SmsLogSerializer(serializers.ModelSerializer):
     class Meta:
         model = SmsLog
         fields = ['address','sms_type','datetime','message','Contacts']
+    Contacts = ContactsSerializer()
 
 class DBStatusSerializer(serializers.ModelSerializer):
     class Meta:

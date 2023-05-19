@@ -41,7 +41,7 @@ def import_sms_logs():
         try:
             contact = Contacts.objects.filter(number__endswith=address_last_10).first()
             sms_log = SmsLog(
-                sms_type=sms_type[sms_type_key],
+                sms_type=sms_types[sms_type_key],
                 address=address,
                 datetime=date,
                 message=body,
@@ -49,7 +49,7 @@ def import_sms_logs():
             )
         except Contacts.DoesNotExist:
             sms_log = SmsLog(
-                sms_type=sms_type[sms_type_key],
+                sms_type=sms_types[sms_type_key],
                 address=address,
                 datetime=date,
                 message=body,

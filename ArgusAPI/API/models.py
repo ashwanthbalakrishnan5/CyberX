@@ -87,7 +87,7 @@ class Photo(models.Model):
     pixels = models.CharField(max_length=255, null=True)
     color_depth = models.CharField(max_length=255, null=True)
     image_comp = models.CharField(max_length=255, null=True)
-    exif_date_time = models.DateTimeField(null=True)
+    exif_date_time = models.CharField(max_length=255,null=True)
     camera = models.CharField(max_length=255, null=True)
     exposure_time = models.CharField(max_length=255, null=True)
     f_number = models.CharField(max_length=255, null=True)

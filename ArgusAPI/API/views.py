@@ -63,7 +63,7 @@ class DBStatusViewSet(ReadOnlyModelViewSet):
 
 
 class CallLogViewSet(ReadOnlyModelViewSet):
-    queryset = CallLog.objects.prefetch_related('contacts').all()
+    queryset = CallLog.objects.all()
     serializer_class = CallLogSerializer
     filter_backends = [DjangoFilterBackend, OrderingFilter]
     filterset_class = CallLogFilter
@@ -75,7 +75,7 @@ class SmsLogViewSet(ReadOnlyModelViewSet):
     serializer_class = SmsLogSerializer
     filter_backends = [DjangoFilterBackend, SearchFilter]
     filterset_class = SmsLogFilter
-    search_fields = ['address', 'message']
+    search_fields = ['message']
 
 
 class ContactsViewSet(ReadOnlyModelViewSet):
