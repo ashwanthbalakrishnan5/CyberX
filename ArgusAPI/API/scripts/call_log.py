@@ -23,7 +23,7 @@ def import_call_logs():
         number, date_milliseconds_str, call_type_num,duration_str ,name= match
         #date = datetime.strptime(date_str, "%a %b %d %H:%M:%S %Z%z %Y")
         duration = int(duration_str)
-        #number_last_10 = number[-10:] 
+        number_last_10 = number[-10:] 
         call_type_key = int(call_type_num)
         call_types = ["check index","Incoming","Outgoing","Missed","VoiceMail","Rejected","Blocked","AnswerExternally"]
         if name == "":
@@ -37,24 +37,25 @@ def import_call_logs():
         epoch = datetime(1970, 1, 1)
         date = epoch + timedelta(seconds=date_seconds)
 
-        call_log = CallLog(
-            number=number,
-            call_type=call_types[call_type_key],
-            datetime=date,
-            duration=duration,
-            name=name
-        )
+        try:
+            contact = Contacts.objects.filter(number__endswith=number_last_10).first()
+            call_log = CallLog(
+                number=number,
+                call_type=call_types[call_type_key],
+                datetime=date,
+                duration=duration,
+                name=name
+            )
+        except Contacts.DoesNotExist:
+            call_log = CallLog(
+                number=number,
+                call_type=call_type,
+                datetime=date,
+                duration=duration,
+                name=name,
+                contacts=None
+            )
         call_log.save()
-        # try:
-        #     contact = Contacts.objects.filter(number__endswith=number_last_10).first()
-        # except Contacts.DoesNotExist:
-        #     call_log = CallLog(
-        #         number=number,
-        #         call_type=call_type,
-        #         datetime=date,
-        #         duration=duration,
-        #         contacts=None
-        #     )
 
 # Run the import function
 #import_call_logs()
