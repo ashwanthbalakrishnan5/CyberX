@@ -17,7 +17,7 @@ from .tasks import start_extraction
 from .predict_face import predict
 
 
-@api_view(['POST'])
+@api_view(['GET','POST'])
 def start_listening(request):
     start_extraction.delay()
     return Response({"start_listening":True})

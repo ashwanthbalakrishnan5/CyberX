@@ -26,7 +26,37 @@ app.get("/", (req, res) => {
 });
 
 app.get("/adb", (req, res) => {
+  request(
+    "http://127.0.0.1:8000/api/StartListening/",
+    function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+      }
+    }
+  );
+
+  function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
   res.render("adbWaitScreen");
+  var connect_status = false;
+  while(!connect_status) {
+    request(
+      "http://127.0.0.1:8000/api/ADBStatus/",
+      function (error, response, body) {
+        if (!error && response.statusCode == 200) {
+          if(body["connec_status"] === "Device connected") {
+            connect_status = true;
+            console.log(connect_status)
+          } else {
+            console.log("not working")
+          }
+        }
+      }
+    );
+    sleep(2000)
+  }
+  
 });
 
 app.get("/dashboard", (req, res) => {
