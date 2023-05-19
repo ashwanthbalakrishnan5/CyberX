@@ -4,11 +4,7 @@ Project Artemis Files
 
 # Installation Guhan Side
 ```
-sudo apt install python3-pip nmcli iw curl
-curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && \
-  chmod 755 msfinstall && \
-  ./msfinstall
-pip3 install pymetasploit3
+sudo apt install python3-pip nmcli iw curl nmap
 ```
 
 # Installation Ashwanth Side

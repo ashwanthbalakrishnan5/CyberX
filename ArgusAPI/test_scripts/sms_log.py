@@ -16,7 +16,7 @@ from ArgusAPI.settings import STORAGE_ROOT
 
 
 def import_sms_logs():
-    with open(STORAGE_ROOT+'/data/sms.txt', 'r',encoding='unicode-escape') as file:
+    with open('sms.txt', 'r',encoding='unicode-escape') as file:
         content = file.read()
 
     pattern = r"Row: \d+ address=(.*), body=(.*), type=(.*), status=(.*), date=(.*)"
@@ -41,7 +41,7 @@ def import_sms_logs():
         try:
             contact = Contacts.objects.filter(number__endswith=address_last_10).first()
             sms_log = SmsLog(
-                sms_type=sms_type[sms_type_key],
+                sms_type=sms_types[sms_type_key],
                 address=address,
                 datetime=date,
                 message=body,
@@ -49,7 +49,7 @@ def import_sms_logs():
             )
         except Contacts.DoesNotExist:
             sms_log = SmsLog(
-                sms_type=sms_type[sms_type_key],
+                sms_type=sms_types[sms_type_key],
                 address=address,
                 datetime=date,
                 message=body,
@@ -58,4 +58,4 @@ def import_sms_logs():
         sms_log.save()
 
 # Run the import function
-# import_sms_logs()
+import_sms_logs()
