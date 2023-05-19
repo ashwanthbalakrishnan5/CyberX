@@ -12,9 +12,11 @@ django.setup()
 
 # Import the CallLog model from  app's models.py
 from API.models import SmsLog, Contacts
+from ArgusAPI.settings import STORAGE_ROOT
+
 
 def import_sms_logs():
-    with open('smsdump.txt', 'r') as file:
+    with open(STORAGE_ROOT+'/data/sms.txt', 'r',encoding='unicode-escape') as file:
         content = file.read()
 
     pattern = r"#\d+\nType\t: (.*)\nDate\t: (.*)\nAddress\t: (.*)\nStatus\t: (.*)\nMessage\t: (.*)"
@@ -46,4 +48,4 @@ def import_sms_logs():
         sms_log.save()
 
 # Run the import function
-import_sms_logs()
+# import_sms_logs()

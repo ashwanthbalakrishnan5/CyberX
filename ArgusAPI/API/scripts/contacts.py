@@ -10,9 +10,10 @@ django.setup()
 
 # Import the desired model from app's models.py
 from API.models import Contacts
+from ArgusAPI.settings import STORAGE_ROOT
 
 def import_contacts():
-    with open('contacts.txt', 'r', encoding='unicode-escape') as file:
+    with open(STORAGE_ROOT+'/data/contacts.txt', 'r', encoding='unicode-escape') as file:
         content = file.read()
 
     pattern = r"Row: \d+ display_name=(.*), number=(.*), notes=(.*)"

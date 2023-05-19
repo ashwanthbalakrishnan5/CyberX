@@ -9,6 +9,7 @@ router.register('Contacts',views.ContactsViewSet)
 router.register('DBStatus',views.DBStatusViewSet)
 router.register('Photo',views.PhotoViewSet)
 router.register('Video',views.VideoViewSet)
+router.register('ADBStatus',views.ADBStatusViewSet)
 
 urlpatterns = [
     path('StartListening/', views.start_listening),

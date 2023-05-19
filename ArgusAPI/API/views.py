@@ -10,11 +10,11 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video
-from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus
+from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer,ADBStatusSerializer
 from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
-# from .predict_face import predict
+from .predict_face import predict
 
 
 @api_view(['POST'])
@@ -42,12 +42,17 @@ def face_reg(request):
 @api_view(['POST'])
 def disconnect(request):
     if request.method == 'POST' :
-        tables = ['api_contacts','api_calllog', 'api_smslog','api_adbstatus','api_dbstatus','api_device','api_docs','api_photo','api_video']  
+        tables = ['API_calllog', 'API_smslog','API_contacts','API_adbstatus','API_dbstatus','API_device','API_docs','API_photo','API_video']  
         with connection.cursor() as cursor:
+            cursor.execute('SET FOREIGN_KEY_CHECKS = 0;')
             for table_name in tables:
-                cursor.execute(f'TRUNCATE TABLE {table_name} RESTART IDENTITY')
+                cursor.execute(f'TRUNCATE TABLE {table_name}')
+            cursor.execute('SET FOREIGN_KEY_CHECKS = 1;')
         return Response({'disconnect': True})
 
+class ADBStatusViewSet(ReadOnlyModelViewSet):
+    queryset = ADBStatus.objects.all()
+    serializer_class = ADBStatusSerializer
 
 class DBStatusViewSet(ReadOnlyModelViewSet):
     queryset = DBStatus.objects.all()

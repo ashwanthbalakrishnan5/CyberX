@@ -1,4 +1,4 @@
-from extraction import LOG_FILE_PATHS
+from . import LOG_FILE_PATHS, ARTIFACTS_PATH
 import os
 import datetime
 import random
@@ -41,6 +41,9 @@ class LogHandler(metaclass=Singleton):
         # check if the default log directory exists or else create the directory
         if not os.path.exists(LOG_FILE_PATHS):
             os.makedirs(LOG_FILE_PATHS)
+        # Make the artifacts path
+        if not os.path.exists(ARTIFACTS_PATH):
+            os.makedirs(ARTIFACTS_PATH)
         # create the log file for this session
         self.session_number = random.randint(0, 1000000)
         # Create the file based on the current time
@@ -72,5 +75,14 @@ class LogHandler(metaclass=Singleton):
         Logs the given message.
         """
         self.log_file.write(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n" + message + "\n")
+        self.log_file.write("--------------------------------------------------\n")
+        self.log_file.flush()
+
+
+    def logError(self, error: str):
+        """
+        Logs the given error.
+        """
+        self.log_file.write(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + "\n" + error + "\n")
         self.log_file.write("--------------------------------------------------\n")
         self.log_file.flush()
