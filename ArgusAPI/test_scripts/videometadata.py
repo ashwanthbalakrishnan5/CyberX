@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import ffmpeg
 
-folder_path = "E:\Edu\Projects\CyberX\Testing"
+folder_path = "D:\Programing\cyberx\ArgusAPI\media"
 
 for file_name in os.listdir(folder_path):
     if file_name.endswith(".mp4") or file_name.endswith(".mov") or file_name.endswith(".avi") or file_name.endswith(".mkv"):
@@ -25,15 +25,15 @@ for file_name in os.listdir(folder_path):
         audio_sample_rate = audio_stream.get("sample_rate")
 
         # print
-        print("File name:", file_name)
-        print("File type:", file_type)
-        print("File size:", file_size, "bytes")
-        print("Date created:", datetime.fromtimestamp(date_created).strftime('%Y-%m-%d %H:%M:%S'))
-        print("Date last modified:", datetime.fromtimestamp(date_modified).strftime('%Y-%m-%d %H:%M:%S'))
-        print("Duration:", duration, "seconds")
-        print("Resolution:", width, "x", height)
-        print("Frame rate:", frame_rate, "fps")
-        print("Audio codec:", audio_codec)
-        print("Audio channels:", audio_channels)
-        print("Audio sample rate:", audio_sample_rate, "Hz")
-        print("-----------------------------------")
+        # print("File name:", file_name)
+        # print("File type:", file_type)
+        # print("File size:", file_size, "bytes")
+        # print("Date created:", datetime.fromtimestamp(date_created).strftime('%Y-%m-%d %H:%M:%S'))
+        # print("Date last modified:", datetime.fromtimestamp(date_modified).strftime('%Y-%m-%d %H:%M:%S'))
+        # print("Duration:", duration, "seconds")
+        # print("Resolution:", width, "x", height)
+        # print("Frame rate:", frame_rate, "fps")
+        # print("Audio codec:", audio_codec)
+        # print("Audio channels:", audio_channels)
+        # print("Audio sample rate:", audio_sample_rate, "Hz")
+        # print("-----------------------------------")

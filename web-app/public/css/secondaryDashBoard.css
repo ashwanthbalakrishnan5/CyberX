@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit:wght@400;600&display=swap");
 
 .device-info {
-  width: 80%;
+  width: 70%;
   height: 250px;
   /* card color */
   background: #333740;
@@ -12,7 +12,7 @@
 }
 
 .device-info .device-info-wrapper {
-  width: 95%;
+  width: 90%;
   margin-right: 0;
   margin-left: auto;
   padding-top: 10px;

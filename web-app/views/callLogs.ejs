@@ -3,8 +3,79 @@
   <div class="entire-content-holder">
     <div class="row">
       <div class="col-3 d-flex">
-        <div class="filter-section">
-          <p class="filter-title">Filters</p>
+        <div class="filter-section d-flex justify-content-center">
+          <div class="filter-wrapper">
+            <p class="filter-title">Filters</p>
+
+            <form action="/calllogsfilter" method="post">
+              <p class="sub-heading">Phone Number</p>
+              <div class="flight-types">
+                <input type="radio" name="calltype" value="coach" id="coach" />
+                <label for="coach">
+                  All
+                </label>
+                
+                <input type="radio" name="calltype" value="business" id="business" checked />
+                <label for="business">
+                  Known
+                </label>
+
+                <input type="radio" name="calltype" value="first" id="first" />
+                <label for="first">
+                  Unknown
+                </label>
+                
+              </div>
+              <div class="seperator"></div>
+              <div class="suggestions">
+                <input type="radio" name="international" id="international">
+                <label for="international">International Numbers</label>
+                <br><br>
+                <input type="radio" name="ascending" id="Frequent" onClick="checkedOnClick(this)" class="checkoption">
+                <label for="Frequent">Call duration in asccending order</label>
+                <br><br>
+                <input type="radio" name="descending" id="offtime" onClick="checkedOnClick(this)" class="checkoption">
+                <label for="offtime">Call duration in desccending order</label>
+              </div>
+              <div class="seperator"></div>
+              <p class="sub-heading">Custom Filter:</p>
+              <div class="date-card">
+                <div class="row">
+                  <div class="col-5 date-align mt-2">
+                    <p>Date - Time:</p>
+                  </div>
+                  <div class="col-6 d-flex justify-content-end  mt-2">
+                    <label class="switch">
+                      <input type="checkbox">
+                      <span class="slider round"></span>
+                    </label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-6 d-flex justify-content-center from-to"><p>From</p></div>
+                  <div class="col-6 d-flex justify-content-center from-to"><p>To</p></div>
+                </div>
+                <div class="row">
+                  <div class="col-6"><input type="date" id="From" name="From"></div>
+                  <div class="col-6"><input type="date" id="To" name="To"></div>
+                </div>
+                <br>
+                <div class="row">
+                  <div class="col-6 d-flex justify-content-center from-to"><p>From</p></div>
+                  <div class="col-6 d-flex justify-content-center from-to"><p>To</p></div>
+                </div>
+                <div class="row">
+                  <div class="col-6">
+                    <input type="time" id="from" name="from" min="00:00" max="24:00">
+                  </div>
+                  <div class="col-6">
+                    <input type="time" id="to" name="to"min="00:00" max="24:00">
+                  </div>
+                </div>
+              </div>
+              <button type="submit">Submit</button>
+            </form>
+          </div>
         </div>
       </div>
       <div class="col-9">
@@ -52,3 +123,16 @@
     </div>
   </div>
 </div>
+
+<script type="text/javascript">
+  function checkedOnClick(el){
+
+     // Select all checkboxes by class
+     var checkboxesList = document.getElementsByClassName("checkoption");
+     for (var i = 0; i < checkboxesList.length; i++) {
+        checkboxesList.item(i).checked = false; // Uncheck all checkboxes
+     }
+
+     el.checked = true; // Checked clicked checkbox
+  }
+  </script>

@@ -7,11 +7,235 @@
 }
 
 .filter-section .filter-title {
-    color: white;
-    font-family: 'Kanit';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 30px;
-    margin-left: 40px;
-    margin-top: 30px;
+  color: white;
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  margin-top: 30px;
 }
+
+.filter-wrapper {
+  width: 85%;
+}
+
+.flight-types {
+  display: flex;
+  max-width: 336px;
+  width: 100%;
+  height: 52px;
+  position: relative;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  position: relative;
+  z-index: 1;
+  margin: 0 auto;
+  font-size: 15px;
+  color: white;
+  background: #22242b;
+  border: 2px solid #444b57;
+  border-radius: 10px;
+  align-items: center;
+}
+.flight-types > input {
+  display: none;
+}
+.flight-types > input:checked + label {
+  font-size: 15px;
+}
+.flight-types > input:nth-of-type(1):checked ~ label:last-of-type:before {
+  transform: translateX(calc(0% + 0px));
+}
+.flight-types > input:nth-of-type(2):checked ~ label:last-of-type:before {
+  transform: translateX(calc(100% + 0px));
+}
+.flight-types > input:nth-of-type(3):checked ~ label:last-of-type:before {
+  transform: translateX(calc(200% + 0px));
+}
+.flight-types label {
+  flex: 1;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.flight-types label:last-of-type:before {
+  content: "";
+  display: block;
+  max-width: calc(32.7333333333% - 0px);
+  margin: 0px;
+  position: absolute;
+  top: 5px;
+  right: 0;
+  bottom: 0;
+  left: 3px;
+  z-index: -1;
+  transform: translateX(0);
+}
+.flight-types label {
+  padding: 6px 3px;
+  transition: color 250ms cubic-bezier(0, 0.95, 0.38, 0.98);
+}
+.flight-types label:before {
+  background: #333740;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  transition: all 250ms cubic-bezier(0, 0.95, 0.38, 0.98);
+  height: 80%;
+  width: 95%;
+}
+
+.seperator {
+  width: 100%;
+  height: 1px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #444b57;
+}
+
+.filter-section .sub-heading {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: white;
+}
+
+.filter-section button {
+  width: 100%;
+  height: 50px;
+  background: #22242b;
+  border: 2px solid #444b57;
+  box-sizing: border-box;
+  border-radius: 10px;
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.date-card .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  height: 28px;
+  width: 55px;
+}
+
+.date-card .slider:before {
+  position: absolute;
+  content: "";
+  height: 20px;
+  width: 20px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #2196f3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+.date-card input[type="date"] {
+  border-radius: 10px;
+  padding: 9px;
+  background: #22242b;
+  /* border */
+  border: 1px solid #444b57;
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  color-scheme: dark;
+  width: 140px;
+  font-size: 16px;
+}
+
+.date-card {
+  color: white;
+  background: #3c414a;
+  border-radius: 10px;
+}
+
+.date-card .date-align {
+  margin-left: 15px;
+}
+
+.date-card .from-to {
+  height: 30px;
+}
+
+.date-card input[type="time"] {
+  border-radius: 10px;
+  padding: 9px;
+  background: #22242b;
+  border: 1px solid #444b57;
+  border-radius: 10px;
+  color: white;
+  height: 40px;
+  color-scheme: dark;
+  width: 140px;
+  font-size: 16px;
+}
+
+.suggestions {
+  color: white;
+}
+
+/* .suggestions input[type="radio"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background-color: #fff;
+  margin: 0;
+  width: 25px;
+  height: 26px;
+  background: #3c414a;
+  border: 2px solid #444b57;
+  border-radius: 10px;
+    transform: translateY(-5px);
+} */
