@@ -10,6 +10,24 @@ from .scripts.videometadata import VideoMeta
 from .scripts.facedata import face_data
 
 @shared_task
+def PhotoMetaToDB():
+    PhotoMeta()
+    db_status.photo_meta_status = True
+    db_status.save()
+
+@shared_task
+def VideoMetaToDB():
+    VideoMeta()
+    db_status.video_meta_status = True
+    db_status.save()
+
+@shared_task
+def FaceToDB():
+    face_data()
+    db_status.face_data_status = False
+    db_status.save()
+    
+@shared_task
 def start_extraction():
     pass
     adb_handler = start_payload()
@@ -33,16 +51,21 @@ def start_extraction():
     print("main data over")
     
     adb_handler.get_files()
-    # After Photos recieved
-    PhotoMeta()
-    db_status.photo_meta_status = True
-    db_status.save()
-    VideoMeta()
-    db_status.video_meta_status = True
-    db_status.save()
-    #face_data()
-    db_status.face_data_status = False
-    db_status.save()
+    # # After Photos recieved
+    # PhotoMeta()
+    # db_status.photo_meta_status = True
+    # db_status.save()
+    PhotoMetaToDB.delay()
+    # VideoMeta()
+    # db_status.video_meta_status = True
+    # db_status.save()
+    VideoMetaToDB.delay()
+    # #face_data()
+    # db_status.face_data_status = False
+    # db_status.save()
+    FaceToDB.delay()
+
+
     
 
 
