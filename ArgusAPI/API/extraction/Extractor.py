@@ -20,17 +20,12 @@ def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
         hotspothandler = HotspotHandler.HotspotHandler()
         hotspothandler.create_network_interface()
         adb_handler.send_wifi_payload()
+        adb_handler.disable_mobile_data()
         adb_handler.connect_to_wifi()
         time.sleep(1)
-        # Keep on checking if a device is connected to the hotspot using ping
-        while True:
-            code, output = adb_handler.command_handler.executeCommand(
-                ["ping", "-c", "1", hotspothandler.device_ip])
-            if code == 0:
-                LogHandler.LogHandler().logMessage(
-                    "Device connected to hotspot under IP 10.42.0.228")
-                break
-            time.sleep(2)
+        # Keep on checking if a device is connected to the hotspot by pinging the server from teh device
+        # and checking by using tcpdump if we received the ping
+        hotspothandler.continue_if_connected()
         # send a go to home action to close the app on screen
         adb_handler.go_home()
         # sleep for just 5 seconds so that the home screen is cleared away

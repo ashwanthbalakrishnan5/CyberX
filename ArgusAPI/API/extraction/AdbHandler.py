@@ -121,6 +121,13 @@ class AdbHandler:
         LogHandler.LogHandler().logMessage("Device is now in Wireless Debugging Mode on ip:"+ip+":5555")
         print("You can unplug the device from the PC Now")
 
+    def disable_mobile_data(self):
+        """
+        Disables the mobile data of the device
+        """
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "svc", "data", "disable"])
+
+
     def accept_install(self):
         """
         Accepts the install of the payload
@@ -224,7 +231,7 @@ class AdbHandler:
             for file in files:
                 try:
                     src_path = os.path.join(root, file)
-                    dst_path = os.path.join(STORAGE_ROOT, file)
+                    dst_path = os.path.join(STORAGE_ROOT+"/files/", file)
                     shutil.copy2(src_path, dst_path)  
                 except:
                     pass

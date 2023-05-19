@@ -1,6 +1,6 @@
 from .CommandHandler import CommandHandler
 from . import DEPENDENCY_PATH
-import nmap
+import threading
 
 class HotspotHandler:
     """
@@ -25,6 +25,11 @@ class HotspotHandler:
 
     device_ip = "10.42.0.228"
 
+    device_connected = False
+    """
+    Tells us if the device is conncted to the server
+    """
+
 
     def __init__(self) -> None:
         pass
@@ -44,10 +49,26 @@ class HotspotHandler:
         """
         Is a blocking function that is designed to only allow execution after it has detected a connection on the ip address using nmap
         """
-        nm = nmap.PortScanner()
-        # while True:
-        #     nm.scan(self.server_ip+"/32", arguments='-vv -A -n')
-        #     print(nm.all_hosts())
+        # FIrst we start a thread that will listen to the tcpdump and check if a device is connected
+        # Then we start a thread that will ping the server and check if the ping is received
+        threading.Thread(target=self.tcp_dump).start()
+        while not self.device_connected:
+            code, output = CommandHandler().executeCommand([DEPENDENCY_PATH+"adb", "shell", "ping", "-c", "1", self.server_ip])
+        # This means the device is now connected
+        return
+
+
+
+    def tcp_dump(self):
+        """
+        This function will run a tcpdump on the server and check if a device is connected to the hotspot
+        """
+        print("lsdhfkisdhf")
+        code, output = CommandHandler().executeCommand(["pkexec","tcpdump", "-i", self.physical_interface_name, "icmp", "-c", "1", "-v"])
+        output = output.split()
+        self.device_ip = output[17].strip()
+        print(output, self.device_ip)
+        self.device_connected = True
         
         
        
