@@ -7,7 +7,7 @@ import os
 import shutil
 import django
 import sys
-import nmap
+# import nmap
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
@@ -80,6 +80,8 @@ class AdbHandler:
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
+                    adbstatus.connec_status = "Device Connected Waiting for Device Info"
+                    adbstatus.save()
                     callback("Device Connected", adb_handler)
                     break
                 else:

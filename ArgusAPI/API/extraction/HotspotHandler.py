@@ -1,6 +1,5 @@
 from .CommandHandler import CommandHandler
 from . import DEPENDENCY_PATH
-import nmap
 
 class HotspotHandler:
     """
