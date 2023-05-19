@@ -20,9 +20,9 @@ def VideoMeta():
             file_path = os.path.join(folder_path, file_name)
 
              # Retrieve video thumbnail
-            thumbnail_filename = f"{file_name}.jpg"
-            thumbnail_path = os.path.join(folder_path, thumbnail_filename)
-            ffmpeg.input(file_path).output(thumbnail_path, vframes=1).run()
+            thumbnail_path = f"{file_name}.jpg"
+            # thumbnail_path = os.path.join(folder_path, thumbnail_filename)
+            # ffmpeg.input(file_path).output(thumbnail_path, vframes=1).run()
     
             # video info
             probe = ffmpeg.probe(file_path)

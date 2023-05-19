@@ -60,8 +60,8 @@ class CallLog(models.Model):
     datetime = models.DateTimeField()
     duration = models.PositiveIntegerField()
     name = models.CharField(max_length=255,null=True,blank=True)
-    # contacts = models.ForeignKey(
-    #     Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
+    contacts = models.ForeignKey(
+        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
 
 
 class SmsLog(models.Model):
