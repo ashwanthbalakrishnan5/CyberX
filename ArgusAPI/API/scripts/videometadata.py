@@ -53,8 +53,7 @@ def VideoMeta():
                 fps = frame_rate,
                 audio_codec = audio_codec,
                 audio_channel = audio_channels,
-                audio_sample_rate = audio_sample_rate,
-                device = None
+                audio_sample_rate = audio_sample_rate
             )
             # print
             # print("File name:", file_name)

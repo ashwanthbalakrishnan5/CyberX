@@ -57,8 +57,7 @@ def PhotoMeta():
                 f_number = exif_data.get("FNumber"),
                 iso_speed = exif_data.get("ISOSpeedRatings"),
                 focal_length = exif_data.get("FocalLength"),
-                gps = exif_gps,
-                device = None
+                gps = exif_gps
             )
             photo.save()
     

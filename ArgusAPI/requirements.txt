@@ -15,5 +15,5 @@ ffmpeg-python
 numpy
 pytz
 whitenoise
-mysqlclient
+# mysqlclient
 mysql-connector-python

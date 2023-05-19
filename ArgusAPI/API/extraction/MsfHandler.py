@@ -19,7 +19,7 @@ class MsfHandler:
         if not os.path.exists(ARTIFACTS_PATH):
             os.makedirs(ARTIFACTS_PATH)
         # Connect to the msrpc server
-        self.client = MsfRpcClient('argus', server="127.0.0.50", ssl=True)
+        self.client = MsfRpcClient('argus', server="127.0.0.120", ssl=True)
         LogHandler.LogHandler().logMessage("Connected to Metasploit server")
 
 

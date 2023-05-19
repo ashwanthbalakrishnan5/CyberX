@@ -224,7 +224,7 @@ class AdbHandler:
         # Copies all files from Pictures folder
         if not os.path.exists(ARTIFACTS_PATH+"Pictures/"):
             os.mkdir(ARTIFACTS_PATH+"Pictures/")
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","pull", "/sdcard/Pictures", STORAGE_ROOT+"Pictures/"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","pull", "/sdcard/Pictures", STORAGE_ROOT+"/files/"])
         LogHandler.LogHandler().logMessage("Photos from Pictures directory have been copied to local device")
         # #Copies all the files from whatsapp media folder
         # os.mkdir(ARTIFACTS_PATH="Whatsapp/")
@@ -235,7 +235,7 @@ class AdbHandler:
             for file in files:
                 try:
                     src_path = os.path.join(root, file)
-                    dst_path = os.path.join(FILE_PATH, file)
+                    dst_path = os.path.join(STORAGE_ROOT, file)
                     shutil.copy2(src_path, dst_path)  
                 except:
                     pass

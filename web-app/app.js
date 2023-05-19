@@ -33,33 +33,43 @@ app.get("/adb", (req, res) => {
       }
     }
   );
-
+  res.render("adbWaitScreen")
   function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
-
-  res.render("adbWaitScreen");
-  var connect_status = false;
-  while(!connect_status) {
+  function requestStatus(){
     request(
       "http://127.0.0.1:8000/api/ADBStatus/",
       function (error, response, body) {
         if (!error && response.statusCode == 200) {
-          if(body["connec_status"] === "Device connected") {
-            connect_status = true;
+          if(body["connec_status"] === "Device Connected") {
             console.log(connect_status)
+            return true
           } else {
             console.log("not working")
+            return requestStatus()
           }
         }
       }
     );
-    sleep(2000)
+  }
+  res.render("adbWaitScreen");
+  let completed = requestStatus()
+  if(completed) {
+    res.redirect("/dashboard")
   }
   
 });
 
 app.get("/dashboard", (req, res) => {
+  request(
+    "http://127.0.0.1:8000/api/Device/",
+    function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        var device_info = JSON.parse(body)
+      }
+    }
+  );
   res.render("secondaryDashBoard");
 });
 
