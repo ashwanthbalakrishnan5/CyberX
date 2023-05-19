@@ -42,10 +42,12 @@ def face_reg(request):
 @api_view(['POST'])
 def disconnect(request):
     if request.method == 'POST' :
-        tables = ['api_contacts','api_calllog', 'api_smslog','api_adbstatus','api_dbstatus','api_device','api_docs','api_photo','api_video']  
+        tables = ['API_calllog', 'API_smslog','API_contacts','API_adbstatus','API_dbstatus','API_device','API_docs','API_photo','API_video']  
         with connection.cursor() as cursor:
+            cursor.execute('SET FOREIGN_KEY_CHECKS = 0;')
             for table_name in tables:
-                cursor.execute(f'TRUNCATE TABLE {table_name} RESTART IDENTITY')
+                cursor.execute(f'TRUNCATE TABLE {table_name}')
+            cursor.execute('SET FOREIGN_KEY_CHECKS = 1;')
         return Response({'disconnect': True})
 
 class ADBStatusViewSet(ReadOnlyModelViewSet):

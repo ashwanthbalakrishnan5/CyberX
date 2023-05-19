@@ -15,23 +15,28 @@ def start_extraction():
     #     return "Error"
 
     db_status = DBStatus.objects.create()
-    #import_call_logs()
+
     # Add callLog,sms,contacts to DB
+    import_call_logs()
     db_status.call_log_status = True
     db_status.save()
 
+    import_sms_logs()
     db_status.sms_log_status = True
     db_status.save()
 
+    import_contacts()
+    db_status.contacts_status = True
+    db_status.save()
     # After Photos recieved
     #PhotoMeta()
-    db_status.photo_meta_status = True
+    db_status.photo_meta_status = False
     db_status.save()
     #VideoMeta()
-    db_status.video_meta_status = True
+    db_status.video_meta_status = False
     db_status.save()
     #face_data()
-    db_status.face_data_status = True
+    db_status.face_data_status = False
     db_status.save()
     
 
