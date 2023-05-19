@@ -1,0 +1,400 @@
+Row: 0 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684530031231
+Row: 1 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684530030401
+Row: 2 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 185.00 on 5/19/2023 11:46:05 PM to ZENITH FOOD SOLUTIONS PRIVATE info :P2A/313996283256. Not You? call 18005721916-KVB , type=1, status=-1, date=1684520167150
+Row: 3 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 40.00 from Aadityaa  Nagarajan on 5/19/2023 6:26:31 PM.info :UPI/P2A/313984279671 -KVB, type=1, status=-1, date=1684500991057
+Row: 4 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 28 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things & more on your Airtel Xstream app at no extra cost. To claim your benefit download the latest version of Airtel Xstream app https://open.airtelxstream.in/WCF, type=1, status=-1, date=1684500909644
+Row: 5 address=Airtel, body=2/2 Xstream App now open.airtelxstream.in/Xstream_Mobile, type=1, status=-1, date=1684500900116
+Row: 6 address=Airtel, body=1/2 Enjoy 15GB (data valid till your existing pack validity). Also choose any 1 Xstream channel (SonyLiv, LionsgatePlay, ErosNow, Hoichoi, ManoramaMAX, Kanccha Lannka) on Airtel Xstream App for 28 days.Enjoy latest movies, web series & more at no extra cost. To select your favorite channel, download the latest Airtel, type=1, status=-1, date=1684500898339
+Row: 7 address=Airtel, body=Recharge of INR 148.00 is successful for your Airtel Mobile on 19-05-2023 18:24, Transaction ID 81769175.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1684500896932
+Row: 8 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 148.00 on 5/19/2023 6:24:50 PM to EURONETGPAY info :P2A/313984198081. Not You? call 18005721916-KVB , type=1, status=-1, date=1684500892086
+Row: 9 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 50.00 from ASHWANTH on 5/19/2023 5:40:47 PM.info :UPI/P2A/313970962337 -KVB, type=1, status=-1, date=1684498247990
+Row: 10 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 130.00 on 5/19/2023 5:40:39 PM to Mrs KALPANA  S info :P2A/350512860347. Not You? call 18005721916-KVB , type=1, status=-1, date=1684498240857
+Row: 11 address=59039211, body=<#> Your WhatsApp code: 239-043
+
+You can also tap on this link to verify your phone: v.whatsapp.com/239043
+
+Don't share this code with others
+4sgLq1p5sV6, type=1, status=-1, date=1684497648825
+Row: 12 address=AT-AIRTEL, body=50 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1684484339659
+Row: 13 address=CP-KVNTRS, body=It's time to dig into the delicious flavors of KEVENTERS Ice Cream! Get Flat 25% OFF on your bill at KEVENTERS. Use code 05193LHMLM5 by 21May, type=1, status=-1, date=1684480670680
+Row: 14 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:08 Bal:Rs2.91., type=1, status=-1, date=1684466771946
+Row: 15 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:24 Bal:Rs2.91., type=1, status=-1, date=1684466027454
+Row: 16 address=+919500522229, body=All the very best to your Hackathon Thambi. Very proud of your hard work and love you. Don't forget to stay hydrated and eat something in between. Call me when u can. , type=1, status=-1, date=1684464250039
+Row: 17 address=AX-KVBANK, body=KVB ALERT * INR 5,387.48 is the Balance in a/c ****5476 as of 19-MAY-2023 00:16:12 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1684456671857
+Row: 18 address=CP-AXISBK, body=Charges for non-maintenance of average balance have been reduced for your Axis Bank Savings A/c effective 01-04-23. Ignore the earlier communication regarding slab based structure. Please maintain balance to avoid charges. Visit https://ccm.axbk.in/s/T2dSTn8R for details., type=1, status=-1, date=1684453562796
+Row: 19 address=AD-SHPRKT, body=Order Picked: Hi Guhan, your Sleeky India order S30230, which contains Add Charger Skin - Add Sam..., has been picked up and will be shipped within the next 24 hours. Track Now https://shprkt.in/Bxie7VSkzXvG?t=c0476' Powered by Shiprocket, type=1, status=-1, date=1684450853522
+Row: 20 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 75.00 from Aadityaa  Nagarajan on 5/19/2023 3:15:37 AM.info :UPI/P2A/313963095380 -KVB, type=1, status=-1, date=1684446337407
+Row: 21 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 80.00 on 5/19/2023 3:06:31 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313963062276. Not You? call 18005721916-KVB , type=1, status=-1, date=1684445854648
+Row: 22 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684443880284
+Row: 23 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684443404800
+Row: 24 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684441933484
+Row: 25 address=+919500522229, body=How is it going?, type=1, status=-1, date=1684424968383
+Row: 26 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:13:21 Bal:Rs2.91., type=1, status=-1, date=1684410966502
+Row: 27 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684403493027
+Row: 28 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 20.00 on 5/18/2023 2:40:35 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313842236628. Not You? call 18005721916-KVB , type=1, status=-1, date=1684401096538
+Row: 29 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/18/2023 2:29:21 PM to Mr G NEHRU info :P2A/350418804831. Not You? call 18005721916-KVB , type=1, status=-1, date=1684400362142
+Row: 30 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 80.00 on 5/18/2023 12:33:19 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313837861397. Not You? call 18005721916-KVB , type=1, status=-1, date=1684393461184
+Row: 31 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 20.00 from Mr JAYASOORYA V on 5/18/2023 12:33:38 PM.info :UPI/P2A/313820695129 -KVB, type=1, status=-1, date=1684393419579
+Row: 32 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/18/2023 9:08:18 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313831122476. Not You? call 18005721916-KVB , type=1, status=-1, date=1684381158929
+Row: 33 address=VM-KVBANK, body=KVB ALERT * INR 5,882.48 is the Balance in a/c ****5476 as of 18-MAY-2023 00:14:42 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1684370105329
+Row: 34 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/18/2023 12:56:14 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313827730323. Not You? call 18005721916-KVB , type=1, status=-1, date=1684351636141
+Row: 35 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 295.00 on 5/18/2023 12:33:46 AM to ZENITH FOOD SOLUTIONS PRIVATE info :P2A/313899185652. Not You? call 18005721916-KVB , type=1, status=-1, date=1684350227283
+Row: 36 address=CP-ONMSGG, body=Wanted Retd(Govt/Bank/House Wife's/Pvt) Age55&Above Monthly Fixed Sal Upto Rs.52,000,PF,ESI.Interview on Saturday 20-05-23,10.30am.Register Ct:9442879913 ONMSGG, type=1, status=-1, date=1684300203087
+Row: 37 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 35.00 on 5/17/2023 10:10:13 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313798087521. Not You? call 18005721916-KVB , type=1, status=-1, date=1684298474972
+Row: 38 address=VD-KVBUPI, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 80.00 on 5/17/2023 9:53:11 AM to Mrs KALPANA  S info :P2A/313797489800. Not You? call 18005721916-KVB , type=1, status=-1, date=1684297393083
+Row: 39 address=AX-KVBANK, body=KVB ALERT * INR 6,017.48 is the Balance in a/c ****5476 as of 17-MAY-2023 00:35:02 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1684284070228
+Row: 40 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 5/17/2023 2:05:46 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/350350948421. Not You? call 18005721916-KVB , type=1, status=-1, date=1684269409071
+Row: 41 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 40.00 from Aadityaa  Nagarajan on 5/17/2023 2:06:45 AM.info :UPI/P2A/313738846044 -KVB, type=1, status=-1, date=1684269407821
+Row: 42 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:02:51 Bal:Rs2.91., type=1, status=-1, date=1684254691894
+Row: 43 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684245383137
+Row: 44 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684245382705
+Row: 45 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684244513260
+Row: 46 address=JD-IOBCHN, body=Dear Customer, Never respond to Unknown calls/SMS/Emails. Don't click on unknow links/Attachments received via SMS/Emails - IOB, type=1, status=-1, date=1684241025770
+Row: 47 address=JK-IOBCHN, body=Dear Customer, Never respond to Unknown calls/SMS/Emails. Don't click on unknow links/Attachments received via SMS/Emails - IOB, type=1, status=-1, date=1684240807545
+Row: 48 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 260.00 on 5/16/2023 2:50:12 PM to Google India Digital Services Pvt Ltd info :P2A/313673448226. Not You? call 18005721916-KVB , type=1, status=-1, date=1684228873579
+Row: 49 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 5/16/2023 11:40:28 AM to EVER GREEN FOOD LAND info :P2A/313666752849. Not You? call 18005721916-KVB , type=1, status=-1, date=1684217429640
+Row: 50 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:25 Bal:Rs2.91., type=1, status=-1, date=1684211312619
+Row: 51 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:01:13 Bal:Rs2.91., type=1, status=-1, date=1684174882722
+Row: 52 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:17 Bal:Rs2.91., type=1, status=-1, date=1684163171745
+Row: 53 address=AD-UNSOTP, body=OTP for Unstop account verification is 561764. This OTP is valid for 30 minutes. -Unstop, type=1, status=-1, date=1684150399772
+Row: 54 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684133246223
+Row: 55 address=BV-CGHSDL, body=' https://tinyurl.com/4mn3hr22 ' Use this link to attend the CGHS webinar on the topic '  A Walk-through of CGHS website - cghs.gov.in ', to be held on 16/05/2023, Tuesday, 04:00 PM. -CGHS, type=1, status=-1, date=1684131959297
+Row: 56 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684130495427
+Row: 57 address=VM-KVBANK, body=KVB ALERT * INR 6,337.48 is the Balance in a/c ****5476 as of 15-MAY-2023 00:12:34 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1684110174958
+Row: 58 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684100253275
+Row: 59 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:48 Bal:Rs2.91., type=1, status=-1, date=1684085349069
+Row: 60 address=+919500522229, body=Liked “Came to campus”, type=1, status=-1, date=1684068354808
+Row: 61 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:05:53 Bal:Rs2.91., type=1, status=-1, date=1684068343566
+Row: 62 address=9500522229, body=Came to campus, type=2, status=-1, date=1684066967416
+Row: 63 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 50.00 on 5/14/2023 5:39:55 PM to SIVA RASHWANTH S info :P2A/313407910979. Not You? call 18005721916-KVB , type=1, status=-1, date=1684066197261
+Row: 64 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 20.00 from EZHIL   S on 5/14/2023 4:20:13 PM.info :UPI/P2A/313405189665 -KVB, type=1, status=-1, date=1684061414728
+Row: 65 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 15.00 from EZHIL   S on 5/14/2023 4:19:55 PM.info :UPI/P2A/313405190483 -KVB, type=1, status=-1, date=1684061396844
+Row: 66 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 350.00 on 5/14/2023 4:12:31 PM to EZHIL   S info :P2A/313404983039. Not You? call 18005721916-KVB , type=1, status=-1, date=1684060953470
+Row: 67 address=+919500522229, body=K, type=1, status=-1, date=1684050423143
+Row: 68 address=9500522229, body=Just now, type=2, status=-1, date=1684050419788
+Row: 69 address=9500522229, body=Yes, type=2, status=-1, date=1684050412464
+Row: 70 address=+919500522229, body=Are you done swimming , type=1, status=-1, date=1684050409630
+Row: 71 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:01:00 Bal:Rs2.91., type=1, status=-1, date=1684043816432
+Row: 72 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 50.00 from SAICHARAN B G on 5/14/2023 11:24:31 AM.info :UPI/P2A/313430910946 -KVB, type=1, status=-1, date=1684043673754
+Row: 73 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 200.00 on 5/14/2023 11:13:31 AM to RADHAKRISHNAN R KRISHNA KUMARI info :P2A/313447928144. Not You? call 18005721916-KVB , type=1, status=-1, date=1684043073145
+Row: 74 address=+919500522229, body=Liked “Yaa I wished her yesterday night itself”, type=1, status=-1, date=1684043034037
+Row: 75 address=+919500522229, body=Don't drink the chlorine water, type=1, status=-1, date=1684043016817
+Row: 76 address=+919500522229, body=Ok, message me after u r done. , type=1, status=-1, date=1684042977524
+Row: 77 address=9500522229, body=First gng swimming , type=2, status=-1, date=1684042923162
+Row: 78 address=9500522229, body=We r leaving, type=2, status=-1, date=1684042918253
+Row: 79 address=9500522229, body=Yaa I wished her yesterday night itself, type=2, status=-1, date=1684042910308
+Row: 80 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:07 Bal:Rs2.91., type=1, status=-1, date=1684042105096
+Row: 81 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:13 Bal:Rs2.91., type=1, status=-1, date=1684041161541
+Row: 82 address=+919500522229, body=Shivu's birthday is today. Wish her when u can., type=1, status=-1, date=1684037186924
+Row: 83 address=VM-KVBANK, body=KVB ALERT * INR 6,852.48 is the Balance in a/c ****5476 as of 14-MAY-2023 00:31:07 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1684024362732
+Row: 84 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684016865610
+Row: 85 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684015986288
+Row: 86 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1684008467943
+Row: 87 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:01:31 Bal:Rs2.91., type=1, status=-1, date=1683985525821
+Row: 88 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683982634453
+Row: 89 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683978451497
+Row: 90 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/13/2023 4:45:54 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313371031706. Not You? call 18005721916-KVB , type=1, status=-1, date=1683976616688
+Row: 91 address=JM-ShpRkt, body=Order Packed: Hello Guhan, your Sleeky India order containing Add Charger Skin - Add Sam... is packed. Powered by Shiprocket -Shiprocket, type=1, status=-1, date=1683972090824
+Row: 92 address=AD-ARTLTV, body=Hurry up! left with only 22 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683970005368
+Row: 93 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:06:24 Bal:Rs2.91., type=1, status=-1, date=1683965122580
+Row: 94 address=JK-LNKART, body=Dear Customer, Say goodbye to flimsy eyeglasses and hello to Lenskart's Airflex! Buy 2 for 1500. TnC
+
+App: lskt.me/b8
+
+Store: lskt.me/m8, type=1, status=-1, date=1683960426742
+Row: 95 address=CP-KVNTRS, body=Celebrate MOTHER'S DAY with a sweet surprise at KEVENTERS. Get Flat 25% OFF* on any Shake, Ice Cream or Sundae at the store. Use code 05123IIKCB14 by 15May, type=1, status=-1, date=1683958156006
+Row: 96 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683956076444
+Row: 97 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/13/2023 9:53:25 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/349921085788. Not You? call 18005721916-KVB , type=1, status=-1, date=1683951867831
+Row: 98 address=+919500522229, body=Liked “I was working on the hackathon didn't notice ur message”, type=1, status=-1, date=1683943048288
+Row: 99 address=9500522229, body=I was working on the hackathon didn't notice ur message, type=2, status=-1, date=1683942994127
+Row: 100 address=AX-KVBANK, body=KVB ALERT * INR 6,932.48 is the Balance in a/c ****5476 as of 13-MAY-2023 00:10:28 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683937750386
+Row: 101 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:14 Bal:Rs2.91., type=1, status=-1, date=1683913206491
+Row: 102 address=+919500522229, body=R u asleep?
+, type=1, status=-1, date=1683911136098
+Row: 103 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683910018911
+Row: 104 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683910018329
+Row: 105 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:15 Bal:Rs2.91., type=1, status=-1, date=1683907398281
+Row: 106 address=TX-SHPRKT, body=Hi Guhan Sambandam, Your order from SLEEKY INDIA with order number S30230 is confirmed. Powered by Shiprocket., type=1, status=-1, date=1683898137944
+Row: 107 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 548.00 on 5/12/2023 6:58:51 PM to Sleeky India info :P2A/313242381882. Not You? call 18005721916-KVB , type=1, status=-1, date=1683898135374
+Row: 108 address=TX-SHPRKT, body=Hi, Your OTP for SLEEKY INDIA is 219307. It is valid for only 15 minutes and can be used only once. Powered by Shiprocket, type=1, status=-1, date=1683897912846
+Row: 109 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683875320414
+Row: 110 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 5/12/2023 11:46:54 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313225219562. Not You? call 18005721916-KVB , type=1, status=-1, date=1683872366995
+Row: 111 address=TM-PHRMSY, body=Dear customer, your wallet money will vanish soon. Use it now to order your medicines & keep saving. https://peasy.in/ExCCCu *TC PharmEasy, type=1, status=-1, date=1683864703170
+Row: 112 address=JM-KVBANK, body=KVB ALERT * INR 7,540.48 is the Balance in a/c ****5476 as of 12-MAY-2023 00:25:22 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683851236651
+Row: 113 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683826126826
+Row: 114 address=CP-HNLSMS, body=Your OTP for Housenlands is 9978, type=1, status=-1, date=1683817712445
+Row: 115 address=CP-HNLSMS, body=Your OTP for Housenlands is 9978, type=1, status=-1, date=1683817585951
+Row: 116 address=VD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 20.00 on 5/11/2023 6:38:21 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313105506048. Not You? call 18005721916-KVB , type=1, status=-1, date=1683810564362
+Row: 117 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 15.00 on 5/11/2023 4:38:29 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313100386254. Not You? call 18005721916-KVB , type=1, status=-1, date=1683803371995
+Row: 118 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 24 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683788270445
+Row: 119 address=JK-KVNTRS, body=Make THURSDAY the new weekend with KEVENTERS. Sip the chill-est Reg shakes @Rs129, Large shakes @Rs199 and Sundaes @Rs149. Head to your nearest store today!, type=1, status=-1, date=1683787918791
+Row: 120 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 55.00 on 5/11/2023 11:57:35 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313190456586. Not You? call 18005721916-KVB , type=1, status=-1, date=1683786517569
+Row: 121 address=JM-KVBANK, body=KVB ALERT * INR 7,630.48 is the Balance in a/c ****5476 as of 11-MAY-2023 00:19:30 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683764778852
+Row: 122 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683721502204
+Row: 123 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683709228795
+Row: 124 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/10/2023 2:03:05 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/313031064875. Not You? call 18005721916-KVB , type=1, status=-1, date=1683707587300
+Row: 125 address=TM-FLPKRT, body=Dear Customer, Grab Sale on ITC products this Big Savings Days! Shop wide range of Staples, Packaged Food & Beverages on Flipkart>
+
+http://fkrt.it/emlgJwNNNN, type=1, status=-1, date=1683697101466
+Row: 126 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 38.00 on 5/10/2023 10:38:25 AM to EVER GREEN FOOD LAND info :P2A/313056810805. Not You? call 18005721916-KVB , type=1, status=-1, date=1683695306792
+Row: 127 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 5/10/2023 10:37:45 AM to ABHINAV SIVAKUMAR info :P2A/313056773404. Not You? call 18005721916-KVB , type=1, status=-1, date=1683695265852
+Row: 128 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 1.00 on 5/10/2023 9:55:02 AM to ABHINAV SIVAKUMAR info :P2A/313055284690. Not You? call 18005721916-KVB , type=1, status=-1, date=1683692703981
+Row: 129 address=JM-KVBANK, body=KVB ALERT * INR 7,769.48 is the Balance in a/c ****5476 as of 10-MAY-2023 00:26:06 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683678088242
+Row: 130 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 26 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683643404017
+Row: 131 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 20.00 from Aadityaa  Nagarajan on 5/9/2023 6:19:37 PM.info :UPI/P2A/312936223859 -KVB, type=1, status=-1, date=1683636578709
+Row: 132 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 65.00 on 5/9/2023 6:19:09 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/312936204550. Not You? call 18005721916-KVB , type=1, status=-1, date=1683636551245
+Row: 133 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683621300612
+Row: 134 address=BV-CGHSDL, body=https://tinyurl.com/3r6c372a ' Use this link to attend the CGHS Webinar on the topic '
+Common cancers - Role of self examination in their early detection ', to be held
+on 09/05/2023, Tuesday, 04:00 PM. -CGHS ", type=1, status=-1, date=1683614797831
+Row: 135 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 5/9/2023 12:16:01 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/312922558834. Not You? call 18005721916-KVB , type=1, status=-1, date=1683614763667
+Row: 136 address=VM-FLPKRT, body=Dear Customer, Grab Sale on ITC products this Big Savings Days! Shop wide range of Staples, Packaged Food & Beverages on Flipkart>
+
+http://fkrt.it/yp2MIaNNNN, type=1, status=-1, date=1683614388057
+Row: 137 address=51501, body=G-852738 is your Google verification code., type=1, status=-1, date=1683602169888
+Row: 138 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683578039642
+Row: 139 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:15 Bal:Rs2.91., type=1, status=-1, date=1683556095969
+Row: 140 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:19 Bal:Rs2.91., type=1, status=-1, date=1683534001200
+Row: 141 address=AD-ARTLTV, body=Hurry up! left with only 22 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683524643594
+Row: 142 address=AT-AIRTEL, body=Hi, Your recharge is still pending. To enjoy an uninterrupted experience on your Airtel mobile, please complete your recharge. Click here now https://gpay.app.goo.gl/kVo8vX, type=1, status=-1, date=1683502485259
+Row: 143 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683469855272
+Row: 144 address=AD-ARTLTV, body=Congratulations! Your, Rs.148.0 recharge offers you FREE 28 DAYS of access to live sports, blockbusters hits like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF2, type=1, status=-1, date=1683462350282
+Row: 145 address=JM-KVBANK, body=KVB ALERT * INR 7,854.48 is the Balance in a/c ****5476 as of 07-MAY-2023 00:14:04 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683420634045
+Row: 146 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 28 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things & more on your Airtel Xstream app at no extra cost. To claim your benefit download the latest version of Airtel Xstream app https://open.airtelxstream.in/WCF, type=1, status=-1, date=1683396797877
+Row: 147 address=Airtel, body=2/2 Xstream App now open.airtelxstream.in/Xstream_Mobile, type=1, status=-1, date=1683396782517
+Row: 148 address=Airtel, body=Recharge of INR 148.00 is successful for your Airtel Mobile on 06-05-2023 23:42, Transaction ID 1844247049.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1683396778701
+Row: 149 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 148.00 on 5/6/2023 11:42:52 PM to billdesktez info :P2A/312640686408. Not You? call 18005721916-KVB , type=1, status=-1, date=1683396772682
+Row: 150 address=AT-AIRTEL, body=50 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1683396703740
+Row: 151 address=AT-AIRTEL, body=500 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1683393052267
+Row: 152 address=AT-AIRTEL, body=500 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1683392618362
+Row: 153 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683387053203
+Row: 154 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683386856379
+Row: 155 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 30.00 from Aadityaa  Nagarajan on 5/6/2023 8:14:34 PM.info :UPI/P2A/312633876409 -KVB, type=1, status=-1, date=1683384274839
+Row: 156 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683381903437
+Row: 157 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 30.00 on 5/6/2023 6:04:49 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/312627814895. Not You? call 18005721916-KVB , type=1, status=-1, date=1683376490556
+Row: 158 address=JK-KVNTRS, body=Summer calls for KEVENTERS extraaa creamy Thick Shakes! Get Flat 30% OFF on your bill. Use code  by 8-May at any outlet, type=1, status=-1, date=1683374995006
+Row: 159 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 20.00 on 5/6/2023 4:14:59 PM to Georgia info :P2A/312623449934. Not You? call 18005721916-KVB , type=1, status=-1, date=1683369900694
+Row: 160 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 24 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683365807209
+Row: 161 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 38.00 from ABHINAV SIVAKUMAR on 5/6/2023 11:41:23 AM.info :UPI/P2A/312617157231 -KVB, type=1, status=-1, date=1683353485013
+Row: 162 address=AD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 76.00 on 5/6/2023 11:41:10 AM to Mr G NEHRU info :P2A/312612761827. Not You? call 18005721916-KVB , type=1, status=-1, date=1683353470707
+Row: 163 address=VK-LNKART, body=Dear Customer, Say goodbye to flimsy eyeglasses and hello to Lenskart's Airflex! Buy 2 for 1500. TnC
+
+App: lskt.me/b8
+
+Store: lskt.me/m8, type=1, status=-1, date=1683350550866
+Row: 164 address=AD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 45.00 on 5/6/2023 9:31:09 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/312608187815. Not You? call 18005721916-KVB , type=1, status=-1, date=1683345670099
+Row: 165 address=JM-KVBANK, body=KVB ALERT * INR 8,105.48 is the Balance in a/c ****5476 as of 06-MAY-2023 00:10:17 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683333739060
+Row: 166 address=QP-KAVNGR, body=KAVANAGARAyyavudan
+KAILASH Yatra-14D
+23Aug-5.Sep
+withMUKTHINATH-18D
+23Aug-9.Sep
+100%PARIKRAMA
+DailySATSANGAM
+Flight,Visa,5starHotel
+Food&All
+VGPTOURS
+9841464388, type=1, status=-1, date=1683300008014
+Row: 167 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 55.00 on 5/5/2023 4:49:24 PM to VIJAY T info :P2A/312586575041. Not You? call 18005721916-KVB , type=1, status=-1, date=1683285564504
+Row: 168 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:04:12 Bal:Rs2.91., type=1, status=-1, date=1683262491162
+Row: 169 address=AD-KVBANK, body=KVB ALERT * INR 8,160.48 is the Balance in a/c ****5476 as of 05-MAY-2023 00:12:52 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683246970994
+Row: 170 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683236271780
+Row: 171 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683235604246
+Row: 172 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683230873279
+Row: 173 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683215082884
+Row: 174 address=CP-KVNTRS, body=Looking for a late night indulgence? KEVENTERS' decadent shakes are just a tap away. Order now from Zomato/Swiggy and get up to 40% OFF: bit.ly/KevHC, type=1, status=-1, date=1683212491130
+Row: 175 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 26 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683205158491
+Row: 176 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 5/4/2023 3:59:33 PM to R JAYAPRIYA info :P2A/312448365757. Not You? call 18005721916-KVB , type=1, status=-1, date=1683196176593
+Row: 177 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683192290401
+Row: 178 address=TM-FLPKRT, body=[#] 478651 is the verification code to log in to your Flipkart account. DO NOT share this code with anyone including Flipkart delivery agents.
+Df9YrqIZHWd, type=1, status=-1, date=1683192288189
+Row: 179 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 78.00 on 5/4/2023 11:45:55 AM to Mr G NEHRU info :P2A/312439434859. Not You? call 18005721916-KVB , type=1, status=-1, date=1683180955970
+Row: 180 address=+919750063777, body=in class da, type=2, status=-1, date=1683172323359
+Row: 181 address=AD-KVBANK, body=KVB ALERT * INR 8,298.48 is the Balance in a/c ****5476 as of 04-MAY-2023 00:36:09 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683159804538
+Row: 182 address=JK-SALTFE, body=220019 is the OTP to verify your phone number with MYSALTAPP.
+
+Do not share this with anyone else. Valid for 5 minutes.
+
+lTBZX2KEYo6, type=1, status=-1, date=1683128996197
+Row: 183 address=QP-KAVNGR, body=KAVANAGARAyyavudan,
+KASI,GAYA,AYOTHI YATRA
+Naimisaranyam,Lucknow
+Train-July11to21-10N/11D
+Flight-July13to20-7N/8D
+StarHotel,AC-bus,Food&All
+VGP TOURS:9841464388, type=1, status=-1, date=1683121568141
+Row: 184 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:01:26 Bal:Rs2.91., type=1, status=-1, date=1683120437516
+Row: 185 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:01:26 Bal:Rs2.91., type=1, status=-1, date=1683120437516
+Row: 186 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 30.00 on 5/3/2023 6:06:05 PM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/312317474406. Not You? call 18005721916-KVB , type=1, status=-1, date=1683117367105
+Row: 187 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:13 Bal:Rs2.91., type=1, status=-1, date=1683102764188
+Row: 188 address=AD-ARTLTV, body=Hurry up! left with only 22 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1683095629278
+Row: 189 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 75.00 on 5/3/2023 10:33:37 AM to ABHISHEK KUMAR  SO ASHOK KUMAR info :P2A/312300158061. Not You? call 18005721916-KVB , type=1, status=-1, date=1683090218762
+Row: 190 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 68.00 on 5/3/2023 9:51:42 AM to Mr G NEHRU info :P2A/312398645808. Not You? call 18005721916-KVB , type=1, status=-1, date=1683087702963
+Row: 191 address=JM-KVBANK, body=KVB ALERT * INR 8,471.48 is the Balance in a/c ****5476 as of 03-MAY-2023 00:10:37 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1683073216193
+Row: 192 address=+919500522229, body=👍, type=1, status=-1, date=1683069090728
+Row: 193 address=9500522229, body=Yeah, type=2, status=-1, date=1683069079262
+Row: 194 address=+919500522229, body=Did u sleep well?, type=1, status=-1, date=1683069067777
+Row: 195 address=+919500522229, body=Oh, ok. , type=1, status=-1, date=1683069030360
+Row: 196 address=9500522229, body=50 more minutes , type=2, status=-1, date=1683069005689
+Row: 197 address=+919500522229, body=Ok, almost there, right?, type=1, status=-1, date=1683068987735
+Row: 198 address=9500522229, body=Yeah, I am, type=2, status=-1, date=1683068967351
+Row: 199 address=+919500522229, body=R u up, Thambi?, type=1, status=-1, date=1683068957871
+Row: 200 address=+919600573555, body=Ok then, type=1, status=-1, date=1683050570295
+Row: 201 address=+919600573555, body=I have the leather strap one there, type=2, status=-1, date=1683050551468
+Row: 202 address=+919600573555, body=No it's okay, type=2, status=-1, date=1683050533592
+Row: 203 address=+919600573555, body=You left your analog watch here. Don't you need it?, type=1, status=-1, date=1683050516650
+Row: 204 address=9500522229, body=Okay, will do, type=2, status=-1, date=1683047682553
+Row: 205 address=+919500522229, body=Ok, bye then. Update when u can., type=1, status=-1, date=1683047566046
+Row: 206 address=9500522229, body=Okay, will do, type=2, status=-1, date=1683047536444
+Row: 207 address=+919500522229, body=Ok, sleep well and put an alarm for morning around 4:30, type=1, status=-1, date=1683047529547
+Row: 208 address=9500522229, body=Yes 👍, type=2, status=-1, date=1683047488736
+Row: 209 address=+919500522229, body=Ok, Thambi. Did u get a place to put your bag?, type=1, status=-1, date=1683047483937
+Row: 210 address=9500522229, body=We settled into our seats, type=2, status=-1, date=1683047441653
+Row: 211 address=+919994925661, body=KPN Boarding Pass: ED92DC
+Ticket #: D002486202
+Seats: U13,U14
+Boarding: AVINASHI BYEPASS KPN at 09:15 PM 
+Vehicle Number & Contact: PY01-CU9919, 9442700334
+Track: https://tinyurl.com/2zm2hw8f
+-KPN Travels, type=2, status=-1, date=1683045111960
+Row: 212 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1683044171222
+Row: 213 address=BV-CGHSDL, body=Dear beneficiary, kindly convey your suggestions for improvement of CGHS services or your grievances to Local Advisory Committee in CGHS Wellness Centres, to be taken up in monthly meetings. Link for the OM is https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml?id=NDQxMA== - CGHS, type=1, status=-1, date=1683038923192
+Row: 214 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:51 Bal:Rs2.91., type=1, status=-1, date=1683032592105
+Row: 215 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:02:09 Bal:Rs2.91., type=1, status=-1, date=1683031933700
+Row: 216 address=57273121, body=952869 is your GitHub authentication code., type=1, status=-1, date=1683026409320
+Row: 217 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:57 Bal:Rs2.91., type=1, status=-1, date=1683025981100
+Row: 218 address=AD-ARTLTV, body=Congratulations! Your, Rs.148.0 recharge offers you FREE 28 DAYS of access to live sports, blockbusters hits like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF2, type=1, status=-1, date=1683004572842
+Row: 219 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 8000.00 on 5/2/2023 9:42:09 AM to SENTHIL KUMAR  G info :P2A/312260601519. Not You? call 18005721916-KVB , type=1, status=-1, date=1683000730597
+Row: 220 address=JM-KVBANK, body=KVB ALERT * INR 16,471.48 is the Balance in a/c ****5476 as of 02-MAY-2023 00:27:32 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1682989122931
+Row: 221 address=AD-AIRSLF, body=Congratulations! Unlimited 5G data with Airtel 5G Plus is now active. You will be able to experience up to 30X faster speeds in 5G network areas only. To check if you are ready to experience 5G, click i.airtel.in/New5G, type=1, status=-1, date=1682973690902
+Row: 222 address=AT-AIRINF, body=FREE data coupon of 2GB has been credited to your Airtel Mobile account. Claim now before it expires: u.airtel.in/2datacoupon, type=1, status=-1, date=1682960837819
+Row: 223 address=Airtel, body=Enjoy 4GB data valid till your current pack validity.Also get EXTRA 2GB on your next recharge of Rs65 for your Airtel Mobile, only on Airtel Thanks App. Click i.airtel.in/rech_now, type=1, status=-1, date=1682960450176
+Row: 224 address=Airtel, body=Recharge of INR 65.00 is successful for your Airtel Mobile on 01-05-2023 22:30, Transaction ID 1755514738.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1682960449298
+Row: 225 address=AT-AIRINF, body=Hi, Your Prepaid recharge of Rs. 65.0 is success against Order Id 7058847693726064640. Please keep the Order ID for future reference., type=1, status=-1, date=1682960448561
+Row: 226 address=AT-AIRINF, body=Hi, we have processed Rs. 65.0 for your Airtel Mobile 9600126555. The payment will be updated within 1 hrs. Please keep your order ID 7058847693726064640 for future reference. Track your payment status via  https://i.airtel.in/Recharge-Bills, type=1, status=-1, date=1682960448020
+Row: 227 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 65.00 on 5/1/2023 10:30:42 PM to Bharti Airtel Limited info :P2A/312154527522. Not You? call 18005721916-KVB , type=1, status=-1, date=1682960446662
+Row: 228 address=AT-AIRTEL, body=1GB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1682960237424
+Row: 229 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 28 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things & more on your Airtel Xstream app at no extra cost. To claim your benefit download the latest version of Airtel Xstream app https://open.airtelxstream.in/WCF, type=1, status=-1, date=1682958854081
+Row: 230 address=Airtel, body=2/2 Xstream App now open.airtelxstream.in/Xstream_Mobile, type=1, status=-1, date=1682958847316
+Row: 231 address=Airtel, body=1/2 Enjoy 15GB (data valid till your existing pack validity). Also choose any 1 Xstream channel (SonyLiv, LionsgatePlay, ErosNow, Hoichoi, Miff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1682958845469
+Row: 232 address=AT-AIRINF, body=Hi, Your Prepaid recharge of Rs. 148.0 is success against Order Id 7058840953085272064. Please keep the Order ID for future reference., type=1, status=-1, date=1682958844759
+Row: 233 address=AT-AIRINF, body=Hi, we have processed Rs. 148.0 for your Airtel Mobile 9600126555. The payment will be updated within 1 hrs. Please keep your order ID 7058840953085272064 for future reference. Track your payment status via  https://i.airtel.in/Recharge-Bills, type=1, status=-1, date=1682958844321
+Row: 234 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 148.00 on 5/1/2023 10:04:01 PM to Bharti Airtel Limited info :P2A/312153865012. Not You? call 18005721916-KVB , type=1, status=-1, date=1682958842498
+Row: 235 address=AT-AIRTEL, body=500 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1682958265836
+Row: 236 address=AT-AIRTEL, body=500 MB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1682958265273
+Row: 237 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:58 Bal:Rs2.91., type=1, status=-1, date=1682954437036
+Row: 238 address=AT-AIRTEL, body=Pack Valid till 28 May 2023. CallCost:Rs0.00 Duration:00:00:21 Bal:Rs2.91., type=1, status=-1, date=1682953596542
+Row: 239 address=AD-iPaytm, body=Paytm login detected from a new device at 07:19 PM, 01 May. Not you? To logout from all devices, click: https://paytm.me/qMV-IPu or report fraud @1800120130, type=1, status=-1, date=1682948976800
+Row: 240 address=+919311784747, body=Paytm Secure SMS to verify your number and Login:$NzRjNTNmOTVhMTg2Y2Y5NTVkZTRlNjdiMTMxYzU3Yjk, type=2, status=0, date=1682948975732
+Row: 241 address=AD-iPaytm, body=Your login for Paytm App has started. Do not share SMS with OTP/Code to anyone for security reasons. Not You? Report https://paytm.me/u-uYL3X, type=1, status=-1, date=1682948975367
+Row: 242 address=AD-KVBANK, body=Your a/c no. XXXXXXXXXXXX5476 is credited by INR 8,500.00 on 01-05-23 by a/c linked to mobile xxxxxx5661 (IMPS Ref no. 312117042565). Avl Bal INR 16,684.48 -KVB, type=1, status=-1, date=1682942857691
+Row: 243 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 24 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1682941277294
+Row: 244 address=Airtel, body=Enjoy 12GB data valid till your current pack validity., type=1, status=-1, date=1682934107914
+Row: 245 address=Airtel, body=Recharge of INR 118.00 is successful for your Airtel Mobile on 01-05-2023 15:10, Transaction ID 1747112819.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1682934107380
+Row: 246 address=AT-AIRINF, body=Hi, Your Prepaid recharge of Rs. 118.0 is success against Order Id 7058736939727364096. Please keep the Order ID for future reference., type=1, status=-1, date=1682934047525
+Row: 247 address=AT-AIRINF, body=Hi, we have processed Rs. 118.0 for your Airtel Mobile 9600126555. The payment will be updated within 1 hrs. Please keep your order ID 7058736939727364096 for future reference. Track your payment status via  https://i.airtel.in/Recharge-Bills, type=1, status=-1, date=1682934046904
+Row: 248 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 118.00 on 5/1/2023 3:10:44 PM to AIRTEL PAYMENTS BANK LIMITED info :P2A/312136742683. Not You? call 18005721916-KVB , type=1, status=-1, date=1682934045834
+Row: 249 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682933716763
+Row: 250 address=JM-KVBANK, body=KVB ALERT * INR 8,302.48 is the Balance in a/c ****5476 as of 01-MAY-2023 00:48:36 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1682900671915
+Row: 251 address=+919080276386, body=This is a test through metasploit, type=2, status=0, date=1682889502777
+Row: 252 address=+919080276386, body=This is a test through metasploit, type=2, status=0, date=1682889462929
+Row: 253 address=+919080276386, body=This, type=2, status=0, date=1682889437540
+Row: 254 address=AT-AIRTEL, body=Airtel pack on 9600126555 ends TONIGHT. Recharge with your favourite Unlimited Pack for continued services i.airtel.in/FDPNew Ignore if already done, type=1, status=-1, date=1682847994874
+Row: 255 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682841007393
+Row: 256 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682840932531
+Row: 257 address=51501, body=G-222180 is your Google verification code., type=1, status=-1, date=1682840534751
+Row: 258 address=Airtel, body=Enjoy 1.5GB/day data, unlimited Local, STD & Roaming calls on any network and 100 SMS/day. Pack valid for 28 days. UNLIMITED 5G data over & above your plan limit, claim on Airtel Thanks App., type=1, status=-1, date=1682837768140
+Row: 259 address=Airtel, body=Recharge of INR 299.00 is successful for your Airtel Mobile on 30-04-2023 12:26, Transaction ID 1726493499.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1682837767184
+Row: 260 address=AT-AIRINF, body=Hi, Your Prepaid recharge of Rs. 299.0 is success against Order Id 7058333101172105216. Please keep the Order ID for future reference., type=1, status=-1, date=1682837766068
+Row: 261 address=AD-Airtel, body= Hi, recharge of Rs. 299 successfully credited to your Airtel number 9600126555, also the validity has been extended till 28-05-2023., type=1, status=-1, date=1682837764918
+Row: 262 address=AT-AIRINF, body=Hi, we have processed Rs. 299.0 for your Airtel Mobile 9600126555. The payment will be updated within 1 hrs. Please keep your order ID 7058333101172105216 for future reference. Track your payment status via  https://i.airtel.in/Recharge-Bills, type=1, status=-1, date=1682837763876
+Row: 263 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 299.00 on 4/30/2023 12:26:02 PM to airtel info :P2A/312095547554. Not You? call 18005721916-KVB , type=1, status=-1, date=1682837763068
+Row: 264 address=AT-AIRINF, body=<#> 1509 is your OTP to login into Airtel Thanks app. OTP valid for 15 mins. Do not share with anyone. If this was not you click i.airtel.in/Contact N9BWuqauU1y, type=1, status=-1, date=1682837666977
+Row: 265 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682837595195
+Row: 266 address=JM-KVBANK, body=KVB ALERT * INR 8,601.48 is the Balance in a/c ****5476 as of 30-APR-2023 00:11:47 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1682814117645
+Row: 267 address=VM-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 20.00 from Aadityaa  Nagarajan on 4/29/2023 9:05:02 PM.info :UPI/P2A/311981147520 -KVB, type=1, status=-1, date=1682782506749
+Row: 268 address=AT-AIRTEL, body=Your Airtel pack ends TOMORROW. If not recharged, outgoing services will stop. Recharge without losing your current validity i.airtel.in/FDPNew Ignore if done, type=1, status=-1, date=1682777670987
+Row: 269 address=CP-KVNTRS, body=Keep it cool with the All-New Sparkling Iced Beverages & Thick Shakes at the nearest KEVENTERS store. Get Rs100 OFF on Rs300 bill. Use code 04293I1ISW13 by 1May, type=1, status=-1, date=1682762154504
+Row: 270 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682757771062
+Row: 271 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682757112013
+Row: 272 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682751985000
+Row: 273 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 26 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF148mid, type=1, status=-1, date=1682748555260
+Row: 274 address=AD-KVNTRS, body=Let the slurrp begin, AGAIN @ KEVENTERS! Buy 2 reg milkshakes & get 1 reg classic shake FREE. Use code PXWTVRJKAB by 6May. TnC apply, type=1, status=-1, date=1682742729099
+Row: 275 address=AIRMCA, body= 1 missed call(s) received on 29-04-2023 while you were unreachable. Track your missed calls ONLY on latest version of Airtel Thanks App i.airtel.in/alert, type=1, status=-1, date=1682735412997
+Row: 276 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:18 Bal:Rs2.91., type=1, status=-1, date=1682698482447
+Row: 277 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:29 Bal:Rs2.91., type=1, status=-1, date=1682690205252
+Row: 278 address=AT-AIRTEL, body=Airtel Unlimited Pack validity for 9600126555 is till 30-Apr-23. Recharge TODAY without losing your current validity i.airtel.in/FDPNew Ignore if already done, type=1, status=-1, date=1682689171148
+Row: 279 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:53 Bal:Rs2.91., type=1, status=-1, date=1682686725087
+Row: 280 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:06 Bal:Rs2.91., type=1, status=-1, date=1682686594555
+Row: 281 address=51501, body=G-862414 is your Google verification code., type=1, status=-1, date=1682684579370
+Row: 282 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:35 Bal:Rs2.91., type=1, status=-1, date=1682684368583
+Row: 283 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:43 Bal:Rs2.91., type=1, status=-1, date=1682683909837
+Row: 284 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:56 Bal:Rs2.91., type=1, status=-1, date=1682683136160
+Row: 285 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:11 Bal:Rs2.91., type=1, status=-1, date=1682669570183
+Row: 286 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:09 Bal:Rs2.91., type=1, status=-1, date=1682666821157
+Row: 287 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682658596016
+Row: 288 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682658595127
+Row: 289 address=AT-AIRTEL, body=90% Alert: You have consumed 90% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682657817722
+Row: 290 address=JM-KVBANK, body=KVB ALERT * INR 8,581.48 is the Balance in a/c ****5476 as of 28-APR-2023 00:04:39 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1682641464927
+Row: 291 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682631597604
+Row: 292 address=AT-AIRTEL, body=Airtel pack on 9600126555 ends on 30-Apr-23. Recharge today without losing your current validity i.airtel.in/FDPNew Ignore if already done, type=1, status=-1, date=1682593555191
+Row: 293 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682593466197
+Row: 294 address=BP-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 1909.00 on 4/27/2023 2:36:14 PM to EZHIL   S info :P2A/311794109014. Not You? call 18005721916-KVB , type=1, status=-1, date=1682586376051
+Row: 295 address=BP-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is credited Rs. 367.00 from ASHWANTH on 4/27/2023 2:26:37 PM.info :UPI/P2A/348309724194 -KVB, type=1, status=-1, date=1682585799210
+Row: 296 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:26 Bal:Rs2.91., type=1, status=-1, date=1682584273213
+Row: 297 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:34 Bal:Rs2.91., type=1, status=-1, date=1682584230272
+Row: 298 address=AT-AIRTEL, body=50% Alert: You have consumed 50% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682578800917
+Row: 299 address=AD-ARTLTV, body=Congratulations! Your, Rs.148.0 recharge offers you FREE 28 DAYS of access to live sports, blockbusters hits like Accidental Farmer, Iru Dhuruvam S2, Story Of Things.Stream now. https://open.airtelxstream.in/WCF2, type=1, status=-1, date=1682577543824
+Row: 300 address=AX-KVBUPI, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 40.00 on 4/27/2023 10:51:24 AM to SOWKEA  AGRO AND RETAIL CONCEPTS PRIVATE LIMITED info :P2A/311786531461. Not You? call 18005721916-KVB , type=1, status=-1, date=1682572886783
+Row: 301 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:07 Bal:Rs2.91., type=1, status=-1, date=1682572362126
+Row: 302 address=AX-KPNBUS, body=Dear Customer, 
+058292 is your one-time password(OTP). Please enter the OTP to proceed. 
+Thank you, 
+KPN Travels., type=1, status=-1, date=1682572018312
+Row: 303 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 8.00 on 4/27/2023 10:35:46 AM to MSP Xerox info :P2A/311785992782. Not You? call 18005721916-KVB , type=1, status=-1, date=1682571947427
+Row: 304 address=8220273849, body=Check watsapp , type=2, status=-1, date=1682571755491
+Row: 305 address=+918220273849, body=Enna enna da iruku?, type=1, status=-1, date=1682571497489
+Row: 306 address=8220273849, body=Wogay, type=2, status=-1, date=1682571490305
+Row: 307 address=8220273849, body=For ticket, type=2, status=-1, date=1682571487051
+Row: 308 address=+918220273849, body=Omni bus stand , type=1, status=-1, date=1682571486112
+Row: 309 address=8220273849, body=Boarding point yedhu?, type=2, status=-1, date=1682571467101
+Row: 310 address=+918220273849, body=Class da, type=1, status=-1, date=1682571454292
+Row: 311 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:18 Bal:Rs2.91., type=1, status=-1, date=1682570557844
+Row: 312 address=VK-MMTRIP, body=[#] 983048 is the OTP to create your MakeMyTrip account. We don't ask for your OTP/bank info. Don't share it with anyone. Fkkno1xnYMa - MMT, type=1, status=-1, date=1682570024641
+Row: 313 address=VK-MMTRIP, body=[#] 767987 is the OTP to create your MakeMyTrip account. We don't ask for your OTP/bank info. Don't share it with anyone. Fkkno1xnYMa - MMT, type=1, status=-1, date=1682570016346
+Row: 314 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:24 Bal:Rs2.91., type=1, status=-1, date=1682569125534
+Row: 315 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:28 Bal:Rs2.91., type=1, status=-1, date=1682567511718
+Row: 316 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 60.00 on 4/27/2023 9:07:16 AM to SRRC GYMKHAANA SELF 1 info :P2A/348334211479. Not You? call 18005721916-KVB , type=1, status=-1, date=1682566637654
+Row: 317 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:54 Bal:Rs2.91., type=1, status=-1, date=1682566338469
+Row: 318 address=CP-REDBUS, body=<#> 141055 is your Account Login OTP. DO NOT SHARE this with bus operator or anyone. OTP valid for 15 mins. Team redBus xCvl+Lo2HH8, type=1, status=-1, date=1682564196623
+Row: 319 address=JM-KVBANK, body=KVB ALERT * INR 10,231.48 is the Balance in a/c ****5476 as of 27-APR-2023 00:21:17 * Download KVB-DLite mobile app from http://I9f.in/oorC0e, type=1, status=-1, date=1682555944315
+Row: 320 address=AX-KVBUPI, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 120.00 on 4/26/2023 8:17:25 PM to TARUN SATISH info :P2A/311673855149. Not You? call 18005721916-KVB , type=1, status=-1, date=1682520446735
+Row: 321 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:00:19 Bal:Rs2.91., type=1, status=-1, date=1682519074084
+Row: 322 address=503501, body=Your Confirmation code: 399371 Sent from Riot Games, type=1, status=-1, date=1682518342549
+Row: 323 address=9500522229, body=Okay, type=2, status=-1, date=1682516897913
+Row: 324 address=+919500522229, body=She replied 👆, type=1, status=-1, date=1682516217804
+Row: 325 address=+919500522229, body=Ok mam, type=1, status=-1, date=1682516197368
+Row: 326 address=+919500522229, body=Sorry mam, he will be reaching on Wednesday early morning, May 3., type=1, status=-1, date=1682516138189
+Row: 327 address=+919500522229, body=Hi Mam, This is Selvi, Guhan’s mom. How are you? Guhan will be coming home for this weekend and reach VIT on Tuesday early morning. Kindly grant him permission to leave the college on Friday evening, Apr 28 until Tuesday morning, May 3. Thank you very much for your kind support and service.
+
+Selvi., type=1, status=-1, date=1682515964350
+Row: 328 address=AD-ARTLTV, body=Congratulations on your recent recharge of Xstream mobile pack. Enjoy 28 DAYS of access to live sports, blockbusters movies and web-series like Accidental Farmer, Iru Dhuruvam S2, Story Of Things & more on your Airtel Xstream app at no extra cost. To claim your benefit download the latest version of Airtel Xstream app https://open.airtelxstream.in/WCF, type=1, status=-1, date=1682512908722
+Row: 329 address=AX-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 148.00 on 4/26/2023 6:11:30 PM to EURONETGPAY info :P2A/311666749881. Not You? call 18005721916-KVB , type=1, status=-1, date=1682512900574
+Row: 330 address=Airtel, body=2/2 Xstream App now open.airtelxstream.in/Xstream_Mobile, type=1, status=-1, date=1682512900089
+Row: 331 address=Airtel, body=Recharge of INR 148.00 is successful for your Airtel Mobile on 26-04-2023 18:11, Transaction ID 1521923486.Check your balance, validity, tariff and best recharges on Airtel Thanks App. Would you like to refer Airtel Prepaid to your friends & family and save Rs100 on your next recharge? Click i.airtel.in/ref, type=1, status=-1, date=1682512897241
+Row: 332 address=AT-AIRTEL, body=1GB HIGH SPEED DATA: left in your current pack. Track usage on Airtel Thanks App i.airtel.in/Rcharge, type=1, status=-1, date=1682511214572
+Row: 333 address=AD-KVBANK, body=Your a/c XXXXXXXXXXXX5476 is debited Rs. 98.00 on 4/26/2023 4:17:00 PM to SHREE VARSAAN RAMESH info :P2A/311662672180. Not You? call 18005721916-KVB , type=1, status=-1, date=1682506025194
+Row: 334 address=VK-AxisBk, body=Registration for Google Pay app has started. Do not share your card details/OTP/CVV to avoid financial loss. If not you, call 18001035577 - Axis Bank, type=1, status=-1, date=1682505401548
+Row: 335 address=+917304459009, body=UPIACT &*&*p3*&&vD&#&IR&&#&*eDsRM&&#2&*@43@N7*&T*&yF&NL&1, type=2, status=-1, date=1682505399245
+Row: 336 address=+917208088410, body=SBIUPI kr1VtYt5do1b0AJhu0dGleN9Utu4hhi0nV%2BTmzsjxx%2Be7CEXg5xP7%2B%2BX9EDtVaTL!6e61062ba35d3cb0809ba74ffd652d23ed77b6814a868f0adcf0d16ae4aab196, type=2, status=-1, date=1682505398612
+Row: 337 address=TM-ICICIB, body=Dear Customer, registration for Google Pay has started for ICICI Bank. If it was not you, report to your bank. Do not share card details/OTP/CVV with anyone., type=1, status=-1, date=1682505392920
+Row: 338 address=+917428309373, body=JP7 vS7525cF*M3T*U7*4IC6g81I1HL9OB*g0*2**V7d*R***S*A, type=2, status=-1, date=1682505390952
+Row: 339 address=+917428309373, body=JP7 1K23*Sh**4ld8tMX*UQz*E**AV5H*5*5*52Oy, type=2, status=-1, date=1682505386788
+Row: 340 address=51403, body=DO NOT SHARE: Your Google Pay OTP is 897294. Message ID: f6f01vO3FNp, type=1, status=-1, date=1682505376721
+Row: 341 address=56161940, body=Your Mi Account 55*****970 verification code is 560544. This code is valid for 5 minutes., type=1, status=-1, date=1682504414920
+Row: 342 address=57575464, body=614226 is your GitHub authentication code., type=1, status=-1, date=1682502680853
+Row: 343 address=AT-ARWGOV, body=To complain about demand of Bribes by any Central Govt Depts,Banks,PSUs etc.Contact CBI ACB Shastri Bhawan, Nungambakkam, Chennai.Ph No 9445160988, 04428273186, 04428270992, type=1, status=-1, date=1682498791301
+Row: 344 address=AT-AIRTEL, body=Pack Valid till 30 Apr 2023. CallCost:Rs0.00 Duration:00:01:07 Bal:Rs2.91., type=1, status=-1, date=1682494808001
+Row: 345 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage or buy data pack on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682487564268
+Row: 346 address=AT-AIRTEL, body=100% ALERT: You have consumed 100% of your daily high Speed Data limit. Track usage on Airtel Thanks App i.airtel.in/Get-Data, type=1, status=-1, date=1682487562276
+Row: 347 address=51501, body=G-784981 is your Google verification code., type=1, status=-1, date=1682486616162
