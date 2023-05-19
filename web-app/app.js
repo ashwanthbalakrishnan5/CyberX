@@ -26,7 +26,6 @@ app.get("/", (req, res) => {
 });
 
 app.get("/adb", (req, res) => {
-  fetch("http://127.0.0.1:8000/api/StartListening/", {method: "POST"});
   res.render("adbWaitScreen");
 });
 

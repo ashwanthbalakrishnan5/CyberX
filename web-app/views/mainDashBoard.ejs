@@ -40,11 +40,15 @@
       </div>
       <div class="right-col col-lg-8">
         <p class="collect-data">Start collecting data from a new device</p>
+        <form action="http://127.0.0.1:8000/api/StartListening/" method="post">
+          <button type="submit">
+              <div class="extraction-button">
+                <p class="start-extraction">Start Extraction</p>
+                <img src="assets/radio.png" class="radio-btn" alt="radio" />
+              </div>
+          </button>
+        </form>
         <a href="/adb">
-          <div class="extraction-button">
-            <p class="start-extraction">Start Extraction</p>
-            <img src="assets/radio.png" class="radio-btn" alt="radio" />
-          </div>
         </a>
       </div>
     </div>
