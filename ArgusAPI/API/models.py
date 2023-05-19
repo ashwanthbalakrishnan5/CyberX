@@ -46,32 +46,33 @@ class Contacts(models.Model):
 
 
 class CallLog(models.Model):
-    INCOMING = 'Incoming'
-    OUTGOING = 'Outgoing'
-    MISSED = 'Missed'
-    CALL_TYPE_CHOICES = [
-        (INCOMING, 'Incoming'),
-        (OUTGOING, 'Outgoing'),
-        (MISSED, 'Missed')
-    ]
+    # INCOMING = 'Incoming'
+    # OUTGOING = 'Outgoing'
+    # MISSED = 'Missed'
+    # CALL_TYPE_CHOICES = [
+    #     (INCOMING, 'Incoming'),
+    #     (OUTGOING, 'Outgoing'),
+    #     (MISSED, 'Missed')
+    # ]
 
     number = PhoneNumberField(default='+91')
-    call_type = models.CharField(max_length=10, choices=CALL_TYPE_CHOICES)
+    call_type = models.CharField(max_length=255)
     datetime = models.DateTimeField()
     duration = models.PositiveIntegerField()
-    contacts = models.ForeignKey(
-        Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
+    name = models.CharField(max_length=255,null=True,blank=True)
+    # contacts = models.ForeignKey(
+    #     Contacts, on_delete=models.SET_DEFAULT, default=None, null=True)
 
 
 class SmsLog(models.Model):
-    INCOMING = 'Incoming'
-    OUTGOING = 'Outgoing'
-    SMS_TYPE_CHOICES = [
-        (INCOMING, 'Incoming'),
-        (OUTGOING, 'Outgoing'),
-    ]
+    # INCOMING = 'Incoming'
+    # OUTGOING = 'Outgoing'
+    # SMS_TYPE_CHOICES = [
+    #     (INCOMING, 'Incoming'),
+    #     (OUTGOING, 'Outgoing'),
+    # ]
     address = models.CharField(max_length=100)
-    sms_type = models.CharField(max_length=10, choices=SMS_TYPE_CHOICES)
+    sms_type = models.CharField(max_length=100)
     datetime = models.DateTimeField()
     message = models.TextField()
     Contacts = models.ForeignKey(
