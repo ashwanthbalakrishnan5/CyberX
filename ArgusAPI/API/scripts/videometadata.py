@@ -11,10 +11,10 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
 from API.models import Video
-
+from ArgusAPI.settings import STORAGE_ROOT
 
 def VideoMeta():
-    folder_path = "storage/files"
+    folder_path = STORAGE_ROOT+"/files"
     for file_name in os.listdir(folder_path):
         if file_name.endswith(".mp4") or file_name.endswith(".mov") or file_name.endswith(".avi") or file_name.endswith(".mkv"):
             file_path = os.path.join(folder_path, file_name)

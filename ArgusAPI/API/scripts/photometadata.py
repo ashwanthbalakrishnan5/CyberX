@@ -12,9 +12,10 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
 from API.models import Photo
+from ArgusAPI.settings import STORAGE_ROOT
 
 def PhotoMeta():
-    folder_path = "storage/files"
+    folder_path = STORAGE_ROOT+"/files"
     for file_name in os.listdir(folder_path):
         if file_name.endswith(".jpg") or file_name.endswith(".jpeg") or file_name.endswith(".png"):
             file_path = os.path.join(folder_path, file_name)

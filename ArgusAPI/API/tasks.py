@@ -34,11 +34,11 @@ def start_extraction():
     
     adb_handler.get_files()
     # After Photos recieved
-    #PhotoMeta()
-    db_status.photo_meta_status = False
+    PhotoMeta()
+    db_status.photo_meta_status = True
     db_status.save()
-    #VideoMeta()
-    db_status.video_meta_status = False
+    VideoMeta()
+    db_status.video_meta_status = True
     db_status.save()
     #face_data()
     db_status.face_data_status = False
