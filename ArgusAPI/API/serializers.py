@@ -1,9 +1,14 @@
 from rest_framework import serializers
-from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus,Device
 
 class ADBStatusSerializer(serializers.ModelSerializer):
     class Meta:
         model = ADBStatus
+        fields = '__all__'
+
+class DeviceSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Device
         fields = '__all__'
 class ContactsSerializer(serializers.ModelSerializer):
     class Meta:

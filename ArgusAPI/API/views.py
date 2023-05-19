@@ -10,7 +10,7 @@ from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
-from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus
+from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus,Device
 from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer,ADBStatusSerializer
 from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
@@ -54,6 +54,9 @@ class ADBStatusViewSet(ReadOnlyModelViewSet):
     queryset = ADBStatus.objects.all()
     serializer_class = ADBStatusSerializer
 
+class DeviceViewSet(ReadOnlyModelViewSet):
+    queryset = Device.objects.all()
+    serializer_class = DeviceSerializer
 class DBStatusViewSet(ReadOnlyModelViewSet):
     queryset = DBStatus.objects.all()
     serializer_class = DBStatusSerializer
