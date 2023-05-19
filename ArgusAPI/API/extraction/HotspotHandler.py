@@ -1,5 +1,6 @@
 from .CommandHandler import CommandHandler
 from . import DEPENDENCY_PATH
+import nmap
 
 class HotspotHandler:
     """
@@ -37,7 +38,16 @@ class HotspotHandler:
         # only obtain the name of the device
         self.physical_interface_name = output.split()[2].strip()
         # create the hotspot
-        code, output = CommandHandler().executeCommand(["nmcli", "dev", "wifi", "hotspot", "ifname", "wlp0s20f3", "con-name", "argusVnet", "ssid", "argusVnet", "password", "argusVnet"])
+        code, output = CommandHandler().executeCommand(["nmcli", "dev", "wifi", "hotspot", "ifname", self.physical_interface_name, "con-name", "argusVnet", "ssid", "argusVnet", "password", "argusVnet"])
+
+    def continue_if_connected(self) -> None:
+        """
+        Is a blocking function that is designed to only allow execution after it has detected a connection on the ip address using nmap
+        """
+        nm = nmap.PortScanner()
+        # while True:
+        #     nm.scan(self.server_ip+"/32", arguments='-vv -A -n')
+        #     print(nm.all_hosts())
         
         
        

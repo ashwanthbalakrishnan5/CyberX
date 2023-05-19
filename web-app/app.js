@@ -319,6 +319,6 @@ app.get("/facialrecognition", (req,res)=> {
   res.render("facialRecognition");
 })
 
-app.listen(3000, () => {
+app.listen(3000, '127.0.0.212' , () => {
   console.log("listening to port : 3000");
 });

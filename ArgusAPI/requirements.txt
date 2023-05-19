@@ -1,3 +1,4 @@
+python-nmap
 django
 django-filter
 django-phonenumber-field[phonenumbers]
