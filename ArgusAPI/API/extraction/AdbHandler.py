@@ -81,8 +81,6 @@ class AdbHandler:
                         continue
                     #notify the callback
                     LogHandler.LogHandler().logMessage("Detected ADB device with id: "+output[0])
-                    adbstatus.connec_status = "Device Connected"
-                    adbstatus.save()
                     callback("Device Connected", adb_handler)
                     break
                 else:
@@ -208,6 +206,9 @@ class AdbHandler:
             screenshot=True
         )
         device.save()
+        adbstatus = ADBStatus.objects.get(pk=1)
+        adbstatus.connec_status = "Device Connected"
+        adbstatus.save()
         # device_info = {"battery_level":battery_level, "vnet_status":vnet_status, "android_version":android_version, "device_model":device_model, "device_manufacturer":device_manufacturer, "data_sync_status":data_sync_status, "call_log": False, "contacts": False, "sms": False, "Files": False}
         # with open(ARTIFACTS_PATH+"device_info.json", "w") as f:
         #     json.dump(device_info, f)
