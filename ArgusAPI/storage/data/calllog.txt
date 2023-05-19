@@ -1,0 +1,7276 @@
+
+=================
+[+] Call log dump
+=================
+
+Date: 2023-05-19 05:52:47.194366484 +0530
+OS: Android 13 - Linux 4.19.157-perf-ge57e9c7b9b8e (aarch64)
+Remote IP: 10.42.0.228
+Remote Port: 39046
+
+#1
+Number	: +919600573555
+Name	: 
+Date	: Mon Apr 10 21:29:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#2
+Number	: +917738098250
+Name	: 
+Date	: Mon Apr 10 21:52:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 72
+
+#3
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 09:00:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#4
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 09:03:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#5
+Number	: 9500522229
+Name	: 
+Date	: Tue Apr 11 09:37:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#6
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 11 09:38:30 GMT+05:30 2023
+Type	: INCOMING
+Duration: 258
+
+#7
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Tue Apr 11 10:39:03 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#8
+Number	: 9524404333
+Name	: 
+Date	: Tue Apr 11 10:57:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 106
+
+#9
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 13:23:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#10
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 13:28:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#11
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 13:31:16 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#12
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 13:37:08 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#13
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 14:23:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 90
+
+#14
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 15:36:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#15
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 17:40:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#16
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 18:41:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#17
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 18:48:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 105
+
+#18
+Number	: +917708470667
+Name	: Sibi 🎵 VIT
+Date	: Tue Apr 11 19:06:38 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#19
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 11 19:29:20 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#20
+Number	: +918189876260
+Name	: 
+Date	: Tue Apr 11 19:42:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#21
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 11 19:44:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 195
+
+#22
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 19:59:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#23
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 20:17:05 GMT+05:30 2023
+Type	: INCOMING
+Duration: 256
+
+#24
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 11 20:48:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#25
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 21:26:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#26
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 11 21:36:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#27
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 00:42:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#28
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 12 09:38:06 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#29
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 09:38:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#30
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 09:39:27 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#31
+Number	: +916307682827
+Name	: 
+Date	: Wed Apr 12 09:49:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#32
+Number	: +916307682827
+Name	: 
+Date	: Wed Apr 12 10:08:53 GMT+05:30 2023
+Type	: INCOMING
+Duration: 59
+
+#33
+Number	: +916307682827
+Name	: 
+Date	: Wed Apr 12 10:29:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 35
+
+#34
+Number	: 9524404333
+Name	: 
+Date	: Wed Apr 12 11:11:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#35
+Number	: 9524404333
+Name	: 
+Date	: Wed Apr 12 11:11:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#36
+Number	: 9524404333
+Name	: 
+Date	: Wed Apr 12 11:12:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#37
+Number	: 9524404333
+Name	: 
+Date	: Wed Apr 12 11:14:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#38
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 11:49:18 GMT+05:30 2023
+Type	: INCOMING
+Duration: 31
+
+#39
+Number	: +919597474907
+Name	: 
+Date	: Wed Apr 12 12:18:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#40
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 13:04:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#41
+Number	: 9524404333
+Name	: 
+Date	: Wed Apr 12 13:38:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#42
+Number	: +919524404333
+Name	: 
+Date	: Wed Apr 12 13:40:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 79
+
+#43
+Number	: +919524404333
+Name	: 
+Date	: Wed Apr 12 13:49:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 42
+
+#44
+Number	: +918681047129
+Name	: 
+Date	: Wed Apr 12 15:01:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 34
+
+#45
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 15:34:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#46
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 17:47:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#47
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 12 17:56:41 GMT+05:30 2023
+Type	: INCOMING
+Duration: 97
+
+#48
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 18:05:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 95
+
+#49
+Number	: +919500522229
+Name	: 
+Date	: Wed Apr 12 18:07:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 382
+
+#50
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 18:33:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 62
+
+#51
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 19:03:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#52
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 19:05:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 66
+
+#53
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 12 19:06:30 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#54
+Number	: +918681047129
+Name	: 
+Date	: Wed Apr 12 19:10:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#55
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 19:22:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#56
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 19:50:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 44
+
+#57
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 20:13:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 65
+
+#58
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 20:18:24 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 52
+
+#59
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 20:40:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#60
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 12 20:56:16 GMT+05:30 2023
+Type	: INCOMING
+Duration: 53
+
+#61
+Number	: +919524404333
+Name	: 
+Date	: Wed Apr 12 22:14:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#62
+Number	: +919150270065
+Name	: Santhosh VIT
+Date	: Wed Apr 12 22:24:31 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#63
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 12 22:35:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#64
+Number	: +917738098250
+Name	: 
+Date	: Wed Apr 12 22:43:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#65
+Number	: +919524404333
+Name	: 
+Date	: Wed Apr 12 23:18:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#66
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 12 23:50:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#67
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 13 10:17:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#68
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 13 11:16:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 82
+
+#69
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 13 11:18:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 167
+
+#70
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 13 12:47:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#71
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 13 14:53:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#72
+Number	: +919524404333
+Name	: 
+Date	: Thu Apr 13 15:22:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 43
+
+#73
+Number	: +917738098250
+Name	: 
+Date	: Thu Apr 13 15:26:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#74
+Number	: +917738098250
+Name	: 
+Date	: Thu Apr 13 15:26:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 59
+
+#75
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 13 17:08:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 167
+
+#76
+Number	: +919524404333
+Name	: 
+Date	: Thu Apr 13 17:43:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 81
+
+#77
+Number	: 9080276386
+Name	: 
+Date	: Thu Apr 13 18:32:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 291
+
+#78
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 13 18:42:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 71
+
+#79
+Number	: +919500522229
+Name	: 
+Date	: Thu Apr 13 19:15:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#80
+Number	: +919524404333
+Name	: 
+Date	: Thu Apr 13 20:24:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 265
+
+#81
+Number	: +919524404333
+Name	: 
+Date	: Thu Apr 13 21:14:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 82
+
+#82
+Number	: 8220273849
+Name	: 
+Date	: Thu Apr 13 21:33:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#83
+Number	: +918220273849
+Name	: 
+Date	: Thu Apr 13 21:34:20 GMT+05:30 2023
+Type	: INCOMING
+Duration: 37
+
+#84
+Number	: +919500522229
+Name	: 
+Date	: Thu Apr 13 21:39:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1679
+
+#85
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 00:35:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#86
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 00:36:54 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#87
+Number	: 9080276386
+Name	: 
+Date	: Fri Apr 14 12:34:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#88
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 13:56:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#89
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 14:39:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#90
+Number	: +919750063777
+Name	: 
+Date	: Fri Apr 14 16:21:55 GMT+05:30 2023
+Type	: INCOMING
+Duration: 30
+
+#91
+Number	: 9080276386
+Name	: 
+Date	: Fri Apr 14 17:01:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#92
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 14 17:09:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 154
+
+#93
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 17:55:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 39
+
+#94
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 17:57:00 GMT+05:30 2023
+Type	: INCOMING
+Duration: 26
+
+#95
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 14 18:03:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#96
+Number	: +919600573555
+Name	: 
+Date	: Fri Apr 14 18:53:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 2030
+
+#97
+Number	: +917738098250
+Name	: 
+Date	: Fri Apr 14 20:18:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 84
+
+#98
+Number	: +916369675465
+Name	: 
+Date	: Fri Apr 14 21:35:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#99
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 14 22:10:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 63
+
+#100
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 14 22:38:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#101
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 14 22:42:32 GMT+05:30 2023
+Type	: INCOMING
+Duration: 6
+
+#102
+Number	: +919361588911
+Name	: 
+Date	: Sat Apr 15 09:45:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 82
+
+#103
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 10:20:36 GMT+05:30 2023
+Type	: INCOMING
+Duration: 27
+
+#104
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 10:32:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 107
+
+#105
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 15 11:38:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 90
+
+#106
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 11:44:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#107
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 11:45:41 GMT+05:30 2023
+Type	: INCOMING
+Duration: 182
+
+#108
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 12:11:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#109
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 15 12:35:55 GMT+05:30 2023
+Type	: INCOMING
+Duration: 109
+
+#110
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 12:43:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#111
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 14:31:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 41
+
+#112
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 15:20:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#113
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 15:36:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#114
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 15 15:38:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#115
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 15:38:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#116
+Number	: +919524404333
+Name	: 
+Date	: Sat Apr 15 15:39:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#117
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 17:34:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 33
+
+#118
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 17:46:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#119
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 17:52:51 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#120
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 15 18:11:53 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#121
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 15 18:50:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 301
+
+#122
+Number	: +916380205363
+Name	: 
+Date	: Sat Apr 15 20:34:12 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#123
+Number	: +916380205363
+Name	: 
+Date	: Sat Apr 15 20:39:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#124
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 20:49:19 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#125
+Number	: +919445410570
+Name	: 
+Date	: Sat Apr 15 21:20:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 64
+
+#126
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 21:32:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#127
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 21:34:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#128
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 15 22:27:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 46
+
+#129
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 23:23:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#130
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 15 23:30:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#131
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 09:27:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#132
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 09:28:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#133
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 16 10:13:21 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 20
+
+#134
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 16 10:14:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#135
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 16 10:14:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#136
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 16 10:16:29 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#137
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 16 10:24:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#138
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 16 10:25:04 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#139
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 11:25:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#140
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 11:25:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 29
+
+#141
+Number	: +919500522229
+Name	: 
+Date	: Sun Apr 16 11:28:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 189
+
+#142
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 12:00:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#143
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 12:11:45 GMT+05:30 2023
+Type	: INCOMING
+Duration: 69
+
+#144
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 12:41:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 35
+
+#145
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 13:24:36 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#146
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 13:25:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 52
+
+#147
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 15:47:27 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#148
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 16:52:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#149
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 16:53:29 GMT+05:30 2023
+Type	: INCOMING
+Duration: 119
+
+#150
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 17:22:33 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#151
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 17:53:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#152
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 18:54:57 GMT+05:30 2023
+Type	: INCOMING
+Duration: 148
+
+#153
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 16 19:21:59 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#154
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 20:04:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#155
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 20:07:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#156
+Number	: 09266292666
+Name	: 
+Date	: Sun Apr 16 21:52:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#157
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 16 22:57:12 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#158
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 17 00:13:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 32
+
+#159
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 00:16:51 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#160
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 17 07:31:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#161
+Number	: +917738098250
+Name	: 
+Date	: Mon Apr 17 07:55:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 136
+
+#162
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 09:02:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#163
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 09:10:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 2
+
+#164
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 09:10:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#165
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 09:10:45 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#166
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 12:45:05 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#167
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 12:46:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#168
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 12:51:24 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#169
+Number	: 9500522229
+Name	: 
+Date	: Mon Apr 17 13:14:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 560
+
+#170
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 13:23:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#171
+Number	: +918122504285
+Name	: 
+Date	: Mon Apr 17 14:09:04 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#172
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 17 14:26:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 231
+
+#173
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 17 14:30:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 168
+
+#174
+Number	: +919514908999
+Name	: 
+Date	: Mon Apr 17 15:48:27 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#175
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 16:51:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 100
+
+#176
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 16:57:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#177
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 17:23:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#178
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 17 17:35:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 140
+
+#179
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 17:54:55 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#180
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 18:36:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#181
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 19:32:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 52
+
+#182
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 17 20:26:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 64
+
+#183
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 20:28:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#184
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 20:42:39 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#185
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 17 20:45:55 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#186
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 17 20:39:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 355
+
+#187
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 17 21:31:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#188
+Number	: +919750063777
+Name	: 
+Date	: Tue Apr 18 01:42:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 31
+
+#189
+Number	: +919750063777
+Name	: 
+Date	: Tue Apr 18 01:43:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 75
+
+#190
+Number	: +918667799766
+Name	: 
+Date	: Tue Apr 18 05:44:44 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#191
+Number	: +918667799766
+Name	: 
+Date	: Tue Apr 18 06:03:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#192
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 18 09:10:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#193
+Number	: +919524404333
+Name	: 
+Date	: Tue Apr 18 09:13:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#194
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 12:12:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 186
+
+#195
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 12:25:53 GMT+05:30 2023
+Type	: INCOMING
+Duration: 26
+
+#196
+Number	: +916384977871
+Name	: 
+Date	: Tue Apr 18 12:30:26 GMT+05:30 2023
+Type	: Unknown
+Duration: 0
+
+#197
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 18 12:40:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#198
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 18 12:40:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 600
+
+#199
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 13:02:17 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#200
+Number	: +919750063777
+Name	: 
+Date	: Tue Apr 18 16:49:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 174
+
+#201
+Number	: +914461710444
+Name	: 
+Date	: Tue Apr 18 17:22:32 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#202
+Number	: +914461710444
+Name	: 
+Date	: Tue Apr 18 17:55:05 GMT+05:30 2023
+Type	: Unknown
+Duration: 0
+
+#203
+Number	: +914461710444
+Name	: 
+Date	: Tue Apr 18 17:55:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#204
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 18:00:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#205
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 18:01:49 GMT+05:30 2023
+Type	: INCOMING
+Duration: 40
+
+#206
+Number	: +914461710444
+Name	: 
+Date	: Tue Apr 18 18:37:45 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#207
+Number	: +914461710444
+Name	: 
+Date	: Tue Apr 18 18:48:38 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#208
+Number	: +919750063777
+Name	: 
+Date	: Tue Apr 18 19:08:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#209
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 18 19:32:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 263
+
+#210
+Number	: +918270700777
+Name	: 
+Date	: Tue Apr 18 19:44:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#211
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 20:26:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 15
+
+#212
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 20:35:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#213
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 18 23:22:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 47
+
+#214
+Number	: +919176968629
+Name	: 
+Date	: Tue Apr 18 23:44:24 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#215
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 01:01:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 34
+
+#216
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 08:44:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 63
+
+#217
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 08:48:07 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#218
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 09:17:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#219
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 12:28:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#220
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 12:28:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#221
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 12:28:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#222
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 12:28:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#223
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 12:28:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#224
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 12:29:06 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#225
+Number	: +919750063777
+Name	: 
+Date	: Wed Apr 19 12:29:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 230
+
+#226
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 12:33:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 100
+
+#227
+Number	: +919500522229
+Name	: 
+Date	: Wed Apr 19 12:40:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 57
+
+#228
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 13:01:07 GMT+05:30 2023
+Type	: INCOMING
+Duration: 43
+
+#229
+Number	: +919500522229
+Name	: 
+Date	: Wed Apr 19 13:48:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 519
+
+#230
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 17:33:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 32
+
+#231
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 19:59:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#232
+Number	: +919080276386
+Name	: 
+Date	: Wed Apr 19 20:17:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#233
+Number	: +919500522229
+Name	: 
+Date	: Wed Apr 19 21:34:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#234
+Number	: +919500522229
+Name	: 
+Date	: Wed Apr 19 21:35:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 295
+
+#235
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 08:58:19 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#236
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 09:00:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#237
+Number	: +918072543250
+Name	: 
+Date	: Thu Apr 20 09:04:21 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#238
+Number	: +918072543250
+Name	: 
+Date	: Thu Apr 20 09:07:03 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#239
+Number	: 9524404333
+Name	: 
+Date	: Thu Apr 20 09:13:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#240
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 20 09:18:21 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#241
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 20 12:35:43 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#242
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 20 12:40:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 6
+
+#243
+Number	: +919750063777
+Name	: 
+Date	: Thu Apr 20 12:42:21 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#244
+Number	: +919500522229
+Name	: 
+Date	: Thu Apr 20 12:53:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 146
+
+#245
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:01:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#246
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:05:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#247
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:06:36 GMT+05:30 2023
+Type	: INCOMING
+Duration: 82
+
+#248
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:21:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#249
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:23:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#250
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:36:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#251
+Number	: 8218419552
+Name	: 
+Date	: Thu Apr 20 13:37:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#252
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:37:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#253
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 13:38:49 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#254
+Number	: +919176968629
+Name	: 
+Date	: Thu Apr 20 13:45:00 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#255
+Number	: +919500522229
+Name	: 
+Date	: Thu Apr 20 17:37:59 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#256
+Number	: +919500522229
+Name	: 
+Date	: Thu Apr 20 17:41:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 112
+
+#257
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 17:53:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#258
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 20:35:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 27
+
+#259
+Number	: +919080276386
+Name	: 
+Date	: Thu Apr 20 20:56:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#260
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 21 12:45:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 57
+
+#261
+Number	: +919750063777
+Name	: 
+Date	: Fri Apr 21 12:53:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 51
+
+#262
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 13:03:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 41
+
+#263
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 13:03:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#264
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 13:15:51 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#265
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 21 13:16:47 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#266
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 21 13:17:29 GMT+05:30 2023
+Type	: INCOMING
+Duration: 0
+
+#267
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 21 13:15:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 195
+
+#268
+Number	: +919524404333
+Name	: 
+Date	: Fri Apr 21 13:18:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 23
+
+#269
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 13:19:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 226
+
+#270
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 21 17:52:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 51
+
+#271
+Number	: 8220273849
+Name	: 
+Date	: Fri Apr 21 18:01:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 130
+
+#272
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 18:42:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 113
+
+#273
+Number	: +919600573555
+Name	: 
+Date	: Fri Apr 21 18:46:28 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#274
+Number	: +919445410570
+Name	: 
+Date	: Fri Apr 21 18:46:08 GMT+05:30 2023
+Type	: INCOMING
+Duration: 47
+
+#275
+Number	: +919600573555
+Name	: 
+Date	: Fri Apr 21 18:47:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#276
+Number	: +919080276386
+Name	: 
+Date	: Fri Apr 21 20:10:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#277
+Number	: +919750063777
+Name	: 
+Date	: Fri Apr 21 20:11:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#278
+Number	: +917738098250
+Name	: 
+Date	: Fri Apr 21 20:12:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#279
+Number	: +919750063777
+Name	: 
+Date	: Fri Apr 21 20:14:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 21
+
+#280
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 21:49:32 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#281
+Number	: +919500522229
+Name	: 
+Date	: Fri Apr 21 21:52:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 78
+
+#282
+Number	: +917738098250
+Name	: 
+Date	: Fri Apr 21 23:39:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#283
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 22 00:14:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 32
+
+#284
+Number	: 8220273849
+Name	: 
+Date	: Sat Apr 22 00:17:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#285
+Number	: +919750063777
+Name	: 
+Date	: Sat Apr 22 00:18:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#286
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 22 00:34:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#287
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 22 00:36:53 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#288
+Number	: +917738098250
+Name	: 
+Date	: Sat Apr 22 00:46:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#289
+Number	: 9524404333
+Name	: 
+Date	: Sat Apr 22 00:55:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#290
+Number	: 9080276386
+Name	: 
+Date	: Sat Apr 22 11:07:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 50
+
+#291
+Number	: 9080276386
+Name	: 
+Date	: Sat Apr 22 11:37:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#292
+Number	: 9080276386
+Name	: 
+Date	: Sat Apr 22 11:37:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 162
+
+#293
+Number	: 8220273849
+Name	: 
+Date	: Sat Apr 22 12:41:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#294
+Number	: 9080276386
+Name	: 
+Date	: Sat Apr 22 13:24:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 170
+
+#295
+Number	: 8220273849
+Name	: 
+Date	: Sat Apr 22 13:45:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#296
+Number	: 8220273849
+Name	: 
+Date	: Sat Apr 22 13:56:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#297
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 22 14:57:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 201
+
+#298
+Number	: +919445410570
+Name	: 
+Date	: Sat Apr 22 15:56:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 81
+
+#299
+Number	: 9916397714
+Name	: 
+Date	: Sat Apr 22 16:00:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#300
+Number	: +919916397714
+Name	: 
+Date	: Sat Apr 22 16:00:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 139
+
+#301
+Number	: +919566653439
+Name	: 
+Date	: Sat Apr 22 16:11:27 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#302
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 22 16:10:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 32
+
+#303
+Number	: +919566653439
+Name	: 
+Date	: Sat Apr 22 16:11:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 209
+
+#304
+Number	: 8220273849
+Name	: 
+Date	: Sat Apr 22 18:17:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 66
+
+#305
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 22 20:23:44 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#306
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 22 20:27:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 15
+
+#307
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 22 20:28:34 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#308
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 22 20:43:55 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#309
+Number	: +919080276386
+Name	: 
+Date	: Sat Apr 22 20:47:52 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#310
+Number	: +918072543250
+Name	: 
+Date	: Sat Apr 22 21:00:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 104
+
+#311
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 22 22:19:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#312
+Number	: +919500522229
+Name	: 
+Date	: Sat Apr 22 22:22:57 GMT+05:30 2023
+Type	: INCOMING
+Duration: 206
+
+#313
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 00:14:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 94
+
+#314
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 23 09:01:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 21
+
+#315
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 09:12:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#316
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 23 09:12:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#317
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 09:13:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 21
+
+#318
+Number	: +919500522229
+Name	: 
+Date	: Sun Apr 23 12:14:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#319
+Number	: +919500522229
+Name	: 
+Date	: Sun Apr 23 12:15:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 252
+
+#320
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 23 12:19:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 0
+
+#321
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 23 12:19:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#322
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 23 12:20:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#323
+Number	: +917738098250
+Name	: 
+Date	: Sun Apr 23 12:20:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 130
+
+#324
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 12:24:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 84
+
+#325
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 12:35:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 56
+
+#326
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 12:37:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#327
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 13:15:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 0
+
+#328
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 13:16:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#329
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 13:16:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#330
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 13:19:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 48
+
+#331
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 13:32:14 GMT+05:30 2023
+Type	: INCOMING
+Duration: 43
+
+#332
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 14:08:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#333
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 23 14:47:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#334
+Number	: 8220273849
+Name	: 
+Date	: Sun Apr 23 15:13:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#335
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 15:15:49 GMT+05:30 2023
+Type	: INCOMING
+Duration: 34
+
+#336
+Number	: +919524404333
+Name	: 
+Date	: Sun Apr 23 15:52:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 21
+
+#337
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 17:29:05 GMT+05:30 2023
+Type	: INCOMING
+Duration: 54
+
+#338
+Number	: 9994239369
+Name	: 
+Date	: Sun Apr 23 18:21:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#339
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 23 18:22:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 34
+
+#340
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 18:23:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 32
+
+#341
+Number	: +919994239369
+Name	: 
+Date	: Sun Apr 23 18:33:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 36
+
+#342
+Number	: +919500522229
+Name	: 
+Date	: Sun Apr 23 18:43:24 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#343
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 23 18:54:58 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#344
+Number	: +919500522229
+Name	: 
+Date	: Sun Apr 23 18:54:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 110
+
+#345
+Number	: +919445410570
+Name	: 
+Date	: Sun Apr 23 18:59:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 103
+
+#346
+Number	: +918220273849
+Name	: 
+Date	: Sun Apr 23 20:12:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 147
+
+#347
+Number	: +918072285202
+Name	: 
+Date	: Sun Apr 23 20:28:44 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#348
+Number	: +919600573555
+Name	: 
+Date	: Sun Apr 23 20:31:35 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#349
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 20:40:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 28
+
+#350
+Number	: +918072285202
+Name	: 
+Date	: Sun Apr 23 20:41:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#351
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 20:43:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#352
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 20:53:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 2
+
+#353
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 20:54:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#354
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 20:56:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 50
+
+#355
+Number	: +918220273849
+Name	: 
+Date	: Sun Apr 23 22:02:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#356
+Number	: +919080276386
+Name	: 
+Date	: Sun Apr 23 22:03:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 537
+
+#357
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 22:13:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#358
+Number	: +918220273849
+Name	: 
+Date	: Sun Apr 23 22:13:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#359
+Number	: +919750063777
+Name	: 
+Date	: Sun Apr 23 22:25:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#360
+Number	: +919600573555
+Name	: 
+Date	: Sun Apr 23 23:57:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 368
+
+#361
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 00:48:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#362
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 09:03:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#363
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 09:03:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#364
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 09:09:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#365
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 24 09:22:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#366
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 24 09:38:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 51
+
+#367
+Number	: 8919891407
+Name	: 
+Date	: Mon Apr 24 11:19:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 66
+
+#368
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 11:36:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#369
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 11:47:19 GMT+05:30 2023
+Type	: INCOMING
+Duration: 90
+
+#370
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 13:32:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#371
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 13:38:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#372
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 13:42:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#373
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 13:54:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#374
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 13:55:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#375
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 14:01:04 GMT+05:30 2023
+Type	: INCOMING
+Duration: 30
+
+#376
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 14:09:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#377
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 14:20:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 20
+
+#378
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 14:50:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 15
+
+#379
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 14:51:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#380
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 14:56:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#381
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 15:42:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#382
+Number	: +919524404333
+Name	: 
+Date	: Mon Apr 24 15:50:30 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#383
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 17:29:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 65
+
+#384
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 17:31:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 114
+
+#385
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 18:05:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 74
+
+#386
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 18:07:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#387
+Number	: +916369675465
+Name	: 
+Date	: Mon Apr 24 18:07:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 43
+
+#388
+Number	: +918072285202
+Name	: 
+Date	: Mon Apr 24 18:09:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#389
+Number	: +918072285202
+Name	: 
+Date	: Mon Apr 24 18:09:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 20
+
+#390
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 18:38:12 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#391
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 18:52:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#392
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 18:56:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#393
+Number	: +916369675465
+Name	: 
+Date	: Mon Apr 24 18:57:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 15
+
+#394
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 19:03:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 27
+
+#395
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 19:08:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 53
+
+#396
+Number	: 8220273849
+Name	: 
+Date	: Mon Apr 24 20:02:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#397
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 20:09:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#398
+Number	: +918220273849
+Name	: 
+Date	: Mon Apr 24 20:12:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#399
+Number	: 8870364842
+Name	: 
+Date	: Mon Apr 24 20:28:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#400
+Number	: +918870364842
+Name	: 
+Date	: Mon Apr 24 20:30:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#401
+Number	: +919080276386
+Name	: 
+Date	: Mon Apr 24 20:32:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#402
+Number	: +918870364842
+Name	: 
+Date	: Mon Apr 24 20:33:22 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#403
+Number	: +916369675465
+Name	: 
+Date	: Mon Apr 24 20:32:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 38
+
+#404
+Number	: +919677372245
+Name	: 
+Date	: Mon Apr 24 20:34:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#405
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 20:35:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 32
+
+#406
+Number	: +916369675465
+Name	: 
+Date	: Mon Apr 24 20:37:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#407
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 20:39:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#408
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 20:40:33 GMT+05:30 2023
+Type	: INCOMING
+Duration: 40
+
+#409
+Number	: +918667781305
+Name	: 
+Date	: Mon Apr 24 20:43:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1
+
+#410
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 20:46:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#411
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 20:59:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#412
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 21:04:07 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#413
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 21:04:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 87
+
+#414
+Number	: 8220273849
+Name	: 
+Date	: Mon Apr 24 21:09:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#415
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 21:16:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#416
+Number	: +919500522229
+Name	: 
+Date	: Mon Apr 24 21:17:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 94
+
+#417
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 21:24:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#418
+Number	: +917358479083
+Name	: 
+Date	: Mon Apr 24 21:27:18 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#419
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 21:31:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 37
+
+#420
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 22:04:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#421
+Number	: +917738098250
+Name	: 
+Date	: Mon Apr 24 22:05:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#422
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 22:12:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#423
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 22:16:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#424
+Number	: 9080276386
+Name	: 
+Date	: Mon Apr 24 22:17:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1
+
+#425
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 22:30:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#426
+Number	: +919994239369
+Name	: 
+Date	: Mon Apr 24 22:35:41 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#427
+Number	: 9866745281
+Name	: 
+Date	: Mon Apr 24 23:01:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1
+
+#428
+Number	: +919750063777
+Name	: 
+Date	: Mon Apr 24 23:15:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 129
+
+#429
+Number	: +916369675465
+Name	: 
+Date	: Mon Apr 24 23:48:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#430
+Number	: +919600573555
+Name	: 
+Date	: Mon Apr 24 23:52:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 392
+
+#431
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 25 01:40:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 427
+
+#432
+Number	: 9080276386
+Name	: 
+Date	: Tue Apr 25 08:34:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#433
+Number	: +919176968629
+Name	: 
+Date	: Tue Apr 25 08:38:36 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#434
+Number	: +919176968629
+Name	: 
+Date	: Tue Apr 25 08:47:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#435
+Number	: +919176968629
+Name	: 
+Date	: Tue Apr 25 09:39:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#436
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 25 09:45:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#437
+Number	: 9524404333
+Name	: 
+Date	: Tue Apr 25 09:46:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#438
+Number	: 9524404333
+Name	: 
+Date	: Tue Apr 25 09:48:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 40
+
+#439
+Number	: +917738098250
+Name	: 
+Date	: Tue Apr 25 09:58:26 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#440
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 25 11:38:41 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#441
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 25 11:41:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#442
+Number	: 9080276386
+Name	: 
+Date	: Tue Apr 25 11:43:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#443
+Number	: +919994239369
+Name	: 
+Date	: Tue Apr 25 11:57:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 38
+
+#444
+Number	: +919500522229
+Name	: 
+Date	: Tue Apr 25 12:22:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 694
+
+#445
+Number	: 9080276386
+Name	: 
+Date	: Tue Apr 25 12:44:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 66
+
+#446
+Number	: 9080276386
+Name	: 
+Date	: Tue Apr 25 13:00:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#447
+Number	: 9080276386
+Name	: 
+Date	: Tue Apr 25 13:06:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#448
+Number	: +919080276386
+Name	: 
+Date	: Tue Apr 25 13:26:23 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#449
+Number	: +916369675465
+Name	: 
+Date	: Tue Apr 25 13:27:18 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#450
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 13:01:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 33
+
+#451
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 13:04:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#452
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 13:07:44 GMT+05:30 2023
+Type	: MISSED
+Duration: 20
+
+#453
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 13:08:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 66
+
+#454
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed Apr 26 13:26:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 173
+
+#455
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Wed Apr 26 13:35:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#456
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed Apr 26 13:36:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#457
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 13:36:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#458
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Wed Apr 26 13:39:42 GMT+05:30 2023
+Type	: MISSED
+Duration: 23
+
+#459
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Wed Apr 26 13:42:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#460
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed Apr 26 13:53:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#461
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 13:57:46 GMT+05:30 2023
+Type	: MISSED
+Duration: 16
+
+#462
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed Apr 26 13:56:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 91
+
+#463
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 13:58:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#464
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 17:32:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#465
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 17:37:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#466
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed Apr 26 18:33:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 349
+
+#467
+Number	: +917200733799
+Name	: Nixon 🍎👨‍💻
+Date	: Wed Apr 26 18:53:14 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 69
+
+#468
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed Apr 26 18:57:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 56
+
+#469
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed Apr 26 19:04:12 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#470
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed Apr 26 19:07:34 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#471
+Number	: 8637673469
+Name	: Praveen Vit
+Date	: Wed Apr 26 19:53:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#472
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Wed Apr 26 19:54:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#473
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Wed Apr 26 20:01:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 226
+
+#474
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 20:30:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#475
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 20:31:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 34
+
+#476
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 20:40:32 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#477
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 21:14:32 GMT+05:30 2023
+Type	: MISSED
+Duration: 30
+
+#478
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 21:15:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#479
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Wed Apr 26 21:45:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#480
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 21:52:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#481
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed Apr 26 21:53:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#482
+Number	: 9524404333
+Name	: Siva VIT
+Date	: Wed Apr 26 21:55:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#483
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Wed Apr 26 21:55:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#484
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed Apr 26 21:56:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#485
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 21:58:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#486
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed Apr 26 22:04:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#487
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed Apr 26 22:05:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#488
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed Apr 26 22:08:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#489
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed Apr 26 22:09:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#490
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 22:17:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#491
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Wed Apr 26 22:21:18 GMT+05:30 2023
+Type	: MISSED
+Duration: 25
+
+#492
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed Apr 26 22:40:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 60
+
+#493
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed Apr 26 22:53:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 1
+
+#494
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 09:01:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 53
+
+#495
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu Apr 27 09:03:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#496
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 09:16:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#497
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 09:17:07 GMT+05:30 2023
+Type	: INCOMING
+Duration: 42
+
+#498
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu Apr 27 09:18:16 GMT+05:30 2023
+Type	: MISSED
+Duration: 8
+
+#499
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 09:18:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#500
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu Apr 27 09:21:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#501
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Thu Apr 27 09:30:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 45
+
+#502
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Thu Apr 27 09:31:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#503
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu Apr 27 09:43:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 177
+
+#504
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 09:46:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 55
+
+#505
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu Apr 27 09:48:14 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 23
+
+#506
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 09:51:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#507
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu Apr 27 09:53:32 GMT+05:30 2023
+Type	: Unknown
+Duration: 4
+
+#508
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu Apr 27 09:54:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#509
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu Apr 27 10:02:54 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#510
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 10:12:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#511
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Thu Apr 27 10:14:33 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#512
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu Apr 27 10:16:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#513
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 10:20:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#514
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Thu Apr 27 10:21:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#515
+Number	: +919677372245
+Name	: Padhu😏
+Date	: Thu Apr 27 10:22:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#516
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Thu Apr 27 10:27:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#517
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 10:30:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#518
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 10:37:54 GMT+05:30 2023
+Type	: INCOMING
+Duration: 107
+
+#519
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu Apr 27 10:42:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#520
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 10:43:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#521
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 10:46:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 43
+
+#522
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 10:48:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 3
+
+#523
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 13:44:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#524
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu Apr 27 13:58:10 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#525
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu Apr 27 13:59:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#526
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 14:00:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#527
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu Apr 27 14:17:46 GMT+05:30 2023
+Type	: Unknown
+Duration: 11
+
+#528
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu Apr 27 14:18:27 GMT+05:30 2023
+Type	: MISSED
+Duration: 6
+
+#529
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Thu Apr 27 14:52:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 359
+
+#530
+Number	: +918870364842
+Name	: Vikram 👨‍⚖️
+Date	: Thu Apr 27 17:23:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#531
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu Apr 27 18:30:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 95
+
+#532
+Number	: +919994239369
+Name	: Mathesh
+Date	: Thu Apr 27 18:32:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 29
+
+#533
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu Apr 27 20:16:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#534
+Number	: +919500696223
+Name	: Vignesh 🏠➡️
+Date	: Thu Apr 27 20:44:19 GMT+05:30 2023
+Type	: MISSED
+Duration: 3
+
+#535
+Number	: +918270700777
+Name	: Jaydon VIT
+Date	: Thu Apr 27 22:36:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#536
+Number	: +919042398270
+Name	: RGautham
+Date	: Thu Apr 27 23:22:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 27
+
+#537
+Number	: +919585339677
+Name	: 
+Date	: Fri Apr 28 12:41:12 GMT+05:30 2023
+Type	: MISSED
+Duration: 23
+
+#538
+Number	: +919585339677
+Name	: 
+Date	: Fri Apr 28 12:46:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#539
+Number	: 9994239369
+Name	: Mathesh
+Date	: Fri Apr 28 12:52:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#540
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri Apr 28 12:54:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#541
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri Apr 28 12:56:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#542
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri Apr 28 13:42:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#543
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri Apr 28 13:43:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#544
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 17:28:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#545
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Fri Apr 28 17:26:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 115
+
+#546
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Fri Apr 28 17:40:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 42
+
+#547
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Fri Apr 28 17:48:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 34
+
+#548
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Fri Apr 28 17:53:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 37
+
+#549
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 18:02:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#550
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Fri Apr 28 18:09:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#551
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 18:15:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#552
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Fri Apr 28 18:22:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#553
+Number	: 8870364842
+Name	: Vikram 👨‍⚖️
+Date	: Fri Apr 28 18:25:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 65
+
+#554
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 18:28:15 GMT+05:30 2023
+Type	: MISSED
+Duration: 25
+
+#555
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Fri Apr 28 18:26:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 112
+
+#556
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 18:28:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 109
+
+#557
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri Apr 28 18:45:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 48
+
+#558
+Number	: +918883666174
+Name	: 
+Date	: Fri Apr 28 18:50:12 GMT+05:30 2023
+Type	: MISSED
+Duration: 3
+
+#559
+Number	: +918883666174
+Name	: 
+Date	: Fri Apr 28 18:50:26 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#560
+Number	: +918883666174
+Name	: 
+Date	: Fri Apr 28 18:51:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 61
+
+#561
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri Apr 28 18:52:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 63
+
+#562
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 19:05:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 36
+
+#563
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 19:25:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 4
+
+#564
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 19:26:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 28
+
+#565
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Fri Apr 28 21:05:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 36
+
+#566
+Number	: +919385621741
+Name	: Eashwar VIT 🍻
+Date	: Fri Apr 28 21:44:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#567
+Number	: +919042398270
+Name	: RGautham
+Date	: Fri Apr 28 22:03:32 GMT+05:30 2023
+Type	: INCOMING
+Duration: 72
+
+#568
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri Apr 28 22:06:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#569
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Fri Apr 28 23:38:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#570
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 06:47:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#571
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Sat Apr 29 06:48:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#572
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:04:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#573
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:22:34 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#574
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:36:53 GMT+05:30 2023
+Type	: MISSED
+Duration: 21
+
+#575
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:37:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 46
+
+#576
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:38:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 52
+
+#577
+Number	: +919443558899
+Name	: Paati
+Date	: Sat Apr 29 07:43:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 23
+
+#578
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:48:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#579
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:49:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#580
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:54:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#581
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 07:55:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 78
+
+#582
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 08:01:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#583
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 08:22:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#584
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat Apr 29 08:25:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 42
+
+#585
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat Apr 29 08:45:27 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#586
+Number	: +919443558899
+Name	: Paati
+Date	: Sat Apr 29 12:10:05 GMT+05:30 2023
+Type	: MISSED
+Duration: 29
+
+#587
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat Apr 29 14:49:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#588
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat Apr 29 19:02:19 GMT+05:30 2023
+Type	: INCOMING
+Duration: 419
+
+#589
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat Apr 29 19:28:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 42
+
+#590
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat Apr 29 22:07:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#591
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Sat Apr 29 22:08:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 372
+
+#592
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Sat Apr 29 22:20:43 GMT+05:30 2023
+Type	: INCOMING
+Duration: 151
+
+#593
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat Apr 29 22:26:20 GMT+05:30 2023
+Type	: INCOMING
+Duration: 729
+
+#594
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Sun Apr 30 00:42:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 816
+
+#595
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun Apr 30 11:18:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#596
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sun Apr 30 12:36:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#597
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun Apr 30 13:45:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#598
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun Apr 30 13:45:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 98
+
+#599
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun Apr 30 15:24:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 89
+
+#600
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sun Apr 30 21:04:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 28
+
+#601
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sun Apr 30 21:09:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#602
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun Apr 30 22:48:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#603
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 01 10:33:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 552
+
+#604
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Mon May 01 11:19:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 447
+
+#605
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Mon May 01 11:58:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 85
+
+#606
+Number	: +919818837687
+Name	: 
+Date	: Mon May 01 12:14:01 GMT+05:30 2023
+Type	: Unknown
+Duration: 6
+
+#607
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 01 14:43:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#608
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Mon May 01 20:35:16 GMT+05:30 2023
+Type	: MISSED
+Duration: 13
+
+#609
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Mon May 01 20:35:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#610
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Mon May 01 20:36:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#611
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Mon May 01 20:36:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 20
+
+#612
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 01 20:40:57 GMT+05:30 2023
+Type	: INCOMING
+Duration: 242
+
+#613
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 01 20:49:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 57
+
+#614
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Tue May 02 09:40:42 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#615
+Number	: +918015856869
+Name	: 
+Date	: Tue May 02 13:00:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 47
+
+#616
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Tue May 02 16:32:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 49
+
+#617
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 02 16:41:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 56
+
+#618
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 02 16:54:05 GMT+05:30 2023
+Type	: INCOMING
+Duration: 38
+
+#619
+Number	: 8925330404
+Name	: Perima
+Date	: Tue May 02 18:19:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 128
+
+#620
+Number	: 9843039797
+Name	: Jeya Mama
+Date	: Tue May 02 18:32:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 50
+
+#621
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Tue May 02 19:25:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 53
+
+#622
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Tue May 02 21:52:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#623
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Tue May 02 22:10:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 37
+
+#624
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Tue May 02 22:57:57 GMT+05:30 2023
+Type	: INCOMING
+Duration: 46
+
+#625
+Number	: +919994239369
+Name	: Mathesh
+Date	: Wed May 03 04:55:30 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#626
+Number	: +919994239369
+Name	: Mathesh
+Date	: Wed May 03 05:22:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#627
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 05:24:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 23
+
+#628
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 05:30:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#629
+Number	: +919994239369
+Name	: Mathesh
+Date	: Wed May 03 06:15:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 2
+
+#630
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Wed May 03 06:18:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#631
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 03 07:40:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#632
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 03 07:40:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#633
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 03 09:22:38 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#634
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 03 09:44:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#635
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 03 10:07:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 99
+
+#636
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 12:05:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#637
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 12:25:05 GMT+05:30 2023
+Type	: MISSED
+Duration: 33
+
+#638
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 12:26:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#639
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Wed May 03 13:43:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#640
+Number	: 9943369565
+Name	: Aadthiya 🎮
+Date	: Wed May 03 14:00:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#641
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 14:00:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#642
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 03 14:02:24 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#643
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 15:24:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 3
+
+#644
+Number	: +917418924638
+Name	: 
+Date	: Wed May 03 15:28:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 6
+
+#645
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 15:42:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#646
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 03 18:55:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 84
+
+#647
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 19:39:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1148
+
+#648
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 20:29:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#649
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 20:30:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#650
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Wed May 03 21:03:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#651
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Wed May 03 21:03:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#652
+Number	: +919585339677
+Name	: 
+Date	: Wed May 03 21:33:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 47
+
+#653
+Number	: 9916397714
+Name	: Arjith 💚
+Date	: Wed May 03 22:18:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#654
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 03 22:23:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#655
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 03 22:25:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 46
+
+#656
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 03 22:27:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 94
+
+#657
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 03 22:50:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#658
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 03 23:10:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#659
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 04 09:21:29 GMT+05:30 2023
+Type	: Unknown
+Duration: 23
+
+#660
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 04 09:48:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#661
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 04 09:49:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#662
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 04 09:56:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#663
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 04 10:01:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#664
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Thu May 04 11:32:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 34
+
+#665
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 13:54:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#666
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 13:55:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 28
+
+#667
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 13:57:45 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#668
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 13:58:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#669
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu May 04 18:18:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 131
+
+#670
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 04 18:48:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#671
+Number	: 9943369565
+Name	: Aadthiya 🎮
+Date	: Thu May 04 19:52:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 28
+
+#672
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 19:53:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 80
+
+#673
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 04 19:58:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 20
+
+#674
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 20:01:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#675
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 20:02:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#676
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 04 20:11:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#677
+Number	: 9916397714
+Name	: Arjith 💚
+Date	: Thu May 04 21:47:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#678
+Number	: 9916397714
+Name	: Arjith 💚
+Date	: Thu May 04 21:54:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#679
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 21:59:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#680
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 04 22:11:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 443
+
+#681
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 22:19:04 GMT+05:30 2023
+Type	: INCOMING
+Duration: 2
+
+#682
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 22:19:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 87
+
+#683
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 22:30:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#684
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 23:08:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#685
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 04 23:15:01 GMT+05:30 2023
+Type	: INCOMING
+Duration: 28
+
+#686
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 10:20:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 251
+
+#687
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Fri May 05 10:30:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 179
+
+#688
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 13:37:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#689
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 13:45:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#690
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 13:45:36 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#691
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri May 05 15:04:03 GMT+05:30 2023
+Type	: MISSED
+Duration: 4
+
+#692
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 15:38:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#693
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 16:59:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#694
+Number	: +916374725831
+Name	: Lochan
+Date	: Fri May 05 17:32:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#695
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 17:37:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#696
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri May 05 18:55:29 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 27
+
+#697
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 19:10:32 GMT+05:30 2023
+Type	: INCOMING
+Duration: 26
+
+#698
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 19:25:01 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#699
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 19:29:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 99
+
+#700
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri May 05 19:31:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#701
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Fri May 05 20:28:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 283
+
+#702
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Fri May 05 20:33:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 82
+
+#703
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 05 20:38:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 584
+
+#704
+Number	: +919841759993
+Name	: Sanjay
+Date	: Fri May 05 21:17:12 GMT+05:30 2023
+Type	: INCOMING
+Duration: 1573
+
+#705
+Number	: +919994239369
+Name	: Mathesh
+Date	: Sat May 06 09:09:02 GMT+05:30 2023
+Type	: MISSED
+Duration: 7
+
+#706
+Number	: +919994239369
+Name	: Mathesh
+Date	: Sat May 06 09:18:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#707
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 09:44:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#708
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 06 11:42:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 135
+
+#709
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:09:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#710
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:11:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#711
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:15:54 GMT+05:30 2023
+Type	: MISSED
+Duration: 1
+
+#712
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:16:00 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#713
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:20:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#714
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 13:24:21 GMT+05:30 2023
+Type	: INCOMING
+Duration: 20
+
+#715
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 16:15:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#716
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 16:33:29 GMT+05:30 2023
+Type	: INCOMING
+Duration: 25
+
+#717
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 16:39:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#718
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 16:42:16 GMT+05:30 2023
+Type	: INCOMING
+Duration: 56
+
+#719
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 17:42:21 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#720
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat May 06 17:44:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#721
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 17:45:42 GMT+05:30 2023
+Type	: MISSED
+Duration: 29
+
+#722
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 17:47:39 GMT+05:30 2023
+Type	: MISSED
+Duration: 24
+
+#723
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat May 06 17:49:47 GMT+05:30 2023
+Type	: MISSED
+Duration: 26
+
+#724
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat May 06 17:51:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 79
+
+#725
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat May 06 18:30:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 236
+
+#726
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Sat May 06 18:37:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#727
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 19:44:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#728
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 19:46:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#729
+Number	: +919841759993
+Name	: Sanjay
+Date	: Sat May 06 21:07:31 GMT+05:30 2023
+Type	: MISSED
+Duration: 10
+
+#730
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 06 21:05:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 177
+
+#731
+Number	: +919841759993
+Name	: Sanjay
+Date	: Sat May 06 21:08:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 193
+
+#732
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sat May 06 21:12:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 67
+
+#733
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sat May 06 21:15:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#734
+Number	: +919841759993
+Name	: Sanjay
+Date	: Sat May 06 21:22:35 GMT+05:30 2023
+Type	: MISSED
+Duration: 31
+
+#735
+Number	: +919994239369
+Name	: Mathesh
+Date	: Sat May 06 21:27:19 GMT+05:30 2023
+Type	: MISSED
+Duration: 3
+
+#736
+Number	: +919994239369
+Name	: Mathesh
+Date	: Sat May 06 21:27:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#737
+Number	: +919841759993
+Name	: Sanjay
+Date	: Sat May 06 21:27:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 55
+
+#738
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 21:43:27 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#739
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 06 21:43:55 GMT+05:30 2023
+Type	: INCOMING
+Duration: 81
+
+#740
+Number	: +919841759993
+Name	: Sanjay
+Date	: Sat May 06 21:45:49 GMT+05:30 2023
+Type	: INCOMING
+Duration: 206
+
+#741
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 06 22:19:52 GMT+05:30 2023
+Type	: INCOMING
+Duration: 26
+
+#742
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 06 22:20:39 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#743
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sun May 07 10:47:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 709
+
+#744
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sun May 07 11:46:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#745
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 07 13:42:53 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#746
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sun May 07 14:06:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#747
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sun May 07 14:09:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#748
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sun May 07 15:02:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#749
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Sun May 07 15:28:50 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#750
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 07 17:03:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#751
+Number	: +918848751055
+Name	: +918848751055
+Date	: Sun May 07 17:07:18 GMT+05:30 2023
+Type	: MISSED
+Duration: 2
+
+#752
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 07 18:18:54 GMT+05:30 2023
+Type	: INCOMING
+Duration: 4
+
+#753
+Number	: +917358479083
+Name	: Girish 👨‍🎓
+Date	: Sun May 07 19:08:25 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#754
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 07 20:20:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#755
+Number	: 9994239369
+Name	: Mathesh
+Date	: Sun May 07 21:23:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#756
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Sun May 07 22:55:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#757
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 08 13:49:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#758
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 08 13:57:11 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#759
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 08 14:03:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#760
+Number	: 7339081125
+Name	: Subash VIT
+Date	: Mon May 08 14:07:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#761
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Mon May 08 15:42:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#762
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Mon May 08 17:46:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 700
+
+#763
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 08 18:21:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 29
+
+#764
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Mon May 08 19:11:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#765
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 08 19:38:33 GMT+05:30 2023
+Type	: INCOMING
+Duration: 4
+
+#766
+Number	: 9150216471
+Name	: Sai Charan
+Date	: Mon May 08 19:54:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#767
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Mon May 08 19:57:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#768
+Number	: +919150216471
+Name	: Sai Charan
+Date	: Mon May 08 20:01:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 26
+
+#769
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 08 20:46:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#770
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Mon May 08 21:13:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 4
+
+#771
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Mon May 08 22:14:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 30
+
+#772
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 08 22:15:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#773
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 08 22:52:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#774
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 10:59:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#775
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 10:59:45 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 4
+
+#776
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Tue May 09 13:07:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#777
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Tue May 09 13:18:27 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#778
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Tue May 09 13:18:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 319
+
+#779
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 14:20:22 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#780
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 14:26:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#781
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 14:30:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#782
+Number	: +919500792865
+Name	: +919500792865
+Date	: Tue May 09 16:34:27 GMT+05:30 2023
+Type	: INCOMING
+Duration: 990
+
+#783
+Number	: +919500792865
+Name	: Preethi akka
+Date	: Tue May 09 16:54:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 345
+
+#784
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 17:52:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#785
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 17:54:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#786
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Tue May 09 18:26:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#787
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 19:39:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#788
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 20:04:46 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#789
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Tue May 09 21:29:36 GMT+05:30 2023
+Type	: INCOMING
+Duration: 92
+
+#790
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Tue May 09 21:32:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#791
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 21:36:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 28
+
+#792
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 09 22:01:58 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#793
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 10 10:36:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#794
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 10 10:37:24 GMT+05:30 2023
+Type	: INCOMING
+Duration: 4
+
+#795
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 17:46:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#796
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 17:47:18 GMT+05:30 2023
+Type	: INCOMING
+Duration: 13
+
+#797
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 10 17:59:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 520
+
+#798
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 19:02:04 GMT+05:30 2023
+Type	: MISSED
+Duration: 22
+
+#799
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 19:17:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 166
+
+#800
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 19:25:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 25
+
+#801
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Wed May 10 19:41:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#802
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 10 20:00:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#803
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 10 20:25:14 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#804
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Wed May 10 20:26:12 GMT+05:30 2023
+Type	: INCOMING
+Duration: 60
+
+#805
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 20:27:23 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 1
+
+#806
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 20:27:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#807
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 20:48:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#808
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 20:49:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#809
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 20:53:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#810
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 20:55:26 GMT+05:30 2023
+Type	: INCOMING
+Duration: 21
+
+#811
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 20:55:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#812
+Number	: +918667781305
+Name	: Gowtham VIT 🫃
+Date	: Wed May 10 21:14:23 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#813
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Wed May 10 21:23:38 GMT+05:30 2023
+Type	: MISSED
+Duration: 30
+
+#814
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 10 21:37:48 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#815
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 21:55:30 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#816
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Wed May 10 22:04:12 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#817
+Number	: +917358479083
+Name	: Girish 👨‍🎓
+Date	: Wed May 10 23:39:26 GMT+05:30 2023
+Type	: MISSED
+Duration: 20
+
+#818
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 11 09:46:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#819
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 11 09:49:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 19
+
+#820
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 11 11:59:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 5
+
+#821
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Thu May 11 12:15:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#822
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 11 13:40:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#823
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 11 14:02:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#824
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Thu May 11 19:07:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 9
+
+#825
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Thu May 11 20:12:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#826
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 11 20:13:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#827
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 11 20:20:53 GMT+05:30 2023
+Type	: INCOMING
+Duration: 8
+
+#828
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 11 20:23:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#829
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 11 21:15:21 GMT+05:30 2023
+Type	: INCOMING
+Duration: 179
+
+#830
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 11:47:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 31
+
+#831
+Number	: +919585339677
+Name	: Nikhil 👑
+Date	: Fri May 12 18:43:29 GMT+05:30 2023
+Type	: INCOMING
+Duration: 44
+
+#832
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Fri May 12 19:10:19 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#833
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 19:54:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#834
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 20:33:57 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#835
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 20:38:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 11
+
+#836
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Fri May 12 21:32:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#837
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Fri May 12 21:45:10 GMT+05:30 2023
+Type	: INCOMING
+Duration: 16
+
+#838
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 22:06:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#839
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Fri May 12 22:40:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#840
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Fri May 12 22:43:49 GMT+05:30 2023
+Type	: INCOMING
+Duration: 27
+
+#841
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Fri May 12 23:09:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#842
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Fri May 12 23:59:41 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#843
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sat May 13 01:09:13 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 37
+
+#844
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sat May 13 01:12:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#845
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 07:45:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#846
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 07:50:30 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#847
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 13 08:10:33 GMT+05:30 2023
+Type	: INCOMING
+Duration: 14
+
+#848
+Number	: +919677372245
+Name	: Padhu😏
+Date	: Sat May 13 09:37:32 GMT+05:30 2023
+Type	: INCOMING
+Duration: 34
+
+#849
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sat May 13 09:39:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 432
+
+#850
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 12:42:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 707
+
+#851
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 13:28:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 383
+
+#852
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Sat May 13 13:51:31 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#853
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Sat May 13 13:56:47 GMT+05:30 2023
+Type	: MISSED
+Duration: 0
+
+#854
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Sat May 13 13:56:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#855
+Number	: +919176968629
+Name	: Vibu ✏️
+Date	: Sat May 13 13:57:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#856
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 14:02:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 18
+
+#857
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 14:04:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 4
+
+#858
+Number	: +919176968629
+Name	: Vibu ✏️
+Date	: Sat May 13 14:05:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#859
+Number	: +919524404333
+Name	: Siva VIT
+Date	: Sat May 13 15:56:07 GMT+05:30 2023
+Type	: Unknown
+Duration: 17
+
+#860
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 18:46:51 GMT+05:30 2023
+Type	: INCOMING
+Duration: 146
+
+#861
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 19:13:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 90
+
+#862
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 19:16:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#863
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 19:17:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#864
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sat May 13 19:52:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 21
+
+#865
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 20:42:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#866
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 20:48:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 20
+
+#867
+Number	: +919677372245
+Name	: Padhu😏
+Date	: Sat May 13 21:08:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#868
+Number	: +919669662159
+Name	: +919669662159
+Date	: Sat May 13 21:32:08 GMT+05:30 2023
+Type	: INCOMING
+Duration: 22
+
+#869
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sat May 13 22:03:17 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#870
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sat May 13 23:21:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 64
+
+#871
+Number	: +919600573555
+Name	: Appa 👨‍👦
+Date	: Sat May 13 23:38:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 217
+
+#872
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Sat May 13 23:48:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#873
+Number	: 8220273849
+Name	: Tharun VIT
+Date	: Sat May 13 23:51:20 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 8
+
+#874
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Sun May 14 00:07:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#875
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 00:16:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#876
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 01:29:52 GMT+05:30 2023
+Type	: MISSED
+Duration: 25
+
+#877
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 09:59:25 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#878
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 10:13:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#879
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 10:15:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 25
+
+#880
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 10:42:14 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 12
+
+#881
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 10:58:02 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 6
+
+#882
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sun May 14 11:06:28 GMT+05:30 2023
+Type	: INCOMING
+Duration: 15
+
+#883
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Sun May 14 11:25:40 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 59
+
+#884
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 13:56:14 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#885
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Sun May 14 18:09:30 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 352
+
+#886
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Sun May 14 19:30:38 GMT+05:30 2023
+Type	: INCOMING
+Duration: 11
+
+#887
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 20:17:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 40
+
+#888
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 20:25:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#889
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 20:34:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 164
+
+#890
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Sun May 14 21:04:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#891
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Sun May 14 21:11:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#892
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sun May 14 22:40:02 GMT+05:30 2023
+Type	: INCOMING
+Duration: 6
+
+#893
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Sun May 14 22:54:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 5
+
+#894
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Sun May 14 22:58:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 47
+
+#895
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 13:43:45 GMT+05:30 2023
+Type	: INCOMING
+Duration: 38
+
+#896
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 14:13:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 7
+
+#897
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 14:13:36 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#898
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 16:44:18 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#899
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 16:44:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#900
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 16:45:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#901
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 16:45:21 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#902
+Number	: +916369675465
+Name	: Vibu ✏️
+Date	: Mon May 15 16:46:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#903
+Number	: 7092036331
+Name	: Sri Ram 🏳️‍🌈
+Date	: Mon May 15 16:46:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#904
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 17:23:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 185
+
+#905
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 20:00:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#906
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 20:29:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 10
+
+#907
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Mon May 15 20:35:43 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 14
+
+#908
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Mon May 15 21:37:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 266
+
+#909
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Mon May 15 22:44:07 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#910
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Mon May 15 22:49:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 102
+
+#911
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Mon May 15 23:02:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 40
+
+#912
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Mon May 15 23:13:03 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#913
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 15 23:13:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#914
+Number	: +918220273849
+Name	: Tharun VIT
+Date	: Mon May 15 23:13:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#915
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Mon May 15 23:22:25 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#916
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Mon May 15 23:43:56 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#917
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Mon May 15 23:44:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 101
+
+#918
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Mon May 15 23:50:05 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 73
+
+#919
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Tue May 16 09:58:01 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 24
+
+#920
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 13:31:02 GMT+05:30 2023
+Type	: INCOMING
+Duration: 32
+
+#921
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 13:43:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 26
+
+#922
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 13:46:37 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#923
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Tue May 16 15:49:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 66
+
+#924
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 17:40:47 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#925
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 17:43:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#926
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 17:59:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 46
+
+#927
+Number	: +918870364842
+Name	: Vikram 👨‍⚖️
+Date	: Tue May 16 19:01:04 GMT+05:30 2023
+Type	: Unknown
+Duration: 3
+
+#928
+Number	: +918870364842
+Name	: Vikram 👨‍⚖️
+Date	: Tue May 16 19:01:19 GMT+05:30 2023
+Type	: MISSED
+Duration: 22
+
+#929
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Tue May 16 20:03:18 GMT+05:30 2023
+Type	: MISSED
+Duration: 25
+
+#930
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 20:22:28 GMT+05:30 2023
+Type	: Unknown
+Duration: 33
+
+#931
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 20:54:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#932
+Number	: +918921135258
+Name	: +918921135258
+Date	: Tue May 16 20:56:15 GMT+05:30 2023
+Type	: INCOMING
+Duration: 131
+
+#933
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:00:00 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#934
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 21:02:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#935
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:09:00 GMT+05:30 2023
+Type	: MISSED
+Duration: 4
+
+#936
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 21:08:08 GMT+05:30 2023
+Type	: INCOMING
+Duration: 74
+
+#937
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:09:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 174
+
+#938
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:46:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#939
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Tue May 16 21:49:23 GMT+05:30 2023
+Type	: INCOMING
+Duration: 36
+
+#940
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 21:57:17 GMT+05:30 2023
+Type	: INCOMING
+Duration: 66
+
+#941
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:58:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 0
+
+#942
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 21:58:33 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 170
+
+#943
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 22:01:34 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 321
+
+#944
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Tue May 16 22:20:51 GMT+05:30 2023
+Type	: INCOMING
+Duration: 7
+
+#945
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 23:25:24 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#946
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 23:31:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 57
+
+#947
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Tue May 16 23:40:56 GMT+05:30 2023
+Type	: INCOMING
+Duration: 44
+
+#948
+Number	: +919841759993
+Name	: Sanjay
+Date	: Tue May 16 23:46:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#949
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 00:02:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 654
+
+#950
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 17 00:18:09 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 373
+
+#951
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 17 00:44:53 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#952
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 17 08:00:16 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#953
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 17 08:01:35 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#954
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 17 08:05:25 GMT+05:30 2023
+Type	: INCOMING
+Duration: 2
+
+#955
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 17 09:54:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 94
+
+#956
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 10:52:13 GMT+05:30 2023
+Type	: INCOMING
+Duration: 96
+
+#957
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 11:35:17 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 91
+
+#958
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 12:34:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 37
+
+#959
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 12:35:47 GMT+05:30 2023
+Type	: INCOMING
+Duration: 279
+
+#960
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 13:11:46 GMT+05:30 2023
+Type	: INCOMING
+Duration: 80
+
+#961
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 13:14:18 GMT+05:30 2023
+Type	: INCOMING
+Duration: 102
+
+#962
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 13:16:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 130
+
+#963
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 17 14:01:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 69
+
+#964
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 17:25:44 GMT+05:30 2023
+Type	: INCOMING
+Duration: 57
+
+#965
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 18:11:43 GMT+05:30 2023
+Type	: INCOMING
+Duration: 24
+
+#966
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 18:48:42 GMT+05:30 2023
+Type	: INCOMING
+Duration: 144
+
+#967
+Number	: +919841759993
+Name	: Sanjay
+Date	: Wed May 17 18:52:16 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 16
+
+#968
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 19:20:06 GMT+05:30 2023
+Type	: INCOMING
+Duration: 107
+
+#969
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 17 19:22:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 393
+
+#970
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Wed May 17 19:32:00 GMT+05:30 2023
+Type	: INCOMING
+Duration: 73
+
+#971
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 17 19:58:41 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#972
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 17 20:07:59 GMT+05:30 2023
+Type	: INCOMING
+Duration: 41
+
+#973
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 17 20:08:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 241
+
+#974
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Wed May 17 20:13:39 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 48
+
+#975
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 20:31:11 GMT+05:30 2023
+Type	: INCOMING
+Duration: 50
+
+#976
+Number	: +919669662159
+Name	: +919669662159
+Date	: Wed May 17 20:39:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 19
+
+#977
+Number	: +919669662159
+Name	: 
+Date	: Wed May 17 20:39:42 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#978
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 17 20:49:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#979
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Wed May 17 20:54:03 GMT+05:30 2023
+Type	: INCOMING
+Duration: 29
+
+#980
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Wed May 17 20:55:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 62
+
+#981
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 21:06:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 268
+
+#982
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 22:14:18 GMT+05:30 2023
+Type	: MISSED
+Duration: 3
+
+#983
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 22:19:40 GMT+05:30 2023
+Type	: MISSED
+Duration: 2
+
+#984
+Number	: +919962818599
+Name	: Kanagha Santhoshini
+Date	: Wed May 17 22:12:04 GMT+05:30 2023
+Type	: INCOMING
+Duration: 647
+
+#985
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 22:23:06 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 260
+
+#986
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 22:32:14 GMT+05:30 2023
+Type	: INCOMING
+Duration: 108
+
+#987
+Number	: +919994925661
+Name	: Appa 👨‍👦
+Date	: Wed May 17 22:38:14 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#988
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Wed May 17 22:38:59 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 29
+
+#989
+Number	: +919994925661
+Name	: Appa 👨‍👦
+Date	: Wed May 17 22:39:28 GMT+05:30 2023
+Type	: MISSED
+Duration: 5
+
+#990
+Number	: +919994925661
+Name	: Appa 👨‍👦
+Date	: Wed May 17 22:39:41 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#991
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 22:45:45 GMT+05:30 2023
+Type	: MISSED
+Duration: 3
+
+#992
+Number	: +919994925661
+Name	: Appa 👨‍👦
+Date	: Wed May 17 22:39:42 GMT+05:30 2023
+Type	: INCOMING
+Duration: 524
+
+#993
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Wed May 17 23:06:37 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 70
+
+#994
+Number	: +919585339677
+Name	: Nikhil 👑
+Date	: Wed May 17 23:09:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 23
+
+#995
+Number	: +919994239369
+Name	: Mathesh
+Date	: Wed May 17 23:12:20 GMT+05:30 2023
+Type	: INCOMING
+Duration: 74
+
+#996
+Number	: +919585339677
+Name	: Nikhil 👑
+Date	: Wed May 17 23:19:44 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#997
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Wed May 17 23:21:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 18
+
+#998
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 00:12:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 373
+
+#999
+Number	: +918072285202
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 00:19:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 10
+
+#1000
+Number	: +919994925661
+Name	: Appa 👨‍👦
+Date	: Thu May 18 00:19:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 60
+
+#1001
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 00:35:58 GMT+05:30 2023
+Type	: INCOMING
+Duration: 63
+
+#1002
+Number	: +919994239369
+Name	: Mathesh
+Date	: Thu May 18 01:00:49 GMT+05:30 2023
+Type	: INCOMING
+Duration: 25
+
+#1003
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 08:04:31 GMT+05:30 2023
+Type	: INCOMING
+Duration: 88
+
+#1004
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 08:49:08 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1005
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 08:58:32 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1006
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 08:58:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1007
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 09:05:07 GMT+05:30 2023
+Type	: INCOMING
+Duration: 17
+
+#1008
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 09:11:09 GMT+05:30 2023
+Type	: INCOMING
+Duration: 25
+
+#1009
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 09:15:12 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 51
+
+#1010
+Number	: +919841759993
+Name	: Sanjay
+Date	: Thu May 18 09:17:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1011
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Thu May 18 09:19:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 13
+
+#1012
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Thu May 18 09:29:43 GMT+05:30 2023
+Type	: INCOMING
+Duration: 33
+
+#1013
+Number	: +917010693760
+Name	: 
+Date	: Thu May 18 09:36:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1014
+Number	: +917010693760
+Name	: 
+Date	: Thu May 18 09:44:52 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 22
+
+#1015
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 12:23:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 101
+
+#1016
+Number	: 9080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 12:25:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 227
+
+#1017
+Number	: 9500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 18 12:39:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1018
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 18 12:40:20 GMT+05:30 2023
+Type	: INCOMING
+Duration: 303
+
+#1019
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 12:58:48 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 23
+
+#1020
+Number	: +918921135258
+Name	: Gaurisankar TRC 📷 VP
+Date	: Thu May 18 13:29:22 GMT+05:30 2023
+Type	: INCOMING
+Duration: 12
+
+#1021
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 14:25:26 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 57
+
+#1022
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 14:32:10 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 91
+
+#1023
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 14:55:49 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 133
+
+#1024
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 18 14:58:15 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 124
+
+#1025
+Number	: +917448500929
+Name	: Ezhil👨‍💻
+Date	: Thu May 18 16:18:04 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 152
+
+#1026
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu May 18 17:12:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 800
+
+#1027
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 18 18:36:40 GMT+05:30 2023
+Type	: INCOMING
+Duration: 9
+
+#1028
+Number	: +919445410570
+Name	: Ashwanth Balakrishnan
+Date	: Thu May 18 18:48:35 GMT+05:30 2023
+Type	: INCOMING
+Duration: 44
+
+#1029
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 19:22:31 GMT+05:30 2023
+Type	: Unknown
+Duration: 4
+
+#1030
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 19:23:38 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 46
+
+#1031
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 18 22:23:24 GMT+05:30 2023
+Type	: MISSED
+Duration: 5
+
+#1032
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 22:22:50 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 44
+
+#1033
+Number	: +919500522229
+Name	: Amma 👩‍👦
+Date	: Thu May 18 22:23:54 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 33
+
+#1034
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 23:10:28 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1035
+Number	: +919750063777
+Name	: Shreevarsaan VIT
+Date	: Thu May 18 23:14:51 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+
+#1036
+Number	: +917738098250
+Name	: Abhinav ⚽
+Date	: Thu May 18 23:18:55 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 17
+
+#1037
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 23:47:23 GMT+05:30 2023
+Type	: MISSED
+Duration: 34
+
+#1038
+Number	: +919080276386
+Name	: Aadthiya 🎮
+Date	: Thu May 18 23:48:11 GMT+05:30 2023
+Type	: OUTGOING
+Duration: 0
+

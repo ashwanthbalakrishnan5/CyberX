@@ -15,6 +15,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ArgusAPI.settings')
 django.setup()
 
 from API.models import ADBStatus,Device
+from ArgusAPI.settings import STORAGE_ROOT
 class AdbHandler:
     """
     This class handles all communication with adb devices.
@@ -167,7 +168,7 @@ class AdbHandler:
         Gets the contacts from the device
         """
         #creates the temporary file that we ne
-        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://contacts/phones/  --projection display_name:number:notes >> "+ARTIFACTS_PATH+"contacts.txt"])
+        code, output = self.command_handler.execute_as_bash([DEPENDENCY_PATH+"adb -e shell content query --uri content://contacts/phones/  --projection display_name:number:notes >> "+STORAGE_ROOT+"/data/contacts.txt"])
         LogHandler.LogHandler().logMessage("Contacts Obtained using adb")
         return output
     
