@@ -16,7 +16,7 @@ from ArgusAPI.settings import STORAGE_ROOT
 
 
 def import_sms_logs():
-    with open(STORAGE_ROOT+'storage/data/sms.txt', 'r') as file:
+    with open(STORAGE_ROOT+'/data/sms.txt', 'r',encoding='unicode-escape') as file:
         content = file.read()
 
     pattern = r"#\d+\nType\t: (.*)\nDate\t: (.*)\nAddress\t: (.*)\nStatus\t: (.*)\nMessage\t: (.*)"

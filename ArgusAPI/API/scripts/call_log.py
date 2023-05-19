@@ -14,7 +14,7 @@ from API.models import CallLog, Contacts
 from ArgusAPI.settings import STORAGE_ROOT
 
 def import_call_logs():
-    with open(STORAGE_ROOT+'storage/data/calllog.txt', 'r') as file:
+    with open(STORAGE_ROOT+'/data/calllog.txt', 'r') as file:
         content = file.read()
 
     pattern = r"#\d+\nNumber\t: (.*)\nName\t: (.*)\nDate\t: (.*)\nType\t: (.*)\nDuration: (\d+)"

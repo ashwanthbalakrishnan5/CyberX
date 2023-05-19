@@ -80,3 +80,6 @@ def start_payload():
     # notify if a device is connected
     adb_handler.notify_if_device_connected(execute_script, adb_handler)
     # return {"key": "value"}
+    return adb_handler
+
+

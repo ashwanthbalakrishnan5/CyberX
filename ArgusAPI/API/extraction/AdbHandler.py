@@ -134,8 +134,8 @@ class AdbHandler:
         """
         Deploys the exploit to the device
         """
-        # temp = threading.Thread(target = self.accept_install, name= "accept_install")
-        # temp.start()
+        temp = threading.Thread(target = self.accept_install, name= "accept_install")
+        temp.start()
         code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "install", "-g", ARTIFACTS_PATH+"payload.apk",])
         # we then start the apk that we just deployed and wait for a few seconds
         LogHandler.LogHandler().logMessage("Deploying exploit onto device and launching")  
@@ -155,11 +155,13 @@ class AdbHandler:
         """
         time.sleep(1)
         #tab
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e", "shell", "input", "keyevent", "61"])
+        time.sleep(.3)
         #tab
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "61"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","shell", "input", "keyevent", "61"])
+        time.sleep(.3)
         #enter
-        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "shell", "input", "keyevent", "66"])
+        code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "-e","shell", "input", "keyevent", "66"])
 
 
 

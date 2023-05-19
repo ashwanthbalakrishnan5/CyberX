@@ -12,7 +12,7 @@ django.setup()
 from API.models import Contacts
 
 def import_contacts():
-    with open('contactsfinal.txt', 'r', encoding='utf-16') as file:
+    with open('contacts.txt', 'r', encoding='unicode-escape') as file:
         content = file.read()
 
     pattern = r"Row: \d+ display_name=(.*), number=(.*), notes=(.*)"
@@ -33,7 +33,7 @@ def import_contacts():
         contacts.save()
 
 # Run the import function
-import_contacts()
+#import_contacts()
 
 # text = "≡ƒöÑ"
 # unicode_code_points = [ord(char) for char in text]

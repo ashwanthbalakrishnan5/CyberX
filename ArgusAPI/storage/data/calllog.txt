@@ -3,10 +3,10 @@
 [+] Call log dump
 =================
 
-Date: 2023-05-19 05:52:47.194366484 +0530
+Date: 2023-05-19 07:04:29.848475133 +0530
 OS: Android 13 - Linux 4.19.157-perf-ge57e9c7b9b8e (aarch64)
 Remote IP: 10.42.0.228
-Remote Port: 39046
+Remote Port: 41322
 
 #1
 Number	: +919600573555
