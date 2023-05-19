@@ -1,0 +1,136 @@
+.card {
+  width: 500px;
+  height: 260px;
+  padding: 10px 30px 40px;
+  margin-left: 40px;
+  background: #333740;
+  /* border */
+  color: white;
+
+  background: #3c414a;
+  /* border */
+  border: 2px solid #444b57;
+  border-radius: 20px;
+}
+
+.card h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.drop_box {
+  margin: 10px 0;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 3px dotted #a3a3a3;
+  border-radius: 5px;
+}
+
+.drop_box h4 {
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+}
+
+.drop_box p {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  color: #a3a3a3;
+}
+
+.choose-btn {
+  text-decoration: none;
+  background-color: #005af0;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: 2px solid #444b57;
+  border-radius: 20px;
+  outline: none;
+  transition: 0.3s;
+  width: 300px;
+}
+
+.choose-btn:hover {
+  text-decoration: none;
+  background-color: #ffffff;
+  color: #005af0;
+  padding: 10px 20px;
+  outline: 1px solid #010101;
+}
+
+.form input {
+  margin: 10px 0;
+  width: 100%;
+  background-color: #e2e2e2;
+  border: none;
+  outline: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+}
+
+.photo-section {
+  height: 83vh;
+  background: #333740;
+  /* border */
+  border: 2px solid #444b57;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.entire-wrapper .heading {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+ 
+
+.photos-wrapper {
+    width: 90%;
+    height: 80%;
+    margin-top: 30px;
+    margin-left: 60px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 20px;
+}
+
+.sq-card {
+    width: 260px;
+    height: 260px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: #3c414a;
+    /* border */
+    border: 2px solid #444b57;
+    border-radius: 20px;
+  }
+
+.sq-card img {
+    width: 260px;
+    height: 260px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.entire-wrapper{
+    margin-left: 70px;
+}
+
+.meta-data-card {
+    width: 86%;
+    height: 83vh;
+    background: #333740;
+    /* border */
+    border: 2px solid #444b57;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-top: 30px;
+  }

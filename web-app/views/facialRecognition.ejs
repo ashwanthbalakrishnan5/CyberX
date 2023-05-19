@@ -1,8 +1,36 @@
 <%- include("templates/header") %>
-
-<form action="/api/face_reg_predict/" method="POST" enctype="multipart/form-data">
-    <!-- Form fields and input elements -->
-    <input type="file" name="image">
-    <!-- Other form fields and input elements -->
-    <input type="submit" value="Upload">
-</form>
+<link rel="stylesheet" href="css/facialRecognition.css" />
+<div class="entire-wrapper">
+    <div class="row">
+        <div class="col-8">
+            <div class="photo-section">
+                <div class="row">
+                  <p class="heading">Face matched photos from the device</p>
+                </div>
+                <div class="photos-wrapper">
+                  <% for(let i=0; i<10; i++) { %>
+                  <div class="row mb-5">
+                    <% for(let j=0; j<4; j++) { %>
+                    <div class="col-3">
+                      <div class="sq-card">
+                        <a href="http://localhost:3000/sms" class="clickable">
+                          <img src="/assets/IMG_3745.jpg" alt="" />
+                        </a>
+                      </div>
+                    </div>
+                    <%}%>
+                  </div>
+                  <%}%>
+                </div>
+              </div>
+        </div>
+        <div class="col-4">
+            <div class="meta-data-card">
+                <div class="row">
+                    <p class="heading">Meta data</p>
+                  </div>
+            </div>
+        </div>
+    </div>
+  
+</div>
