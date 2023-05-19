@@ -132,3 +132,23 @@
   text-align: center;
   margin-right: 20px;
 }
+
+.ss {
+  width: auto;
+  height: 450px;
+  position: absolute;
+  z-index: -1;
+  bottom: 35px;
+}
+
+.ss-holder {
+  width: 100%;
+  position: relative;
+}
+
+.ss-frame {
+  position: absolute;
+  width: 100%;
+  height: 400;
+}
+
