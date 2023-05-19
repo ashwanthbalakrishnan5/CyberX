@@ -11,7 +11,7 @@ from rest_framework.mixins import ListModelMixin
 from rest_framework.generics import ListAPIView
 from rest_framework.viewsets import ReadOnlyModelViewSet
 from .models import Contacts,CallLog,SmsLog,DBStatus,Photo,Video,ADBStatus,Device
-from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer,ADBStatusSerializer
+from .serializers import ContactsSerializer,CallLogSerializer,SmsLogSerializer,DBStatusSerializer,PhotoSerializer,VideoSerializer,ADBStatusSerializer,DeviceSerializer
 from .filters import ContactsFilter,CallLogFilter,SmsLogFilter
 from .tasks import start_extraction
 from .predict_face import predict
