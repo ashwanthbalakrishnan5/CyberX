@@ -17,13 +17,13 @@ class ContactsSerializer(serializers.ModelSerializer):
 class CallLogSerializer(serializers.ModelSerializer):
     class Meta:
         model = CallLog
-        fields = '__all__'
+        fields = ['number','call_type','datetime','duration','name','contacts']
     contacts = ContactsSerializer()
 
 class SmsLogSerializer(serializers.ModelSerializer):
     class Meta:
         model = SmsLog
-        fields = '__all__'
+        fields = ['address','sms_type','datatime','message','Contacts']
     Contacts = ContactsSerializer()
 
 class DBStatusSerializer(serializers.ModelSerializer):
