@@ -93,3 +93,5 @@ class PhotoViewSet(ReadOnlyModelViewSet):
 class VideoViewSet(ReadOnlyModelViewSet):
     queryset = Video.objects.all()
     serializer_class = VideoSerializer
+
+# class ConnectionMethodViewSet(Read)
