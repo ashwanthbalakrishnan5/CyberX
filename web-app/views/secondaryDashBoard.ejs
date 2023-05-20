@@ -102,7 +102,7 @@
                   <input
                     type="file"
                     hidden
-                    accept=".doc,.docx,.pdf"
+                    accept=".jpg,.jpeg,.png"
                     id="fileID"
                     style="display: none"
                   />
@@ -133,7 +133,7 @@
     var fileName = e.target.files[0].name;
     let filedata = `
       <form
-    action="127.0.0.1:8000/api/face_reg_predict/"
+    action="http://127.0.0.1:8000/api/face_reg_predict/"
     method="POST"
     enctype="multipart/form-data">
     
@@ -141,7 +141,7 @@
       <h3>File Name</h3>
       <h4>${fileName}</h4>
       
-      <button class="choose-btn">Upload</button>
+      <input class="choose-btn" type="submit" value="Upload">Upload</input>
       </div>
       </form>`;
     dropArea.innerHTML = filedata;
