@@ -165,19 +165,20 @@ app.get("/dashboard", (req, res) => {
 
 app.get("/calllogs", (req, res) => {
   request(
-    "http://127.0.0.1:8000/api/CallLog/?start_date=&end_date=&is_known=true&is_international=false&call_type=",
+    "http://127.0.0.1:8000/api/CallLog/",
     function (error, response, body) {
       if (!error && response.statusCode == 200) {
         var callLogs = JSON.parse(body);
+        console.log(callLogs)
         let phNums = [],
           names = [];
         for (let i = 0; i < callLogs.length; i++) {
           phNums.push(callLogs[i]["number"]);
-          names.push(callLogs[i]["contacts"]["name"]);
+          // names.push(callLogs[i]["contacts"]["name"]);
         }
-        uniqueContacts = names.filter((value, index, self) => {
-          return self.indexOf(value) == index;
-        });
+        // uniqueContacts = names.filter((value, index, self) => {
+        //   return self.indexOf(value) == index;
+        // });
         uniquephNums = phNums.filter((value, index, self) => {
           return self.indexOf(value) == index;
         });
@@ -185,7 +186,7 @@ app.get("/calllogs", (req, res) => {
     }
   );
 
-  res.render("calllogs", {
+  res.render("callLogs", {
     names: uniqueContacts,
     phnos: uniquephNums,
     call_type: call_type,
@@ -222,7 +223,7 @@ app.get("/calllogs/:phno", (req, res) => {
     }
   );
 
-  res.render("calllogs", {
+  res.render("callLogs", {
     names: uniqueContacts,
     phnos: uniquephNums,
     call_type: call_type,
@@ -311,7 +312,7 @@ app.post("/calllogsfilter", (req,res)=>{
           }
         }
 
-        res.render("calllogs", {
+        res.render("callLogs", {
           names: namesfilterd,
           phnos: phNumsfilterd,
           call_type: call_type,
@@ -391,7 +392,7 @@ app.get("/sms/:address", (req,res)=> {
 
 app.get("/files", (req, res) => {
   res.render("fileDashBoard");
-});
+});``
 
 app.get("/files/videos", (req, res) => {
   res.render("videos");
@@ -409,6 +410,6 @@ app.get("/facialrecognition", (req,res)=> {
   res.render("facialRecognition");
 })
 
-app.listen(3000, '127.0.0.212' , () => {
+app.listen(3000, () => {
   console.log("listening to port : 3000");
 });
