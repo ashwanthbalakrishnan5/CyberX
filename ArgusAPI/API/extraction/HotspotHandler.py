@@ -13,7 +13,7 @@ class HotspotHandler:
     6. Configure and manage the hotspot and the devices connected to it
     """
 
-    physical_interface_name: str = None
+    physical_interface_name: str = "wlp0s20f3"
     """
     The name of the physical network interface.
     """
@@ -41,7 +41,7 @@ class HotspotHandler:
          # get the physical network interface name
         code, output = CommandHandler().executeCommand(["iw", "dev"])
         # only obtain the name of the device
-        self.physical_interface_name = output.split()[2].strip()
+        # self.physical_interface_name = output.split()[2].strip()
         # create the hotspot
         code, output = CommandHandler().executeCommand(["nmcli", "dev", "wifi", "hotspot", "ifname", self.physical_interface_name, "con-name", "argusVnet", "ssid", "argusVnet", "password", "argusVnet"])
 

@@ -8,6 +8,7 @@ app.set("view engine", "ejs");
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
+app.use(express.static("../../../.argus/artifacts/"))
 app.use(bodyParser.urlencoded({extended: true}))
 
 let call_type = [],
@@ -25,52 +26,141 @@ app.get("/", (req, res) => {
   res.render("mainDashBoard");
 });
 
-app.get("/adb", (req, res) => {
-  request(
-    "http://127.0.0.1:8000/api/StartListening/",
-    function (error, response, body) {
-      if (!error && response.statusCode == 200) {
-      }
-    }
-  );
-  res.render("adbWaitScreen")
-  function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-  }
-  function requestStatus(){
-    request(
-      "http://127.0.0.1:8000/api/ADBStatus/",
-      function (error, response, body) {
-        if (!error && response.statusCode == 200) {
-          if(body["connec_status"] === "Device Connected") {
-            console.log(connect_status)
-            return true
-          } else {
-            console.log("not working")
-            return requestStatus()
-          }
-        }
-      }
-    );
-  }
-  res.render("adbWaitScreen");
-  let completed = requestStatus()
-  if(completed) {
-    res.redirect("/dashboard")
-  }
+// app.get("/adb", (req, res) => {
+//   request(
+//     "http://127.0.0.1:8000/api/StartListening/",
+//     function (error, response, body) {
+//       if (!error && response.statusCode == 200) {
+//       }
+//     }
+//   );
+//   res.render("adbWaitScreen")
+//   function sleep(ms) {
+//     return new Promise(resolve => setTimeout(resolve, ms));
+//   }
+
+//   function redirectToDashboard() {
+//     // Perform the redirect to the /dashboard page
+//     window.location.href = "/dashboard";
+//   }  
+
+//   function requestStatus(){
+//     request(
+//       "http://127.0.0.1:8000/api/ADBStatus/",
+//       function (error, response, body) {
+//         if (!error && response.statusCode == 200) {
+//           let status = JSON.parse(body)
+//           if(status[0]["connec_status"] === "Device Connected") {
+//             console.log(status[0]["connec_status"])
+//             redirectToDashboard();
+//             //return true
+//           } else {
+//             console.log(status[0]["connec_status"])
+//             requestStatus()
+//           }
+//         }
+//       }
+//     );
+//   }
   
+//   requestStatus()
+//   // console.log(completed)
+//   // if(completed) {
+    
+//   // }
+// });
+
+// app.get("/adb", async (req, res) => {
+//   request("http://127.0.0.1:8000/api/StartListening/", function (error, response, body) {
+//     if (!error && response.statusCode == 200) {
+//       // Request successful, continue processing
+//       res.render("adbWaitScreen")
+//       waitForDevice();
+//     } else {
+//       // Handle the error case
+//       res.send("Error occurred");
+//     }
+//   });
+
+//   async function waitForDevice() {
+//     await sleep(2000)
+//     while (true) {
+//       const status = await checkStatus();
+      
+//       if (status === "Device Connected") {
+//         res.redirect("/dashboard");
+//         break;
+//       }
+//       await sleep(2000); // Wait for 1 second before checking again
+//     }
+//   }
+
+//   function sleep(ms) {
+//     return new Promise(resolve => setTimeout(resolve, ms));
+//   }
+
+//   function checkStatus() {
+//     return new Promise((resolve, reject) => {
+//       request("http://127.0.0.1:8000/api/ADBStatus/", function (error, response, body) {
+//         if (!error && response.statusCode == 200) {
+//           const status = JSON.parse(body);
+//           resolve(status[0]["connec_status"]);
+//         } else {
+//           reject(error);
+//         }
+//       });
+//     });
+//   }
+// });
+
+app.get("/adb", (req, res) => {
+  request("http://127.0.0.1:8000/api/StartListening/", function (error, response, body) {
+    if (!error && response.statusCode == 200) {
+      // Request successful, continue processing
+      res.render("adbWaitScreen");
+    } else {
+      // Handle the error case
+      res.send("Error occurred");
+    }
+  });
 });
+
+// Client-side JavaScript
+app.get("/adb/status", async (req, res) => {
+  const status = await checkStatus();
+  res.json({ status });
+});
+
+function checkStatus() {
+  return new Promise((resolve, reject) => {
+    request("http://127.0.0.1:8000/api/ADBStatus/", function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        const status = JSON.parse(body);
+        resolve(status[0]["connec_status"] === "Device Connected");
+      } else {
+        reject(error);
+      }
+    });
+  });
+}
+
 
 app.get("/dashboard", (req, res) => {
   request(
     "http://127.0.0.1:8000/api/Device/",
     function (error, response, body) {
       if (!error && response.statusCode == 200) {
-        var device_info = JSON.parse(body)
+        var device_info = JSON.parse(body)[0]
+        console.log(device_info)
+        var model = device_info["device_model"]
+        var battery = device_info["battery_level"]
+        var vnet = device_info["vnet_status"]
+        var androidver = device_info["android_version"]
+        console.log(model)
+        res.render("secondaryDashBoard",{model:model,battery:battery,vnet:vnet,androidver:androidver});
       }
     }
   );
-  res.render("secondaryDashBoard");
 });
 
 app.get("/calllogs", (req, res) => {
