@@ -169,16 +169,16 @@ app.get("/calllogs", (req, res) => {
     function (error, response, body) {
       if (!error && response.statusCode == 200) {
         var callLogs = JSON.parse(body);
-        console.log(callLogs)
+        // console.log(callLogs)
         let phNums = [],
           names = [];
         for (let i = 0; i < callLogs.length; i++) {
           phNums.push(callLogs[i]["number"]);
-          // names.push(callLogs[i]["contacts"]["name"]);
+          names.push(callLogs[i]["name"]);
         }
-        // uniqueContacts = names.filter((value, index, self) => {
-        //   return self.indexOf(value) == index;
-        // });
+        uniqueContacts = names.filter((value, index, self) => {
+          return self.indexOf(value) == index;
+        });
         uniquephNums = phNums.filter((value, index, self) => {
           return self.indexOf(value) == index;
         });

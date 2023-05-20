@@ -29,13 +29,13 @@ from .scripts.facedata import face_data
     
 @shared_task
 def start_extraction():
-    pass
+    print("start extraction")
     adb_handler = start_payload()
     # if status.get("key") != "value":
     #     return "Error"
     sleep(5)
     db_status = DBStatus.objects.create()
-
+    print("db status created")
     import_contacts()
     db_status.contacts_status = True
     db_status.save()

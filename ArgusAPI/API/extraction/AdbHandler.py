@@ -57,12 +57,16 @@ class AdbHandler:
         Will return a warning if multiple devices are connected.
         Runs on its own thread
         """
+        print("starting adb db status")
         adb = ADBStatus.objects.create()
         adb.save()
         adbstatus = ADBStatus.objects.get(pk=1)
         # Keep listing out the devices that are connected till we detect one using 
+        print("dihsfoidshfodsjof")
         while True:
+            print("entering true")
             code, output = self.command_handler.executeCommand([DEPENDENCY_PATH+"adb", "devices"])
+            print(output)
             #remove other lines
             output = output.split()
             del output[:4]

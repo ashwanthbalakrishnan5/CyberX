@@ -50,7 +50,9 @@ def start_payload():
     time.sleep(1)
     # adb_handler.get_files()
     # notify if a device is connected
+    print("start payload")
     adb_handler.notify_if_device_connected(execute_script, adb_handler)
+    print("end payload")
     # return {"key": "value"}
     return adb_handler
 

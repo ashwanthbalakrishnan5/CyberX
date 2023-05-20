@@ -44,12 +44,13 @@ def import_call_logs():
                 call_type=call_types[call_type_key],
                 datetime=date,
                 duration=duration,
-                name=name
+                name=name,
+                contacts=contact
             )
         except Contacts.DoesNotExist:
             call_log = CallLog(
                 number=number,
-                call_type=call_type,
+                call_type=call_types[call_type_key],
                 datetime=date,
                 duration=duration,
                 name=name,
