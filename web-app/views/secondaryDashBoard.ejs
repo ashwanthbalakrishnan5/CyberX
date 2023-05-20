@@ -4,21 +4,22 @@
 
 <div class="row mt-5">
   <div class="col-4">
-    <div class="d-flex justify-content-center">
-      <img src="assets/mobile-frame.png" alt="mobile-frame" />
+    <div class="d-flex justify-content-center ss-holder">
+      <img src="/assets/mobile-frame.png" alt="mobile-frame" class="ss-fram">
+      <img src="/homescreen.png" alt="mobile-ss" class="ss"/>
     </div>
     <div class="d-flex justify-content-center">
       <div class="device-info">
         <div class="device-info-wrapper">
-          <p class="model">Samsung S23 Ultra</p>
+          <p class="model"><%= model %></p>
           <div class="d-flex align-items-center align-self-stretch">
             <img src="/assets/battery.png" alt="battery" />
-            <p class="battery-percentage">48%</p>
+            <p class="battery-percentage"><%= battery %>%</p>
             <img src="/assets/signal-indicator.png" alt="signal-indicator" />
-            <p class="vnet">Vnet Active</p>
+            <p class="vnet">Vnet <%= vnet %></p>
           </div>
           <div class="d-flex align-items-center">
-            <div class="android-v">Android 13</div>
+            <div class="android-v">Android <%= androidver %></div>
             <div class="root-status">Not Rooted</div>
           </div>
           <br />
@@ -52,7 +53,7 @@
               <a href="http://localhost:3000/calllogs/" class="clickable">
                 <div class="status">Synced</div>
                 <div class="d-flex justify-content-center mt-3">
-                  <p class="num">10k</p>
+                  <p class="num">3k</p>
                 </div>
                 <div class="d-flex justify-content-end">
                   <p class="tag">Call logs</p>
