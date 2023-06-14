@@ -58,6 +58,4 @@ nodemon app.js
 
 ### Extra Ideas
 - [ ] image analysis on weapons and drugs
-- [ ] 
-
 
