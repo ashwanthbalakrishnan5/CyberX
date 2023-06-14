@@ -15,6 +15,9 @@ pip3 install -r requirements.txt
 
 # Installation Aaditya Side
 ```
+prereqsite - node.js -v19.0.0
+npm install
+nodemon app.js
 ```
 
 
